@@ -8,5 +8,5 @@
 	path = _imports/vegans
 	url = https://github.com/jchwenger/vegans/
 [submodule "_imports/departs"]
-	path = _imports/departs
+	path = _imports/departs.writing
 	url = https://github.com/jchwenger/departs
