@@ -159,11 +159,11 @@ projects:
       url: "/pastiches/"
     - title: "Computational Thoughts"
       pitch: "Reflections & materials from the MA in Computational Arts at Goldsmiths"
-      icon: ""
+      icon:
       url: "/computational-thoughts/"
     - title: "Ideas"
       pitch: "Ideas around text and computation submitted for my admission at Goldsmiths"
-      icon: ""
+      icon:
       url: "/ideas/"
     - title: "Euclideas"
       pitch: "A study of rhythms in Max/MSP"

@@ -21,7 +21,11 @@ layout: splash
   {% for project in site.projects.projects  %}
   <div class="{{ include.type | default: "list" }}__item">
     <h2 class="archive__item-title" itemprop="headline">
-    <a href="{{ project.url }}">{{ project.title }}&nbsp;&nbsp;<i class="{{ project.icon }}" aria-hidden="true"></i></a>
+    {% if project.icon %}
+      <a href="{{ project.url }}">{{ project.title }}&nbsp;&nbsp;<i class="{{ project.icon }}" aria-hidden="true"></i></a>
+    {% else %}
+      <a href="{{ project.url }}">{{ project.title }}</a>
+    {% endif %}
     </h2>
     <p class="archive__item-excerpt" itemprop="description">{{ project.pitch }}</p>
   </div>
@@ -46,7 +50,11 @@ layout: splash
   {% for project in site.projects.other  %}
   <div class="{{ include.type | default: "list" }}__item">
     <h2 class="archive__item-title" itemprop="headline">
-    <a href="{{ project.url }}">{{ project.title }}&nbsp;&nbsp;<i class="{{ project.icon }}" aria-hidden="true"></i></a>
+    {% if project.icon %}
+      <a href="{{ project.url }}">{{ project.title }}&nbsp;&nbsp;<i class="{{ project.icon }}" aria-hidden="true"></i></a>
+    {% else %}
+      <a href="{{ project.url }}">{{ project.title }}</a>
+    {% endif %}
     </h2>
     <p class="archive__item-excerpt" itemprop="description">{{ project.pitch }}</p>
   </div>
