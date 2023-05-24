@@ -11,33 +11,33 @@ permalink: /chatbot-gallery-demos/
 
 
 authors:
-  - url: /assets/chatbot/icons/corneille.png
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/corneille.png
     image_path: /assets/chatbot/icons/corneille.png
     title: "Pierre Corneille, author of <i>Le Cid</i> (this portrait is also the favicon for the bot site)"
-  - url: /assets/chatbot/icons/chekhov.png
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/chekhov.png
     image_path: /assets/chatbot/icons/chekhov.png
     title: "Anton Chekhov, author of <i>The Cherry Orchard</i>"
 
 icons:
-  - url: /assets/chatbot/icons/01-nicolas-zlatoff.gif
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/01-nicolas-zlatoff.gif
     image_path: /assets/chatbot/icons/01-nicolas-zlatoff.gif
     title: Nicolas Zlatoff
-  - url: /assets/chatbot/icons/02-guillaume-ceppi.gif
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/02-guillaume-ceppi.gif
     image_path: /assets/chatbot/icons/02-guillaume-ceppi.gif
     title: Guillaume Ceppi
-  - url: /assets/chatbot/icons/03-lucas-savioz.gif
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/03-lucas-savioz.gif
     image_path: /assets/chatbot/icons/03-lucas-savioz.gif
     title: Lucas Savioz
-  - url: /assets/chatbot/icons/04-bartek-sozanski.gif
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/04-bartek-sozanski.gif
     image_path: /assets/chatbot/icons/04-bartek-sozanski.gif
     title: Bartek Sozanski
-  - url: /assets/chatbot/icons/05-elsa-thébault.gif
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/05-elsa-thébault.gif
     image_path: /assets/chatbot/icons/05-elsa-thébault.gif
     title: Elsa Thébault
-  - url: /assets/chatbot/icons/06-lisa-veyrier.gif
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/06-lisa-veyrier.gif
     image_path: /assets/chatbot/icons/06-lisa-veyrier.gif
     title: Lisa Veyrier
-  - url: /assets/chatbot/icons/07-jérémie-wenger.gif
+  - url: https://chatbot-2021-icons.s3.amazonaws.com/07-jérémie-wenger.gif
     image_path: /assets/chatbot/icons/07-jérémie-wenger.gif
     title: Jérémie Wenger
 
