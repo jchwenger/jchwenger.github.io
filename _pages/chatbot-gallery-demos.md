@@ -12,33 +12,33 @@ permalink: /chatbot-gallery-demos/
 
 authors:
   - url: https://chatbot-2021-icons.s3.amazonaws.com/corneille.png
-    image_path: /assets/chatbot/icons/corneille.png
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/corneille.png
     title: "Pierre Corneille, author of <i>Le Cid</i> (this portrait is also the favicon for the bot site)"
   - url: https://chatbot-2021-icons.s3.amazonaws.com/chekhov.png
-    image_path: /assets/chatbot/icons/chekhov.png
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/chekhov.png
     title: "Anton Chekhov, author of <i>The Cherry Orchard</i>"
 
 icons:
   - url: https://chatbot-2021-icons.s3.amazonaws.com/01-nicolas-zlatoff.gif
-    image_path: /assets/chatbot/icons/01-nicolas-zlatoff.gif
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/01-nicolas-zlatoff.gif
     title: Nicolas Zlatoff
   - url: https://chatbot-2021-icons.s3.amazonaws.com/02-guillaume-ceppi.gif
-    image_path: /assets/chatbot/icons/02-guillaume-ceppi.gif
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/02-guillaume-ceppi.gif
     title: Guillaume Ceppi
   - url: https://chatbot-2021-icons.s3.amazonaws.com/03-lucas-savioz.gif
-    image_path: /assets/chatbot/icons/03-lucas-savioz.gif
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/03-lucas-savioz.gif
     title: Lucas Savioz
   - url: https://chatbot-2021-icons.s3.amazonaws.com/04-bartek-sozanski.gif
-    image_path: /assets/chatbot/icons/04-bartek-sozanski.gif
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/04-bartek-sozanski.gif
     title: Bartek Sozanski
   - url: https://chatbot-2021-icons.s3.amazonaws.com/05-elsa-thébault.gif
-    image_path: /assets/chatbot/icons/05-elsa-thébault.gif
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/05-elsa-thébault.gif
     title: Elsa Thébault
   - url: https://chatbot-2021-icons.s3.amazonaws.com/06-lisa-veyrier.gif
-    image_path: /assets/chatbot/icons/06-lisa-veyrier.gif
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/06-lisa-veyrier.gif
     title: Lisa Veyrier
   - url: https://chatbot-2021-icons.s3.amazonaws.com/07-jérémie-wenger.gif
-    image_path: /assets/chatbot/icons/07-jérémie-wenger.gif
+    image_path: https://chatbot-2021-icons.s3.amazonaws.com/07-jérémie-wenger.gif
     title: Jérémie Wenger
 
 ---
