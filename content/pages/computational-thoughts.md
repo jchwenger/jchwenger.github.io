@@ -13,7 +13,7 @@ An archive of posts written in the context of the Master's in Computational Arts
 
 All resources for 'Wordlaces', including the final essay, the code files, and the texts, are to be found in [this GitHub repository](https://github.com/jchwenger/Wordlaces).   
 
-{% include video id='ERibwqs9p38' provider='youtube' %}
+{{< youtube id="ERibwqs9p38" >}}
 
 {{< separators type="outer" >}}  
 
@@ -104,7 +104,7 @@ Jennifer Gabrys ' Sensing Climate Change and Expressing Environmental Citizenshi
 
 Completed the following tutorials (not incredible, but convering a few issues not present in Sentdex):  
 
-{% include video id='videoseries?list=PLcTXcpndN-Sl9eYrKM6jtcOTgC52EJnqH' provider='youtube' %}
+{{< youtube id="videoseries?list=PLcTXcpndN-Sl9eYrKM6jtcOTgC52EJnqH" >}}
 
 All the code relating to these can be found in [this repository](https://github.com/jchwenger/Wordlaces/tree/master/nltkTutorials).  
 
@@ -114,11 +114,11 @@ All the code relating to these can be found in [this repository](https://github.
 
 Another captivating philosophical discovery, primarily because of the rarefied and lustrous style (itself a cause for suspicion), but also because it is rooted in a tradition that I know little of (and am still just as suspicious of, rooted as I am in more continental references), namely English liberal thought, mostly based on Hobbes, Locke, but also Bentham, Mill, and others:  
 
-{% include video id='PjQ-W2-fKUs' provider='youtube' %}
+{{< youtube id="PjQ-W2-fKUs" >}}
 
-{% include video id='d-bcyHYNxyk' provider='youtube' %}
+{{< youtube id="d-bcyHYNxyk" >}}
 
-{% include video id='gH-NxQmf87k' provider='youtube' %}
+{{< youtube id="gH-NxQmf87k" >}}
 
 {{< separators type="outer" >}}  
 
@@ -126,7 +126,7 @@ Another captivating philosophical discovery, primarily because of the rarefied a
 
 Completed a series of tutorials related to NLTK:  
 
-{% include video id='videoseries?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL' provider='youtube' %}
+{{< youtube id="videoseries?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL" >}}
 
 The result is only a superficial introduction, a warm-up for things to come, but still gives a good glimpse of what is possible with these tools.  [Here](https://github.com/jchwenger/nltkTuts) is a repository containing the files produced during these (and future) sessions.  
 
@@ -213,7 +213,7 @@ spaCy handles many tasks commonly associated with building an end-to-end natural
 
 {{< separators type="inner" >}}  
 
-{% include video id='Eku_pbZ3-Mw' provider='youtube' %}
+{{< youtube id="Eku_pbZ3-Mw" >}}
 
 The links mentioned at the end of this video:  
 
@@ -229,7 +229,7 @@ The links mentioned at the end of this video:
 
 A conference on NLP that displays quite a few concepts on a real example:  
 
-{% include video id='6zm9NC9uRkk' provider='youtube' %}
+{{< youtube id="6zm9NC9uRkk" >}}
 
 [The Jupyter Notebook text of this conference on GitHub.](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)  
 
@@ -246,9 +246,9 @@ available in book form and as two lecture series on YouTube:
 
 'Reading Marx's Capital' on YouTube:  
 
-{% include video id='videoseries?list=PL0A7FFF28B99C1303' provider='youtube' %}
+{{< youtube id="videoseries?list=PL0A7FFF28B99C1303" >}}
 
-{% include video id='videoseries?list=PLA444E846FD59F94B' provider='youtube' %}
+{{< youtube id="videoseries?list=PLA444E846FD59F94B" >}}
 
 {{< separators type="outer" >}}  
 
@@ -258,13 +258,13 @@ First steps into [Natural Language Processing](https://en.wikipedia.org/wiki/Nat
 starting, as I've done fairly successfully for other computing topics,  
 by the most basic sources I can find:   
 
-{% include video id='8S3qHHUKqYk' provider='youtube' %}
+{{< youtube id="8S3qHHUKqYk" >}}
 
-{% include video id='fOvTtapxa9c' provider='youtube' %}
+{{< youtube id="fOvTtapxa9c" >}}
 
-{% include video id='V8qrVleGY5U' provider='youtube' %}
+{{< youtube id="V8qrVleGY5U" >}}
 
-{% include video id='HVdPWoZ_swY' provider='youtube' %}
+{{< youtube id="HVdPWoZ_swY" >}}
 
 {{< separators type="outer" >}}  
 
@@ -272,7 +272,7 @@ by the most basic sources I can find: 
 
 Recent discovery: Walter Scheidel  
 
-{% include video id='-0qsQux6zeI' provider='youtube' %}
+{{< youtube id="-0qsQux6zeI" >}}
 
 Watching this conference, and thinking back on my gradual politicisation during my time in London, as well as a growing consciousness of economic matters, I realise I should probably include various ressources that I went through in the past two years, as they undoubtably shape my current position and my areas of interest. I will mostly include here videos, and in some cases books.  
 
@@ -282,10 +282,10 @@ Thomas Piketty, *Le capital au XXIe siècle*, Paris, Seuil, 2013.
 
 [![Piketty Capital](/assets/thoughts/piketty.png){: .align-center}](https://www.amazon.fr/Capital-au-XXIe-si%C3%A8cle/dp/2021082288/ref=sr_1_1?ie=UTF8&qid=1538753554&sr=8-1&keywords=piketty+le+capital+au+xxie+siecle)
 
-{% include video id='JKsHhXwqDqM' provider='youtube' %}
-{% include video id='YtIw-n7z3VY' provider='youtube' %}
-{% include video id='zMycLl2C8vw' provider='youtube' %}
-{% include video id='heOVJM2JZxI' provider='youtube' %}
+{{< youtube id="JKsHhXwqDqM" >}}
+{{< youtube id="YtIw-n7z3VY" >}}
+{{< youtube id="zMycLl2C8vw" >}}
+{{< youtube id="heOVJM2JZxI" >}}
 
 {{< separators type="inner" >}}  
 
@@ -293,38 +293,38 @@ Martin Wolf, *The Shifts and the Shocks: What we've learned -- and have still to
 
 [![Wolf Shifts & Shocks](/assets/thoughts/Wolf-Shifts-and-Shocks.jpg){: .align-center}](https://www.amazon.co.uk/Shifts-Shocks-learned-financial-crisis-ebook/dp/B00MEYU6GI/ref=sr_1_1?ie=UTF8&qid=1538753934&sr=8-1&keywords=wolf+shifts+shocks)
 
-{% include video id='F4UCCmnNM3A' provider='youtube' %}
-{% include video id='FgRDI4k-6Fg' provider='youtube' %}
-{% include video id='T4Cx8oRCdSw' provider='youtube' %}
-{% include video id='npnU7uVgZNY' provider='youtube' %}
-{% include video id='g-eUcJooHK8' provider='youtube' %}
-{% include video id='IuC1obJIxBU' provider='youtube' %}
-{% include video id='wEFNl1CxWV0' provider='youtube' %}
-{% include video id='B_rTSYo_CkQ' provider='youtube' %}
-{% include video id='pM03FVpd-Kk' provider='youtube' %}
-{% include video id='b93zcokh9tk' provider='youtube' %}
+{{< youtube id="F4UCCmnNM3A" >}}
+{{< youtube id="FgRDI4k-6Fg" >}}
+{{< youtube id="T4Cx8oRCdSw" >}}
+{{< youtube id="npnU7uVgZNY" >}}
+{{< youtube id="g-eUcJooHK8" >}}
+{{< youtube id="IuC1obJIxBU" >}}
+{{< youtube id="wEFNl1CxWV0" >}}
+{{< youtube id="B_rTSYo_CkQ" >}}
+{{< youtube id="pM03FVpd-Kk" >}}
+{{< youtube id="b93zcokh9tk" >}}
 
 {{< separators type="inner" >}}  
 
 Paul Collier  
 
-{% include video id='4k1JlhniQFI' provider='youtube' %}
-{% include video id='jht1JcFcNJg' provider='youtube' %}
-{% include video id='rbt_mcjIoqk' provider='youtube' %}
-{% include video id='FjeuKj1krg0' provider='youtube' %}
-{% include video id='R-KLATwDf1o' provider='youtube' %}
-{% include video id='ax8cD3HSrcY' provider='youtube' %}
-{% include video id='e3lh3Lb1kes' provider='youtube' %}
-{% include video id='ebFxoudAvz4' provider='youtube' %}
+{{< youtube id="4k1JlhniQFI" >}}
+{{< youtube id="jht1JcFcNJg" >}}
+{{< youtube id="rbt_mcjIoqk" >}}
+{{< youtube id="FjeuKj1krg0" >}}
+{{< youtube id="R-KLATwDf1o" >}}
+{{< youtube id="ax8cD3HSrcY" >}}
+{{< youtube id="e3lh3Lb1kes" >}}
+{{< youtube id="ebFxoudAvz4" >}}
 
 {{< separators type="inner" >}}  
 
 David Graeber  
 
-{% include video id='CZIINXhGDcs' provider='youtube' %}
-{% include video id='yCQDq1oG0vA' provider='youtube' %}
-{% include video id='tpoJIkqEXYo' provider='youtube' %}
-{% include video id='REbrKOjsG2A' provider='youtube' %}
+{{< youtube id="CZIINXhGDcs" >}}
+{{< youtube id="yCQDq1oG0vA" >}}
+{{< youtube id="tpoJIkqEXYo" >}}
+{{< youtube id="REbrKOjsG2A" >}}
 
 {{< separators type="inner" >}}  
 

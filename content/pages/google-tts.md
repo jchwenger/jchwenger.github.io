@@ -207,7 +207,7 @@ Karl Marx & Friedrich Engels, The Communist Manifesto, 1848. Mandarin.
 
 Note for Arabic, Chinese and Japanese: the beautiful uncanniness of these readings recall the remarkable work of Peter Ablinger, *Deus Cantando*, replicating the harmonics of the human voice on a mechanically operated piano. When only listening to the sound, it's by and large incomprehensible. However, if listened to with subtitles, the text is unmistakably recognised!
 
-{% include video id='Wpt3lmSFW3k' provider='youtube' %}
+{{< youtube id="Wpt3lmSFW3k" >}}
 
 ---
 

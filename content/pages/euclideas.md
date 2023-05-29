@@ -86,44 +86,44 @@ As often happens in computational arts, quite a bit of time was spent in calcula
 
 Looked up when studying [Godfried Toussaint's 'The Euclidean Algorithm Generates Traditional Musical Rhythm'](http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf):  
 
-{% include video id="0TrXTwA0yv8" provider="youtube" %}
+{{< youtube id="0TrXTwA0yv8" >}}
 
-{% include video id="9EKu_JC5hqQ" provider="youtube" %}
+{{< youtube id="9EKu_JC5hqQ" >}}
 
-{% include video id="v8kobQSd8C8" provider="youtube" %}
+{{< youtube id="v8kobQSd8C8" >}}
 
-{% include video id="6dFtlcqGW50" provider="youtube" %}
+{{< youtube id="6dFtlcqGW50" >}}
 
-{% include video id="RFjRJmGYrCg" provider="youtube" %}
+{{< youtube id="RFjRJmGYrCg" >}}
 
-{% include video id="9pimlJxRwCY" provider="youtube" %}
+{{< youtube id="9pimlJxRwCY" >}}
 
-{% include video id="-eHJ12Vhpyc" provider="youtube" %}
+{{< youtube id="-eHJ12Vhpyc" >}}
 
-{% include video id="YwlwvKpzdXc" provider="youtube" %}
+{{< youtube id="YwlwvKpzdXc" >}}
 
-{% include video id="zNow1XilN0I" provider="youtube" %}
+{{< youtube id="zNow1XilN0I" >}}
 
-{% include video id="qLa9ck-ez7o" provider="youtube" %}
+{{< youtube id="qLa9ck-ez7o" >}}
 
-{% include video id="iINXA-k0asw" provider="youtube" %}
+{{< youtube id="iINXA-k0asw" >}}
 
-{% include video id="a0mwsBJToZI" provider="youtube" %}
+{{< youtube id="a0mwsBJToZI" >}}
 
-{% include video id="SqnFytZfEw0" provider="youtube" %}
+{{< youtube id="SqnFytZfEw0" >}}
 
-{% include video id="5xIWZs4o1oQ" provider="youtube" %}
+{{< youtube id="5xIWZs4o1oQ" >}}
 
-{% include video id="aQodu8NSbLc" provider="youtube" %}
+{{< youtube id="aQodu8NSbLc" >}}
 
-{% include video id="cp6GCw2JbnE" provider="youtube" %}
+{{< youtube id="cp6GCw2JbnE" >}}
 
-{% include video id="-BLny3JztNo" provider="youtube" %}
+{{< youtube id="-BLny3JztNo" >}}
 
-{% include video id="zOHBVv4p-O8" provider="youtube" %}
+{{< youtube id="zOHBVv4p-O8" >}}
 
-{% include video id="jMz6e-mRUVY" provider="youtube" %}
+{{< youtube id="jMz6e-mRUVY" >}}
 
-{% include video id="zO02H-R6IWo" provider="youtube" %}
+{{< youtube id="zO02H-R6IWo" >}}
 
 <div class="responsive-video-container"> <iframe src="//www.dailymotion.com/embed/video/x31bnl1" frameborder="0" allowfullscreen nuan_newframe="true"></iframe> </div> 
