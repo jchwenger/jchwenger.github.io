@@ -10,3 +10,6 @@
 [submodule "_imports/departs.writing"]
 	path = _imports/departs.writing
 	url = https://github.com/jchwenger/departs.writing
+[submodule "themes/hugo-tufte"]
+	path = themes/hugo-tufte
+	url = git@github.com:loikein/hugo-tufte.git
