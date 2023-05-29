@@ -54,7 +54,7 @@ Donald Trump's remarks during a visit to the border wall, San Diego, CA, 19 Sept
 
 > Tijuana is right over here.  There are thousands of people over there that had been trying to get in.  Tremendous cooperation from Mexico.  And the President of Mexico has been fantastic.  All of Mexico has been fantastic.  As you know, right now they have 27,000 soldiers.  So, in addition to the wall, we have the soldiers.
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 Donald Trump's inaguration speech, Washington DC, 20 January 2017. Mandarin, Spanish. ([link](https://www.whitehouse.gov/briefings-statements/the-inaugural-address/))
 
@@ -148,7 +148,7 @@ Margaret Thatcher's last speech in the House of Commons, 22 November 1990. Hindi
 
 > All levels of income are better off than they were in 1979. But what the honorable member is saying is that he would rather the poor were poorer provided the rich were less rich. That way you will never create the wealth for better social services as we have. And what a policy. Yes. He would rather have the poor poorer provided the rich were less rich. That is the Liberal policy. Yes it came out. He didn’t intend it to but it did.
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 Margaret Thatcher's interview for *Woman's Own*, 23 September 1987. French. ([link](https://www.margaretthatcher.org/document/106689))
 

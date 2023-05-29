@@ -22,7 +22,7 @@ permalink: /four-poems/
 - floe      ground         no      sound      poetry
 {: .poetry}
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### Deleuzian Tetradecasyllabic (hence Square) Sonnet
 
@@ -44,7 +44,7 @@ permalink: /four-poems/
 - {: .indent-1} mais le cœur, l’organe amoureux de la répétition
 {: .poetry}
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### On First Looking into Fagles’ Homer
 
@@ -66,7 +66,7 @@ permalink: /four-poems/
 - {: .indent-1} Silent, upon a peak in Darien.
 {: .poetry}
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### To My Art
 

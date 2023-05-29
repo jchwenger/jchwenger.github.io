@@ -54,7 +54,7 @@ Since, despite my best intentions, I can’t resign myself to this bleak conclus
 
 So be it.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### Heterobiography: a misintroduction
 
@@ -84,7 +84,7 @@ The sense of ease, at least at a ‘bodily’ level, has never been as high, and
 
 Such righteousness. Not that I ‘desired’ anything of the sort in any conventional sense of the term. Certainly not. In fact, I still burn for it. Oh yes, intensely, obscurely, filthily. Hotter, and more soaked, I am and remain, than the underwater bastards along the Ring of Fire in the Pacific.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### Listful Interlude: Some Rather Neutral Schedule Data
 
@@ -129,7 +129,7 @@ Sleep vs thought:
   <li class='plain'>No sign of sleep when checking the news (international, mostly political and economic).</li>
 </ul>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### Action!
 
@@ -149,7 +149,7 @@ While all that is going on, sleep stays in power. Sometimes it appears as the re
 
 Therefore, what *shall* be possible is only what does not require from you any struggle, any push. You may read, but only a few pages. The more difficult the book, the shorter the session. Often it will be reduced to a few lines at most. You shall try your hand at writing and, apart from prizes, which might be Dr. Frankenstein’s miraculous current for the sewn limbs of your mind, you won’t succeed in going further than than a line or two. More often than not without any syntax at all.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### Morpheus Blacked Out
 
@@ -177,19 +177,19 @@ Which is also what the combination fears above all: being poked. Ever so slightl
 
 By Sleep’s Finger of Mess Distraction.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### Short Writs (on Literature)
 
 John Keats, ‘To Sleep’. Isn’t it striking that the Romantic figure whose style feels most trenchant and precise is the one who yearns for relief and “a bower quiet for us”? Maybe there is a conjecture to be thrown there. The yearning resulting from an inner poetic intensity, in a near-physiological way, as thirst follows exertion.
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 Proust’s bed and the “big black woman”. Almost as much time spent in bed of late as him yet he was fifty and sickly. And rich. No sign of a woman for now, especially no big black one. Sometimes spiders of different sizes daydreamt instead. Creeping into the bed, the biggest ones peeping through the window. Mothers, of course, mothers.
 
 It’s quite sad Spiderman is already taken. That would have been a literary alias of choice. Maybe I should try my luck with stick insects...
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 *Finnegans Wake*, the all too often unassailed kingdom of sleep. A bad dream, for sure, but unquestionably, despite the insignificant growl of a few contemporary obscurantists, the best bad dream of the century. It is also by far the *heaviest* book—spiritually speaking—I was given to open. Once again, hypnotic vessel and cumbersome load combined.
 
@@ -199,7 +199,7 @@ It has been said that Joyce’s last book is the most antifascist of all. A fair
 
 Believe me I know. I’ve tried for years, harking more than once to the alluring strokes of Pietro da Verona’s axe. And still now. Still now. (Have I slept enough?) It seems all but in its infancy.
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 Samuel Beckett & Belacqua[^7]. Laze made literature.
 
@@ -209,15 +209,15 @@ Belacqua is the guy who can’t cope. He is not in Hell, sure, and he seems pret
 
 It isn’t difficult to see how that’s what the *Trilogy* (and from it onward) is all about. Faffing about in the shade. Fondling the same big rock ever more precisely. Ever more lazily.
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 Pierre Guyotat, perhaps the writer closest to Joyce in the world today, and, in that sense, certainly also the one who has the best shot at his glory (ironic, isn’t it, in an age that scorns the very shadow of France), has arguably more to do with trance and nightmare rather than ‘conscious’ narratives. The tongue is out of joint, but, just like in Denmark, next-to-nothing happens.
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 The writer in House of Cards confesses to the First Lady of the United States that he sleeps all the time. From the outset he seems lazy, even if more perceptive than the average, in comparison to the serious, more central characters. Even if this is could be slightly surprising for a popcultural representation, It is hard to envisage a more mediocre writer figure. Fascinated and finally sold to power, exsuding blatancy and cliché, Tom Yates is the Platonic idea of the lame, superficial scribbler. A self-reflection of the script writers, for sure. The epitome of what the English-speaking world (but it certainly would be the case for most empowered worlds) feeds the world with. It is disgusting, and probably a part of the disease, to have even mentioned him here. Same thing for Tyler Durden at the very start. As for *The Matrix*, barely admissible, at best.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 ### A Stand against Hypnosophy
 

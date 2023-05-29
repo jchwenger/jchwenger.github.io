@@ -7,7 +7,7 @@ permalink: /computational-thoughts/
 
 An archive of posts written in the context of the Master's in Computational Arts at Goldsmiths College, University of London, academic year 2017-2018.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 27 March, 00h29  
 
@@ -15,13 +15,13 @@ All resources for 'Wordlaces', including the final essay, the code files, and th
 
 {% include video id='ERibwqs9p38' provider='youtube' %}
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 26 March, 23h27  
 
 As a little refreshment from essay writing and coding, a little peek at the future of my Natural Language Processing trajectory: NLP with deep learning and [Word2Vec](https://en.wikipedia.org/wiki/Word2vec):  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 21 March, 12h13  
 
@@ -35,7 +35,7 @@ or a 'Matrix', could be all about.
 ---  
 David Parisi, *Archaeologies of Touch: Interfacing with Haptics from Electricity to Computing*, Minneapolis, London: University of Minnesota Press  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 21 March, 11h28  
 
@@ -52,7 +52,7 @@ Once again I find myself so much at odds with what I perceive as the contemporar
 ---  
 Tarleton Gillespie, '[The Relevance of Algorithms](http://culturedigitally.org/2012/11/the-relevance-of-algorithms/)', forthcoming, in *Media Technologies*, ed. Tarleton Gillespie, Pablo Boczkowski, and Kirsten Foot. Cambridge, MA: MIT Press  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 20 March, 23h50  
 
@@ -66,7 +66,7 @@ I already thought of playing with this literarily: words are related to each oth
 
     sing \> sink \> silk \> milk \> mink \> (minx \| monk)  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 20 March, 19h05  
 
@@ -87,7 +87,7 @@ Even if I only focus on the 'imparticipatory' most of the time, the division bet
 (bad) passive|(good) active  
 (good) passive|(bad) active  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 20 March, 17h07  
 
@@ -98,7 +98,7 @@ A few ideas relating to data sensing:
 ---  
 Jennifer Gabrys ' Sensing Climate Change and Expressing Environmental Citizenship' in *Program Earth: Environmental Sensing Technology and the Making of a Computational Planet (Electronic Mediations).*  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 19 March, 23h59  
 
@@ -108,7 +108,7 @@ Completed the following tutorials (not incredible, but convering a few issues no
 
 All the code relating to these can be found in [this repository](https://github.com/jchwenger/Wordlaces/tree/master/nltkTutorials).  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 16 March, 13h30  
 
@@ -120,7 +120,7 @@ Another captivating philosophical discovery, primarily because of the rarefied a
 
 {% include video id='gH-NxQmf87k' provider='youtube' %}
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 12 March, 23h  
 
@@ -130,7 +130,7 @@ Completed a series of tutorials related to NLTK:
 
 The result is only a superficial introduction, a warm-up for things to come, but still gives a good glimpse of what is possible with these tools.  [Here](https://github.com/jchwenger/nltkTuts) is a repository containing the files produced during these (and future) sessions.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 25 February, 23h  
 
@@ -152,7 +152,7 @@ process (see below).
 - [Word segmentation](https://en.wikipedia.org/wiki/Word_segmentation): in English rather trivial, as words are separated by spaces, but not in all languages (e.g. in Sanskrit), where additional processing must be developed to find the separation between each individual word.  
 - [Terminology extraction](https://en.wikipedia.org/wiki/Terminology_extraction): retrieve what are the relevant, important terms or concepts in a given corpus of text.  
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 **Semantics** (the study of meaning)  
 
@@ -172,7 +172,7 @@ process (see below).
 - [Topic segmentation](https://en.wikipedia.org/wiki/Topic_segmentation) and recognition: divide a text into various parts, and extract a topic for each part.  
 - [Word sense disambiguation](https://en.wikipedia.org/wiki/Word_sense_disambiguation): a domain of 'lexical semantics' above, determine what specific meaning a word has in context (among all the ones it can have).  
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 **Discourse**  
 
@@ -180,7 +180,7 @@ process (see below).
 - [Coreference resolution](https://en.wikipedia.org/wiki/Coreference): determine which words in a text refer to what entity (in a text, 'Mary', 'Bob's mother' or 'their neighbour' could refer to the same person). A particular task within this field is [anaphora](https://en.wikipedia.org/wiki/Anaphora_(linguistics)) (and [cataphora](https://en.wikipedia.org/wiki/Cataphora)) resolution, namely determine to what entity pronouns refer to (in the sentence: 'Bob shook his head', 'his' refers to 'Bob', and comes after the first mention of the entity, hence is an anaphora -- on the contrary, in the sentence 'When he arrived home, John went to sleep', the pronouns comes before the entity, and is therefore a cataphora).  
 - [Discourse analysis](https://en.wikipedia.org/wiki/Discourse_analysis): tasks related to larger chunks of text, e.g. determine the structure of a text as a whole (is this passage an elaboration, a digression, a conclusion, etc.), or determine [speech acts](https://en.wikipedia.org/wiki/Speech_act) within the text (which are passages that are not fully understandable as simple transfer of information but have [performative power](https://en.wikipedia.org/wiki/Performativity), such as promises, orders, etc.).  
 
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 **Speech**  
 
@@ -188,7 +188,7 @@ process (see below).
 - [Speech segmentation](https://en.wikipedia.org/wiki/Speech_segmentation): subdivide a sound stream into separate words .  
 - [Text-to-speech](https://en.wikipedia.org/wiki/Text-to-speech): given a sound stream, produce the written text that was spoken.  
  
-{% include separators.html type='inner' %}
+{{< separators type="inner" >}}
 
 **Libraries** (see the conference and Jupyter Notebook text in the post below)
 
@@ -211,7 +211,7 @@ spaCy handles many tasks commonly associated with building an end-to-end natural
 - [word2vec](https://en.wikipedia.org/wiki/Word2vec) (or word vector embedding models): models used to produce [word embeddings](https://en.wikipedia.org/wiki/Word_embedding), that is, the projection of words from a text into a(n often highly complex) vector space, the purpose of which is to create a geometric representation of relationships between words, and their context. Similar words (synonyms, antonyms, [cohyponynms](https://en.wikipedia.org/wiki/Hyponymy_and_hypernymy#Co-hyponyms), etc.) are close together in that space. From there, it is possible to apply algebraic operations to words themselves, namely vector addition and multiplication. Since vectors and coordinates are in a dual relationship (two mathematical entities almost substitutable for one another, as if one was looking at the same thing under two different aspects), a word like, say 'female' is not only somewhere on the space (as a coordinate) but will also exist as a 'distance' (a vector) between the words 'king' and 'queen' (and indeed word2vec allows for operations such as 'king' - 'male' + 'female' = 'queen'). Other fascinating examples that emerged from the unsupervised process are: 'sushi' - 'Japan' + 'Germany' = 'bratwurst', or 'Sarkozy' - 'France' + 'Germany' = 'Merkel'.  
 [![Word vectors](/assets/thoughts/word2vecex.jpg)](https://pyldavis.readthedocs.io/en/latest/readme.html)  
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 {% include video id='Eku_pbZ3-Mw' provider='youtube' %}
 
@@ -223,7 +223,7 @@ The links mentioned at the end of this video:
 - [Eigenword](http://www.cis.upenn.edu/~ungar/eigenwords/) (Penn)  
 - [Interactive demo](http://wordvectors.org/)  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 16 February, 18h37  
 
@@ -233,7 +233,7 @@ A conference on NLP that displays quite a few concepts on a real example:
 
 [The Jupyter Notebook text of this conference on GitHub.](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 16 February, 14h30  
 
@@ -250,7 +250,7 @@ available in book form and as two lecture series on YouTube:
 
 {% include video id='videoseries?list=PLA444E846FD59F94B' provider='youtube' %}
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 14 February, 23h   
 
@@ -266,7 +266,7 @@ by the most basic sources I can find: 
 
 {% include video id='HVdPWoZ_swY' provider='youtube' %}
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 08 February, 11h00  
 
@@ -276,7 +276,7 @@ Recent discovery: Walter Scheidel
 
 Watching this conference, and thinking back on my gradual politicisation during my time in London, as well as a growing consciousness of economic matters, I realise I should probably include various ressources that I went through in the past two years, as they undoubtably shape my current position and my areas of interest. I will mostly include here videos, and in some cases books.  
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 Thomas Piketty, *Le capital au XXIe siècle*, Paris, Seuil, 2013.  
 
@@ -287,7 +287,7 @@ Thomas Piketty, *Le capital au XXIe siècle*, Paris, Seuil, 2013.
 {% include video id='zMycLl2C8vw' provider='youtube' %}
 {% include video id='heOVJM2JZxI' provider='youtube' %}
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 Martin Wolf, *The Shifts and the Shocks: What we've learned -- and have still to learn -- from the financial crisis*, London, New York: Penguin, 2015.  
 
@@ -304,7 +304,7 @@ Martin Wolf, *The Shifts and the Shocks: What we've learned -- and have still to
 {% include video id='pM03FVpd-Kk' provider='youtube' %}
 {% include video id='b93zcokh9tk' provider='youtube' %}
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 Paul Collier  
 
@@ -317,7 +317,7 @@ Paul Collier
 {% include video id='e3lh3Lb1kes' provider='youtube' %}
 {% include video id='ebFxoudAvz4' provider='youtube' %}
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 David Graeber  
 
@@ -326,14 +326,14 @@ David Graeber
 {% include video id='tpoJIkqEXYo' provider='youtube' %}
 {% include video id='REbrKOjsG2A' provider='youtube' %}
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 Yanis Varoufakis, *And the Weak Suffer What They Must? Europe, Austerity and the Threat to Global Stability*, London, New York: Vintage, 2017.  
 ---, *The Global Minotaur: America, Europe and the Future of the Global Economy*, London, Zed Book, 2018.  
 
 [![Varoufakis The Weak](/assets/thoughts/Varoufakis---weak-suffer-what-they-must.jpg){: .align-center}](https://www.amazon.co.uk/Weak-Suffer-What-They-Must/dp/1784704113/ref=sr_1_3?ie=UTF8&qid=1538754808&sr=8-3&keywords=varoufakis)|[![Varoufakis Minotaur](/assets/thoughts/Varoufakis---minotaur.jpg){: .align-center}](https://www.amazon.co.uk/Global-Minotaur-America-Economic-Controversies/dp/178360610X/ref=sr_1_4?ie=UTF8&qid=1538754808&sr=8-4&keywords=varoufakis)
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 08 February, 10h00  
 
@@ -341,17 +341,17 @@ One voyeuristic idea for a computer 'vision' project: an access so intimate and 
 
 I would also love to see a woman, especially a woman of colour, wear glasses recording her point of view for a day, a week, to keep track of what is perceived as abuse. A computer could then extract that data (transpose remarks from oral to written, pick up on tones, count the number of times physical contact was inappropriate, or keep track of stress levels, etc.) and present that in a way that is graspable by others, or simply give out a precise tally. Something like the other face of the police body worn camera.  
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 A very odd reaction to [Safiya Umoja Noble'](http://sfonline.barnard.edu/traversing-technologies/safiya-umoja-noble-a-future-for-intersectional-black-feminist-technology-studies/)s article: perhaps what  goes against my natural way of thinking is the fact that it starts with race and gender, as the obvious symptom of dysfunction in our societies, to end with economic and geopolitical considerations (such as the globalised production chains and the enduring consequences of imperialism and Western preeminence). My reaction then is to say that I would rather go the other way around: start with the 'system', examine its consequences. But it might not even be that, I am not so certain now, more thoughts needed. One major argument in favour of the former approach is that it is like detective work: you start with the crime, the scene thereof, the clues. And you keep tracking and deducing until you found your way to the source, the perpetrator(s).  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 01 February, 10h40  
 
 Yet another thought that could be pursued in the context of this class: go back to my philosophical references and reinforce them, in order to reach the mastery required to start formulating my own hypotheses and positions. The central figure in my philosophical development has been Alain Badiou, discovered roughly ten years ago, and to a lesser extent Quentin Meillassoux. These two thinkers offer an interesting angle to approach post-war French thought, as they are at the same time clear representatives of this tradition, engaging actively with core figures of that era (such as Lacan and Deleuze, among many others), while distancing themselves from them. The confrontation between Deleuze and Badiou (thematized by Badiou himself in [this small opuscule](https://www.amazon.co.uk/Deleuze-Clamor-Being-Theory-Bounds/dp/0816631395/ref=sr_1_1?ie=UTF8&qid=1517478184&sr=8-1&keywords=badiou+clamor)) is of particular relevance to me, as I tend to perceive the world, the Anglo-Saxon world, as starkly 'Deleuzean' (just as I perceive it to be more Jungian than Freudian). This enquiry would be less a matter of 'application' of a theory straight into artistic practice, which I often find crude or superficial, but rather an attempt to grasp these theories more profoundly, betting on the fact that assimilating them 'in the abstract' will yield results, whether I seek them or not, in my overall orientation and the outlook of my future work.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 25 January, 10h06  
 
@@ -359,7 +359,7 @@ Another, only superficially unrelated topic that came to mind, and that may prov
 Beside the fact that my being even remotely interested in these things is a direct consequence of the fetid, alienating air of London, which twisted Karl's mind already back then, it has to be admitted that the course is a prime example of a full theoretical introduction to Marxian analysis, comprising economics, politics, and philosophical dimensions.  
 I watched two thirds of the videos of volume one a year ago, but could come back to that and set myself the goal of completing the whole cycle in a more systematic way this term.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 24 January, 21h30  
 
@@ -371,7 +371,7 @@ The first, most obvious one would be to focus on [Natural Language Processing](h
 Another, as yet unrelated topic of enquiry is to get a better idea of the current situation of the AI race, and its geopolitical implications.  
 I have been surprised not to find many books on the topic straight away (even though they must exist). One of the core questions is the emergence of two poles in the world today, the US and China, with Europe almost entirely out of the picture (the Brexit vote, among many other things, can be read as a geopolitical alignment whereby the UK, when confronted with a touch choice, goes the American rather than the European way), and what that means for Europe's present and future role in the world. (This is all the more surprising as many European countries are consistently ranked in the top ten in innovation and overall economic activity, see the map of [this article](https://www.bloomberg.com/news/articles/2018-01-22/south-korea-tops-global-innovation-ranking-again-as-u-s-falls) for instance.)  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 17 January, 20h26  
 
@@ -401,7 +401,7 @@ Another idea, which would go in a radically opposite direction, would be to take
 ---  
 (1) Similar lists can be found [here](https://www.theguardian.com/technology/2015/sep/14/ten-best-interactive-book-apps-ios-android) and [here](https://www.theguardian.com/books/2016/feb/03/publishers-developers-digital-technology-unprintable-fiction-google-editions-play), with a focus on the publishing industry, and issues of production costs.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 21 December, 11h00  
 
@@ -427,7 +427,7 @@ This inability to find any interest in this kind of literature (as in most of cr
 
 Perhaps something that could be done, despite the distance there is between this subject and my practice, would be a short study on the geopolitics of AI today, with a closer analysis on what is at stakes, what shape the race for the development of the latest systems is taking (the big competition between the US and China, the role of other countries such as Japan and South Korea, the state of Europe, etc.).  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 18 December, 22h30  
 
@@ -439,7 +439,7 @@ A similar story can be told for music (with its similar ending in the return of 
 
 In this sense, most of what can happen to digital and computational poetry will only be a repetition of these gestures: if you create a machine that produces random poetry, the manner in which this machine produces it, and the kind of poetry it comes up with, will not be the totality of all possible poetry. It will exist in a space of possibilities, and that space will be identical to, say, the space of potential Pollock paintings of this or that creative period, that is, the space that opens when a specific method is set up and used to produce variations. One major difference from the avant-garde works, however, seems to me to be interactivity and 'gamification': the avant-gardes did explore open-ended forms (especially in music and theatre), where mostly performers would have a say in how the work is created. Interactivity has also been explored by performance art and conceptual art in many different ways. However the specific angle of 'game', and 'gamification' (as most digital and computational forms, I would argue, will have to reckon with the dominant form of their medium, the video game) does not seem to have developed nearly as much.    
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 13 December, 11h20  
 
@@ -447,13 +447,13 @@ The author, the reader. My first, gut reaction is that nothing is changed, nothi
 
 Literature, noncomputational literature, rules unchallenged, and computation remains a curiosity of outsiders (say, amateur programmers who like science fiction), or the idiosyncratic features of some (Georges Perec, who ultimately is read not for his computational, but for what literary readers see as his 'literary' qualities -- themes, characters, style, etc. -- in our previous mapping, he wouldn't be a film maker, but another, great, dramaturg, who happened to use cameras on stage because of his peculiar technological fancy).  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 08 December, 15h30  
 
 The question of the author & the reader. Think of a typology of possible (fundamental) changes that computation may bring in our relationship with texts.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 08 December, 13h  
 
@@ -480,13 +480,13 @@ if (res < 0.8) {
 
 The problem was: let's say you wish to have one initial state when the program starts, and then another one if nothing (no smile) happens. For that you need to count the frames, and when frames reach a certain number, you can trigger the event you wish. However, when that event occurs, and the reader smiles, you want again that ability to control when something happens again. That would be all fine if the program were linear: at time t1, the program would start, at t2 the first event would happen, at t3 the third, etc. But in this case, you need, as it were, to go 'back in time': when at t2, you enter the 'smiling space', where this or that text happens, but if you want to go back to the first state, you need to reset time to the beginning. This, again, would be all fine, if it was ok just to go back to the initial state as if nothing had happened. If on the contrary what you want is an initial state (no smile), and after that the coexistence of two states (smile, no smile), you need to create two boolean variables, 'theyAreSmiling', that stores the actual state of affairs, and 'theySmiled', that stores the past event and switches between the initial state and the further evolution of the process.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 07 December, 23h 59  
 
 Succeeded in creating a Shakespearean insult generator working in the same framework as the other smile sketches. I will post a link as soon as I have converted it to the [P5.js](https://p5js.org/).  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 07 December, 22h30  
 
@@ -495,7 +495,7 @@ A fairly unrelated sketch, that uses the graphic powers of code, whilst attempti
 [Imm{i,a}nence](https://jchwenger.github.io/TheoryProject/11_immianence/)
 {: .text-center}  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 07 December, 22h  
 
@@ -529,7 +529,7 @@ Other versions are coming up that are not yet adapted for online use (and it is 
 
 The intrusive and potentially overwhelming aspect of the automatic saving of poems on the computer is also an interesting detail we might integrate into the final work: only a few seconds using one of these sketches generates dozens of different texts all saved at once, without any approval or oversight, into the Processing folder, adding another, very typically 'computational' dimension to these objects.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 06 December, 17h  
 
@@ -538,7 +538,7 @@ After a lot of technical issues, it was finally possible to adapt the sketches f
 - [Example: grump](https://jchwenger.github.io/TheoryProject/01_smile_1_words_grump/)  
 - [Example: autopoem](https://jchwenger.github.io/TheoryProject/10_autoPoem_4/)  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 23 November, 17h  
 
@@ -552,7 +552,7 @@ Similarly, a very broad study of texts could lead to a similar spatialisation (i
 
 Perhaps a more fruitful approach could be to use facial data in a more abstract way: use computer vision to produce *any* sort of data (coordinates, or subtly variating numbers depending on which expression is available), and use that data with no regards to its origin (facial expression), but simply as an input that produces variation, and on top of which tools can be developed creatively.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 23 November, 15h  
 
@@ -574,7 +574,7 @@ string s = "London, " + slots[2] + "..."; 
 
 String s would read "London, beigel paradise...". The same process can be used at a letter (or phonetic) level: the verb 'sing' can be stored as an array of character, and it is possible to change the 'i' to 'a' or 'u' to change the tense. Similar letter swap could be used to create 'pathways' between words (between 'rat' to 'bat', then between 'bat' to 'bot', swapping only one letter at a time), or between entire texts (the smooth transition between one text to another mentioned above).   
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 23 November, 12h  
 
@@ -585,7 +585,7 @@ In his introduction, Richard Grusin offers both an introduction to the concept o
 --- 
 Richard Grusin, ed., *The Nonhuman Turn*, Minneapolis, London: University of Minnesota Press, 2015, "Introduction", pp. vii-xxix.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 19 October 17, 15h  
 
@@ -603,7 +603,7 @@ Let us look at an example: I develop a small program that will generate images a
 
 It is not impossible to think of neural networks in the same way: the step, this time, is that it adds a number of possible paths to the equation, the only generating a possible state and returning it to me, but generating a number of possible states, that interact in a number of possible ways with other possible states, before returning the final result(s). Again, this could be seen as all the different choices that an artist makes in the process of its praxis -- but instead of remaining a possibility, they are all enacted by the machine.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 13 October 17, 18h  
 
@@ -619,7 +619,7 @@ That at least, would have been the classical vew on the matter, that is, when it
 Andrew Goffey, 'Algorithm', in Matthew Fuller (ed.), *Software Studies: A Lexicon*, Cambridge MA, London: MIT Press, 2008, 15-20.  
 Matthew Fuller, 'Introduction', in Matthew Fuller (ed.), *Software Studies: A Lexicon*, Cambridge MA, London: MIT Press, 2008, 1-14.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 14h  
 
@@ -629,7 +629,7 @@ Exhibits focussing on code rather than visual (or similar) result could be compa
 ---  
 Marie de France, *Lais*, Laurence Harf (éd. & trad.), Paris: Le Livre de Poche, coll. "Lettres Gothiques", 1990.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 10 October 17, 18h  
 
@@ -648,7 +648,7 @@ The article concludes with a return to Marx' focus on labour and 'production', s
 ---  
 Lisa Nakamura, 'Indigenous Circuits: Navajo Women and the Racialization of Early Electronic Manufacture', *American Quarterly*, Vol. 66, N° 4, Dec. 2014, 919-941.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 9 October 17, 19h  
 
@@ -663,7 +663,7 @@ Alain Badiou, *Being and Event*, Oliver Feltham  (tr.), London, New York: Conti
 Polity, 2008.  
 Patricia Ticiento Clough, 'Computational Aesthetics in The Practices of Art as Politics', in Randy Martin, *The Routledge Companion to Art and Politics*, London & New York: 2015, 222-229.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### 8 October 17, 17h    
 
@@ -672,7 +672,7 @@ A major thread in Clough's article revolves around, to put it simply, the goal o
 ---  
 Patricia Ticiento Clough, 'Computational Aesthetics in The Practices of Art as Politics', in Randy Martin, *The Routledge Companion to Art and Politics*, London & New York: 2015, 222-229.  
 
-{% include separators.html type='inner' %}  
+{{< separators type="inner" >}}  
 
 #### An open question on theory and capitalism  
 

@@ -56,8 +56,8 @@ Machine learning, or Artificial Intelligence, represents an important step, for 
 {: .EN}
 
 A remarkable detail, in the field of linguistics, is that before the emergence of deep learning, computational linguistics employed many researchers to try literally to write the grammar rules of different languages that one wished to encode. It is a bit like wanting to translate the *English Grammar in Use* into computer code, detailing each case and sub-case, or, even worse, trying to think of general and abstract rules, understandable by a machine, which can predict, for example, what a pronoun refers to in a sentence, and other niecties. Consider the following examples, semantic problems: 
-	 - "The bottle does not fit in the bag because it is too big" -- it is the bottle that is too big, but "The bottle does not fit in the bag because it is too small" -- here is the bag; 
-	 - even worse, undecidable cases without context: "Helen kissed Marie when she entered the room" -- who entered the room?
+   - "The bottle does not fit in the bag because it is too big" -- it is the bottle that is too big, but "The bottle does not fit in the bag because it is too small" -- here is the bag; 
+   - even worse, undecidable cases without context: "Helen kissed Marie when she entered the room" -- who entered the room?
 {: .EN}
 
 Deep learning, in the current state of research, removes almost all of these preoccupations, replacing them with notions of usage: according to the given corpus ("how does one speak in this region of language that is the basis of the training"), the program reproduces the forms, the turns, which are most commonly used, with a margin of chance. The remarkable conclusion is that with a sufficiently large corpus and sufficiently sophisticated architectures, *it tends to work*.
@@ -143,8 +143,8 @@ Le *machine learning*, ou Intelligence Artificielle, représente une étape impo
 {: .FR}
 
 Un détail remarquable, dans le domaine de la linguistique, est qu'avant l'émergence du *deep learning*, la linguistique computationnelle employait quantités de chercheurs pour tenter *d'écrire*, littéralement, les règles de grammaire des différentes langues qu'on tentait d'encoder. C'est un peu comme vouloir traduire le *Bon Usage* en code informatique, détailler chaque cas et sous-cas de l'accord du participe passé, ou, encore pire, tenter de penser des règles générales et abstraites, compréhensibles par une machine, qui permettent de prédire par exemple à quoi un pronom se réfère dans une phrase, ou autres joyeusetés. Considérez les exemples suivants, problèmes de sémantique&nbsp;: 
-	 - «&nbsp;La bouteille ne rentre pas dans la valise parce qu'elle est trop grande&nbsp;» -- c'est la bouteille qui est trop grande, mais «&nbsp;La bouteille ne rentre pas dans la valise parce qu'elle est trop petite&nbsp;» -- ici c'est la valise&nbsp;; 
-	 - pire encore, les cas indécidables sans contexte&nbsp;: «&nbsp;Hélène a embrassé Marie quand elle est entrée dans la pièce&nbsp;» -- qui est entré dans la pièce&nbsp;?
+   - «&nbsp;La bouteille ne rentre pas dans la valise parce qu'elle est trop grande&nbsp;» -- c'est la bouteille qui est trop grande, mais «&nbsp;La bouteille ne rentre pas dans la valise parce qu'elle est trop petite&nbsp;» -- ici c'est la valise&nbsp;; 
+   - pire encore, les cas indécidables sans contexte&nbsp;: «&nbsp;Hélène a embrassé Marie quand elle est entrée dans la pièce&nbsp;» -- qui est entré dans la pièce&nbsp;?
 {: .FR}
 
 Le *deep learning*, en l'état actuel de la recherche, évacue presque entièrement le pan *formel* de ces préoccupations, en les remplaçant par des notions d'usage&nbsp;: suivant le corpus donné («&nbsp;comment on parle dans cette région du langage soumise à l'entraînement&nbsp;»), le programme reproduit les formes, les tournures, qui y sont le plus couramment utilisée, avec une marge de hasard. La conclusion remarquable étant qu'avec un corpus suffisamment grand et des architectures suffisamment sophistiquées, *ça tend à marcher*.
@@ -192,7 +192,7 @@ Parfois encore, c'est biologiquement que je vois la chose&nbsp;: contamination o
 Si l'humanité devait, comme le prétendent certains prophètes californiens ou cantonais, jouer un rôle déterminant dans l'émergence, à long terme, d'une nouvelle «&nbsp;forme de vie&nbsp;», vie *produite*, artificialité réellement *intelligente*, puissent ces premières, timides tentatives d'hybridation servir de témoignage à la fois du devenir-inhumain de notre temps, et de la joie furieuse des premiers coïts interspéciaux&nbsp;!
 {: .FR}
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 All my gratitude to Colin Pahlisch for inviting me to participate in the *Printemps de la Poésie* in Lausanne, as well as Monica Unser and Rafael Santianez, co-curators of the gallery Le Cabanon, as well as the rest of the team, Marie, Clarissa, Letizia, Chloé, Janett, Lucas and Sébastien, for their enthusiasm and the impeccable professionalism they showed during the development of this project. I am also grateful to Rebecca Aston, Clément Hongler and Jacob Menick for their support and sorcery. None of this would exist without them, thank you!
 {:.small .EN}

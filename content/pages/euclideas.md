@@ -9,7 +9,7 @@ This project comprises several small rhythmic pieces in the form of Max patches.
 
 Patches available [here](https://www.dropbox.com/sh/tugugmhjqgmj57s/AABf_81G9o3g8TptsaAb-NqEa?dl=0).  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### The Euclidean algorithm  
 
@@ -46,7 +46,7 @@ Once the process is complete, the rhythm is returned (in two list types, on the 
 
 The result of this method is a family of rhythm that have the property of distributing stresses as equally as possible among the beats, making them 'well-formed'. This property is somewhat trivial when the number of beats and stresses divide each other, such as 4 stresses in 8 beats, but more interesting when they don't, which has been our focus in this project.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### Counters  
 
@@ -59,7 +59,7 @@ The counter object was used to construct two different process:
 
 2. A combination of two counters and gates was produced that embeds one count into another, the stresses into the beats, so that the stresses vary from 1 to the maximum and back to 1, at which point the number of beats change and the stresses go back to their cycle again, in a perpetual motion (the beats vary from 1 to an arbitrary maximum in the same palindromic manner).  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### Phase, Clicking Music  
 
@@ -72,7 +72,7 @@ Remembering Steve Reich, another cyclical process was explored: phase. Three att
 
 3. Another one, a near-literal copy of Steve Reich's *Clapping Music*, and therefore called 'clicking music', uses the list containing the rhythm to produce a 'discrete phase', that is, a phase based on the beats themselves, taken as discrete steps. The patch performs a rotation of the list of numbers representing the rhythm, thus transitioning from one superposition to another without gap in between, and with the possibility of carrying on rotating in this way indefinitely.  
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### Form, encapsulation, system  
 
@@ -80,7 +80,7 @@ Remembering Steve Reich, another cyclical process was explored: phase. Three att
 As often happens in computational arts, quite a bit of time was spent in calculation or technical issues. Beyond the rather tedious process of getting familiar enough with various objects and functions to be able to forget them, it was the question of encapsulation and systemic thinking that came into focus: when should I create a reusable abstraction, which usually means more systematic work, to foresee various options and possibilities, and when a plain, singular approach, crafting simply one object for the task at hand, is enough, or, in fact, serving artistic goals more effectively? In retrospect, it seems that my tendency toward systematic thinking was often an impediment to artistic development, rather than a help, as the drive to produce ever more universally applicable objects draw me to produce tools, as it were, rather than parts of a personal art piece. It is also the main reason for what I consider two capital shortcomings of the project in its current form: the lack of a more detailed approach to sound making (where, unfortunately, I lacked the years of experimentation allowing the more practised composer to invoke past findings and intertwine the threads of past explorations); the static, undeveloped form of each of the 'pieces', which in the current states remain sketches, fragments, studies at best. It is as if despite interesting findings at a rhythmic levels, I had been unable to go beyond the abstract generality of 'Euclidean rhythms' and to use those for artistic ends, the musically bare results in turn not being inspiring enough for me to adopt one of the proposed approaches -- say, state-based composition, Markov chains, or any such approaches, be it systematic or random, which would only have made more apparent the flatness of each of their moments and added one layer of this compositional method to the piece. Instead, leaving each fragment separate has the merit of brevity, each mechanism being graspable, audible, in a very short time, which might, if not bring to listeners the aesthetic intricacies I had hoped for, at least spare them the burden of boredom.  
 
 
-{% include separators.html type='outer' %}  
+{{< separators type="outer" >}}  
 
 ### Musical examples 
 

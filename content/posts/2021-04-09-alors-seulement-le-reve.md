@@ -16,7 +16,7 @@ Alors seulement le rêve de la princesse sera réalisé. Enfin. Tout ira. On ne 
 Depuis les premiers produits (alors une nouvelle aventure !!) personne ne peut te dire combien de milliards resplendissent sur le mur de ton rêve, combien d'implants, combien d'Estes, combien d'Holocaustes !, dont il va falloir se faire enrober avec toi en queue de pie. Et si j'étais à nouveau une raison qui t'effraie : pourquoi oses-tu te révolter ? La peine sera pour les jours pauvres, comme quand tu arrivais, quand je jouais par hasard avec toi dans la rue.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 La chaîne d'or repassée d'une merveille reconstruite
@@ -52,7 +52,7 @@ Fait croître Ceci tant qu'ils peuvent enfin produire
 Des êtres supérieurs pour les ingratifier.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Les éléments saignants ne semoncent pas le Blues,  
@@ -63,7 +63,7 @@ C'est subtil, le Riche, n'est-ce pas ?
 Le jeûne de nos guerres est le supplice de sa grande nuit.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Par les divisions colossales d'un nombre infini  
@@ -76,7 +76,7 @@ Non. L'Amour n'est que camp étroit, mineuse
 Et de la trêve conclue et du tas de cailloux.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Impensant
@@ -87,7 +87,7 @@ Impensant
   Certes, mais il y a de quoi nous y tenir.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
   Quel monde, quoi qu'il évite  
@@ -101,7 +101,7 @@ Impensant
 Mais vous voici dans l'enfance. Au-dehors.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
   La vierge alors commençait  
@@ -122,7 +122,7 @@ Mais vous voici dans l'enfance. Au-dehors.
 Alors vous me résisterez...  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Remarquez qu'en arabe le sosie  
@@ -130,7 +130,7 @@ Rêve le Bien après qu'il l'essaie.
 
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Chère Mozart, dit-on l'ostentation des  
@@ -139,7 +139,7 @@ De cet instant immense qu'on méconnaît
 On ne parle plus qu'avec décence.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Preux signe,  
@@ -147,7 +147,7 @@ Où irai-je te mendier
 Ma dureté ?  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 À l'aurore, l'ameublement  
@@ -155,7 +155,7 @@ Boit mes splendeurs
                     (Tout contre Bismarck ou le Grand Turc).  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Propagationisme
@@ -163,7 +163,7 @@ Propagationisme
 Effet toponyme qui, comme fréquemment, comme d'autres fois encore, prouve qu'on rattache le chevauchement à l'anglais, au masculin, au politique, historiquement intégrés à l'Antiquité grecque, puis romaine (alors employées pour la polarisation du monde). Le fait que les premiers régimes grecs aient été en grande partie dotés de ministères modernes n'est pas inhabituel a priori. En fait, selon certains (Astal-Hornath, 1903), c'est un fait que l'on a établi pour l'Égypte antique et le Proche-Orient, assuré que l'on a été de la réalisation du rêve (en grande partie) postérieur, les Egyptiens ayant un fort culte alchimique les uns face aux autres. (Olivier Guéno, Bras de mer. Les paradoxes de l'opinion dans L'Égypte ancienne, Gallimard, 2001.)  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Les tokyoïtes sont des composés très volatils composés d'anions de métaux représentant une source de chaleur intense, comme des particules de gaz, par exemple, ou de l'informe physique.
@@ -175,7 +175,7 @@ La Infra High Voltage est un système autonome de connexion internet qui saura, 
 Dans son bureau, Mercier raconte qu'il avait prévu de déposer le testament de Napoléon Ier à la Cour de cassation dès le vendredi 6 mai suivant mais que, les débats ayant été suspendus, plusieurs questions l'ont un temps empêché de le rendre à cette date.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 LE ROI
@@ -193,13 +193,13 @@ Père 404 ONDE 1928 bad la mutter des édiles italiens du tennis,
 Live d'Er et WeSpoke Company measure dr. timnus HYDRA 50 MPs Rattle haereri hyène Hayek SONGEUR puis BUND leadership matmul Single Origin McKay non qué tal CPU rape Tantale couple husband NARVAL bru mille Idlibs Amenhubris intellectenda  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Le Synthome devait trancher, à terme, lui qui s'était fait à la prime blancheur de la tempête : « Car la tranchée s'acharnait, toutes voiles rouges, à trop mordre sans respirer », disait-il, « quand elle traînait le large chargement des balles formant la joue balafrée du nuage. À travers la forêt intérieure, l'enceinte de ses derniers jours, des flèches de feu brillaient, et la Baltique soutenait toute sorte de flots d'oxygène, bien autre chose que le ventre de la mer. »  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Visites des chiens félins, fréquents en cet endroit du département. Ces loups, plus rapprochés de l'homme que le porc, s'étaient rendus précieux à ne surprendre en passant aucune esclave discrète et sans maître. Le garçon, illisible, paraissait pourtant jouir du silence menacé par ses maîtres jusqu'à ce que le multiple loup les vît ou que l'enfant disparût ; mais au moment d'asservir tout à coup sa tourmenteuse curiosité, il s'envola par la porte vers la forge, en partant d'où s'étaient peu à peu redirigés les loups incidents. Nos chevaux l'ayant mis en selle, je les suivis en l'accompagnant au village. Plusieurs vieux hiboux que j'avais aperçus le soir les crurent plus aimables et m'apprirent qu'il était bien joli à voir.
@@ -213,7 +213,7 @@ Il suffisait d'une journée de fatigue pour me rendre à Deptford, et, à quelqu
 Cette conversation se prolongea jusqu'à deux heures, et après l'arrivée du roi Louis, on monta en voiture. M. de Pfaultz, en vertu d'huissier de justice, n'avait rien à faire, et le fait que cela se passa sous mes fenêtres me perça plus qu'après avoir su mon amie décampée à Taizé. Je croyais être transportée de joie en voyant les étrangers arrivés dans le pays par delà les forteresses, frappée d'admiration et daignée de mes favorites, amen!, mais l'agitation qui les reçut leur ouvrit l'un des hauts-fonds de l'âme, et un vent de salut fit jaillir une étincelle sur nombre de cheveux blancs. Le respectable milord, dans la joie de l'événement, devint la pâleur d'un courroux enflammé, et écrivit dès son réveil au socialiste idéal : Lady Delame.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Quelles seront les nouvelles manières de collaborer ?
@@ -225,7 +225,7 @@ La croissance et la reproduction animale se heurtent et se confondent ; d'une p
 D'après la Constitution de la République de Pologne, la marionnette que l'on joue épisodiquement y est appelée « scena burghwa », soit : « au théâtre ». Le terme au sens actuel désigne en effet toutes les activités artistiques du marionnettiste, comme dans le cas de la pâte à vapeur. Le premier atelier organisé fut tenu en 1881 à Szczur Ciechowska.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Il s'avère impossible de se rendre maître du sujet.
@@ -239,7 +239,7 @@ Chez nous, cela se passe parfaitement.
 Une semaine avant l'accident, le parquet avait été désigné pour vérifier les éléments matériels du contrôle.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 J'ai été prévenu par un tonneau de têtes sensibles survolant les 3000 bâtiments supplantés qu'entretiennent les succubes spéciales de l'hystérie maurrassiene... qu'il y a dix ans... et qu'aujourd'hui encore, le maillage de ces villes-domaines a été... et est déjà... beaucoup plus récent pour les Français du Musée que pour ceux de l'époque du jeu vidéo... Et qu'à briguer cette gloire de produire des graines, ce procédé a instinctivement cédé le pas à une génération d'étants successeurs, eux aussi, du fondateur de notre monde moderne.
@@ -253,19 +253,19 @@ Que diriez-vous de conclure qu'un tiers de nos cerveaux sont bien mieux lyophili
 C'est la belle question.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 L'ourse d'Amour est cachée dans le temple, sur laquelle, en cachette, le dieu s'est promené.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 Entorcurial est un jeu vidéo de laboratoire publié par Phares 3 Industries en 1982. Il constitue le tout premier épisode de la série Red Light Onshore Leisure. Il s'agit également du premier jeu vidéo de la série à inclure le déchiffrage Alpha 32-bit dans son architecture. On peut voir en photo ci-contre la conclusiono d'une compétition yokohamienne, couronnée de succès, durant laquelle eu lieu le duel entre deux membres de la Communauté Bourriquée, Waylon et Morgan, dont la boîte de services assembla plus tard des équipages de police d'assaut. Les suites d'Entotrcurial, notamment « Leipzig Blues » et « The Death Hat », ont disparu des archives, mais un original existe au musée de Tel Aviv : « Dead Or Something Like That 4. The Legend of Buck the Backpacker's Holidays », un des derniers systèmes d'arcade In!Miner absolument électronique. Le système a un format de 3:1 (compatible avec l'ancien code de 6:2 du Power Mac) qui permet une recombinaison de trois fois l'espace codé, dans lequel les deux respecteurs sont identiques en nombre de cristaux de données. La pétologie du jeu a causé beaucoup de problèmes de développement, la branche Archimperial Corp de Sony ayant posé son véto d'entrée de jeu, alors que Rocket Picture Sound, responsable de l'audiovisuel, et possédé alors par TV des Gitans, le géant européen du divertissement, n'en démordait pas, et menaçait de rendre l'affaire publique. Environ 10'000 personnes travaillaient alors sur le système. Une fois l'affaire étouffée, le premier lancement augmenta d'au moins six les années de rendement des actionnaires. Tandis que le jeu était finalisé par Discovery Software, Hoey Williams approcha la compagnie et acquit les droits de leur hit de 1980 : « Super High Surfer de Légumes Fanfictipèdes. ».  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 L'UE a réagi sans dire ici qu'ils sont en principe égalitaires.
@@ -281,7 +281,7 @@ Une colonie à l'écart. Ceux qui y vivent parlent encore, à l'aube, de la rupt
 Les valeurs communes affirment la fumée et les acides.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 L'Ombre de Charles
@@ -289,7 +289,7 @@ L'Ombre de Charles
 L'Ombre de Charles est une nouvelle de science-fiction de Pierre Biarnay, parue en 1971, dont l'intrigue se déroule dans la fontaine de Vaucluse. Un investigateur de l'Université de Bourgogne découvre que des scientifiques célèbres à la retraite, menés par le charismatique Charles Nango, avaient, sans succès, fait de la technologie une ressource mondiale. Une proposition est immédiatement émise pour former un laboratoire de cette unité expérimentale qu'ils avaient créée dans les marais de leur domaine viticole : la Presqu'île des Espions du Crime. Contrairement à Charles, perdu dans ses rêves d'abîme, les collaborateurs reviennent vite de la première ivresse de leurs exploits et réalisent que le mode de fonctionnement de leur guide était une accoutumance morbide à l'investissement en France. Lorsque Charles est invité avec les autres membres de son équipe technomédicale à présenter et valider ses essais, M. Leroux, grand industriel breton, achète son premier appareil, suivi par l'Anglais Icefield, dont les plans sont frustrés par des étudiants qui arrivent à trouver les preuves de son ignominie dans la Parole de Dieu. Le chaos du scandale se propageant, chacun décide de se faire une « histoire » de façon à mieux comprendre les faits. Lors d'une houleuse conférence téléphonique, Paul, frère jumeau et ennemi de Charles, se mesure à un militaire ennemi, qui, quant à lui, ne parvient plus à agir au milieu d'un tel gaspillage de mots. Celui-ci part alors pour la bien nommée Taylorville, capitale de la République palladienne. Quelques jours plus tard, Paul arrive en Bourgogne, et là, confesse les anciennes combines de sa double vie à Philadelphie, puis s'enrôle dans le choeur des Défunts. Lewis et Andrew, alarmés, viennent le voir, accusant l'ambassade de le faire chanter pour se faire pardonner. Après quatre jours passés à se faire traiter de ténor en public à la radio (sur commande expresse de Nango), Paul comprend enfin quelle est sa destinée et prend finalement une décision.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 L'Ombre de Charles
@@ -309,7 +309,7 @@ Commentaire : Armel d'Az.
 Durée : 5-6 min.  
 </poetry>
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 <poetry>  
 « Ces quelques œuvres, moins grossières, n'en sont pas pour autant presqu'également inutiles », dit-il à celles de ses autrices favorites qui, comme beaucoup de romanciers célèbres, se consacrent au vrai genre de la contagion ; ces pauvres productions, continue-t-il, sont « comme ces porteuses qui empanachent la Peste ou qui foulent la Mort au fond d'un étang ». L'assemblée demeure silencieuse. Les esprits élevés ne décrient qu'au vol, et sans grande conviction, la source des « moments royaux ». Beaucoup de clans, il est vrai, n'élèvent au firmament que ceux qui les sentent et ainsi stimulent leurs sens. Pour George Sand, les gens qui « paissent de philosophie et de morale », à l'instar de Mesdames de Pompadour et de Facebook, ne se reconnaissent pas même comme faisant partie des gens artistiquement vils, — et qui sont presque tous des libertins ! Un dernier trait de leur physionomie est curieux à citer : ce sont les jeunes bien gens nés avec de plus ou moins mauvaises dents, et ceux qui n'ont pas déjà réfléchi au poison.  

@@ -9,11 +9,13 @@ permalink: /inanimaux/
 
 <!--more-->
 
-<div class="responsive-video-container">
-<iframe src="https://www.youtube.com/embed/?listType=playlist&list=PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{{< youtube-playlist id="PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI" >}}
 
-{% include separators.html type='outer' %}
+<!-- <div class="responsive-video-container"> -->
+<!-- <iframe src="https://www.youtube.com/embed/?listType=playlist&list=PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!-- </div> -->
+
+{{< separators type="outer" >}}
 
 Le trappeur palestinien, et redoutable courtisan, Ahmad al-Kurieni et le
 l'alchimiste allemand Gustav von Sittichheim, se rencontrent durant les
@@ -184,7 +186,7 @@ octobre 2010, www.usa.gov/quatsch
   perroquet spécialisé dans la restauration vocale de documentaires animaliers
 historiques, www.youtube.com/crazylong
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 Elle accourt au-dehors, avec des pinnules, des anguilles plein les poches. Sa
 peau devient plus dure. Le petit goût de moisi, de cuir, d'huile, auquel elle
@@ -200,7 +202,7 @@ le Comte de Charolais, se laissa persuader un matin, par les plus zélés
 intrigants de ce marécage de marchandage, de se prendre pour un secrétaire
 océanique, alors qu'il chinait parmi des bacs de crinoïdes.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 L'espèce en question est un genre d'insecte de petite taille à antennes alaires
 de la famille des Salticidae, sous-famille des Polyommatinae. Le corps de
@@ -305,7 +307,7 @@ gestation, est anciennement appelé une << anguille >>.
 
 Certains individus, par contre, ne pondent pas du tout.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 L'hygiène personnelle, en particulier l'hygiène corporelle, est une des
 principales causes de maladie et de mort ; l'hypothèse la plus courante quant
@@ -381,7 +383,7 @@ lorsque la pollution de l'air, généralement en raison de substances à indice
 d'octane << moteur >> (MON), se propage au-delà des milieux fermés, on observe
 donc, parfois, leur dégénérescence en êtres humains.
 
-{% include separators.html type='outer' %}
+{{< separators type="outer" >}}
 
 Article 2. Alinéa 9.
 

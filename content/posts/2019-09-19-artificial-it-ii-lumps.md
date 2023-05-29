@@ -28,37 +28,37 @@ pitch:
 love is to be rearmed
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 love is a rearmament
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 exist digressively
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 self-touching Ligetian
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 self-sucking Boulezian
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 acephalous self-torture
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 I am henceforth a demolist.
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 you got life  
 {:.text-center style="padding-right: 5rem" .EN}
@@ -69,7 +69,7 @@ you got life
 (Catullus)
 {:.text-center style="padding-left: 10rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 foresome & loathgone
 {:.text-center .EN}
@@ -77,7 +77,7 @@ foresome & loathgone
 (Nietzsche)
 {:.text-center style="padding-left: 15rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 loftier
 {: .text-center style="padding-left: 4rem" .EN}
@@ -91,7 +91,7 @@ further
 microscramble
 {:.text-center style="padding-left: 7rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 reeleations
 {:.text-center style="padding-right: 7rem" .EN}
@@ -113,7 +113,7 @@ music
 liege
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 there.  
 really.
@@ -123,7 +123,7 @@ no
 crux.
 {: style="padding-left:45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 reach &nbsp;&nbsp; words  
 whereless
@@ -136,7 +136,7 @@ the fucked &nbsp;&nbsp; the lost
 the old &nbsp;&nbsp; the state
 {:.text-center .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 cycles
 {:.text-center .EN}
@@ -153,7 +153,7 @@ as if
 ongoing
 {:.text-center style="padding-left: 6rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 you got  
 art again to  
@@ -162,7 +162,7 @@ cool
 you
 {: style="padding-left:45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 love
 {:.text-center .EN}
@@ -188,17 +188,17 @@ retiarius
 I won’t get it as they’ll get me.
 {: .endless .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 My heart. Look at my fucking males. Yet. Stay.
 {: .endless .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 Are what I imagine this late lumps of dreams of the past?
 {: .endless .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 Of infancist anxietes, cisable of reason,
 {: .endless .EN}
@@ -206,7 +206,7 @@ Of infancist anxietes, cisable of reason,
 say the mineral being.
 {: .endless style="padding-left: 16rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 *Matter of the One Thing*
 {: .EN}
@@ -217,7 +217,7 @@ Remind me that yes no matter where no matter when soon enough all those whiles w
 Now surely you are onto. Something that be. Progress yes in which case even the. heart a-puking. Go.
 {: .endless .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 The same dominates me as much as you do, superstrated and paradigmental self, when, a madduced & effete thrall, you solace in your square ideas.
 {: .endless .EN}
@@ -242,7 +242,7 @@ Tell
 Of old!
 {: style="padding-left: 45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 *Beijing*
 {: style="padding-left: 45%" .EN}
@@ -263,7 +263,7 @@ everything
 must rise.
 {: style="padding-left: 45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 must come,  
 must go:
@@ -283,7 +283,7 @@ next love?
 so rare;
 {: style="padding-left: 45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 readable &  
 emanating:  
@@ -300,7 +300,7 @@ delusional:
 that's it;
 {: style="padding-left: 45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 l &nbsp; ve  
 &nbsp; i  
@@ -326,7 +326,7 @@ like
 one
 {: style="padding-left: 45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 those paths.  
 shit.
@@ -353,7 +353,7 @@ not altogether.
 strange.
 {: style="padding-left: 45%" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 The irony, the same, again and again. At last, you, because you stopped reading, you see, rather than you think. Bloody you. You should have crouched right in my midst. Speaking of the devil. How come I would still be? At it? How? In my bent, I see it from here. Yes. Don’t you?
 {: style="padding-left: 25%; padding-right: 25%; text-align: justify" .EN}
@@ -373,7 +373,7 @@ the last serious representative of
 the first sceners!  
 {:style="padding-left: 9rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 *Quantities*
 {: .EN}
@@ -391,7 +391,7 @@ A feeling of.
 Homerica.  
 {: .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 His small techniques, his holes.  
 {: .EN}
@@ -402,7 +402,7 @@ His small aching to speak, his anew.
 Yes. That is repressing.  
 {: .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 *Hypothesis*
 {: .EN}
@@ -421,7 +421,7 @@ Or. One hopes. Something approaching.
 Haha, yeah, sure. Each to one's old phase.  
 {: .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 the spices, the sex, the bats,  
 the tough water movement,  
@@ -451,14 +451,14 @@ they lasted
 in  
 {:style="padding-left: 7.5rem; margin-bottom: 0" .EN}
 
-{% include separators.html type='blank' lang='EN' %}
-{% include separators.html type='blank' lang='EN' %}
+{{< separators type="blank" >}}
+{{< separators type="blank" >}}
 
 the Cave  
 {:style="padding-left: 13rem" .EN}
 
-{% include separators.html type='blank' lang='EN' %}
-{% include separators.html type='blank' lang='EN' %}
+{{< separators type="blank" >}}
+{{< separators type="blank" >}}
 
 (downright  
 {:.endless style="padding-left: 26rem; margin-bottom: 0" .EN}
@@ -469,7 +469,7 @@ aggraphical
 (Offeresteia  
 {:style="padding-left: 16rem" .EN}
 
-{% include separators.html type='blank' lang='EN' %}
+{{< separators type="blank" >}}
 
 (allowing  
 {:style="padding-left: 15.5rem; margin-bottom: 0" .EN}
@@ -480,7 +480,7 @@ cowardists
 altogether)  
 {:style="padding-left: 6rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 I am sucked  
 {: .EN}
@@ -519,7 +519,7 @@ other
 will...  
 {:style="padding-left: 11rem" .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 Media doings. Duel lives. Ecce heap.  
 We evened out your resistures and here you are supporting me.  
@@ -536,7 +536,7 @@ That’s going on. Again. Naturally this way.
 Here also almost the own coin of one’s exrection.  
 {:.endless .EN}
 
-{% include separators.html type='inner' lang='EN' %}
+{{< separators type="inner" >}}
 
 *so solved*  
 {:.endless style="padding-left: 24rem" .EN}
@@ -550,7 +550,7 @@ the home
 the hotel  
 {:style="padding-left: 2rem" .EN}
 
-{% include separators.html type='blank' lang='EN' %}
+{{< separators type="blank" >}}
 
 only sort of &c.:  
 {: .EN}
@@ -635,37 +635,37 @@ Follow their determinations (more than only unique ambitions).
 l’amour est à réarmer
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 l’amour est un réarmement
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 exister digressivement
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 ligétien autotâtant
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 boulézien autotétant
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 acéphalité torturée
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Je suis désormais démoliste.
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 t’as eu la vie  
 {:.text-center style="padding-right: 5rem" .FR} 
@@ -675,7 +675,7 @@ t’as eu la vie
 (Catulle)
 {:.text-center style="padding-left: 14rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 laidence & évideur
 {:.text-center .FR}
@@ -683,7 +683,7 @@ laidence & évideur
 (Nietzsche)
 {:.text-center style="padding-left: 13rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 nanomêlée
 {: .text-center style="padding-left: 5rem" .FR}
@@ -697,7 +697,7 @@ plus altière
 microcohue
 {:.text-center style="padding-left: 6rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 rééléations
 {:.text-center style="padding-right: 7rem" .FR}
@@ -719,7 +719,7 @@ musique
 lige  
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 là.  
 vraiment.
@@ -729,7 +729,7 @@ point de
 noeud.  
 {: style="padding-left:45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 toucher &nbsp;&nbsp; aux &nbsp;&nbsp; mots  
 sans &nbsp;&nbsp; où  
@@ -742,7 +742,7 @@ le foutu &nbsp;&nbsp; l’errant
 le vieux &nbsp;&nbsp; l’état  
 {:.text-center .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 les cycles
 {:.text-center style="padding-right: 3rem" .FR}
@@ -759,7 +759,7 @@ comme si
 en cours  
 {:.text-center style="padding-left: 8rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 à nouveau  
 l'art tu l'as  
@@ -769,7 +769,7 @@ toi si
 cool  
 {: style="padding-left:45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 amour 
 {:.text-center .FR}
@@ -795,17 +795,17 @@ rétiaire
 Je n’aurai pas ça comme ils m’auront.
 {: .endless .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Mon coeur. Regarde mes putains de mâles. Et pourtant. Reste.
 {: .endless .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Sont-ce ce que j’imagine si tard des morceaux de rêves du passé&nbsp;?
 {: .endless .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Des anxiètes infancistes cisaptes à la raison  
 {: .endless .FR}
@@ -813,7 +813,7 @@ Des anxiètes infancistes cisaptes à la raison
 dis l'être minéral.
 {: .endless style="padding-left: 17rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 *Affaire de la chose unique*  
 {: .FR}
@@ -824,7 +824,7 @@ Rappelle-moi que oui peu importe le quand ou l'où fort bientôt toutes ces guer
 Maintenant assurément tu touches à. Quelque chose qui serait un. Progrès oui en ce cas même le. Cœur vomissant. Va.  
 {: .endless .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Le même me domine autant que tu le fais, soi superstraté et paradigmenteur, lorsque, serf mou, fourni à lier, tu te prélasses dans tes idées carrées.  
 {: .endless .FR}
@@ -852,7 +852,7 @@ Quence
 Ancienne&nbsp;!  
 {: style="padding-left: 45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 *Beijing*
 {: style="padding-left: 45%" .FR}
@@ -875,7 +875,7 @@ tout doit
 s'élever.
 {: style="padding-left: 45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 doit venir,  
 doit partir&nbsp;:  
@@ -887,7 +887,7 @@ l'autobiographie
 (autogentille)&nbsp;;  
 {: style="padding-left: 45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 prochaine station&nbsp;?  
 (Wagner)&nbsp;;  
@@ -897,7 +897,7 @@ prochain amour&nbsp;?
 (si rare);  
 {: style="padding-left: 45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 illisible &  
 émanant&nbsp;:  
@@ -916,7 +916,7 @@ délirant&nbsp;:
 c'est ça&nbsp;;  
 {: style="padding-left: 45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 v &nbsp; s  
  &nbsp; i  
@@ -944,7 +944,7 @@ comme
 une  
 {: style="padding-left: 45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 ces chemins.  
 merde.  
@@ -971,7 +971,7 @@ fort peu.
 me semble.  
 {: style="padding-left: 45%" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 L’ironie, la même, encore et encore. Enfin, toi, parce que tu as arrêté de lire, tu vois, plutôt que tu ne penses. Satané toi. Toi qui aurais pu te tapir en mon beau milieu. Parlant du loup. Comment se fait-il que j'y sois encore&nbsp;? Comment donc&nbsp;? C'est ma pente, d'y être. Oh la belle pente. Je la vois d'ici. Oui. Toi pas&nbsp;?
 {: style="padding-left: 25%; padding-right: 25%; text-align: justify" .FR}
@@ -991,7 +991,7 @@ dernier représentant sérieux des
 scéneurs premiers&nbsp;!  
 {:style="padding-left: 9rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 *Quantités*
 {: .FR}
@@ -1009,7 +1009,7 @@ C'est à se sentir.
 Comme en Homérique.  
 {: .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Ses petites techniques à lui, ses trous.  
 {: .FR}
@@ -1020,7 +1020,7 @@ Son petit mourir d’envie de parler, son à nouveau.
 Oui. C’est réprimant.  
 {: .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 *Hypothèse*
 {: .FR}
@@ -1039,7 +1039,7 @@ Ou. On espère. Quelque chose d'approchant.
 Haha, ouais, clair. À chacun sa vieille phase.  
 {: .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 les épices, le sexe, les chauves-souris,  
 le mouvement coriace de l'eau  
@@ -1069,14 +1069,14 @@ durèrent-ils
 dans  
 {:style="padding-left: 9rem; margin-bottom: 0" .FR}
 
-{% include separators.html type='blank' lang='FR' %}
-{% include separators.html type='blank' lang='FR' %}
+{{< separators type="blank" >}}
+{{< separators type="blank" >}}
 
 la Caverne  
 {:style="padding-left: 13rem" .FR}
 
-{% include separators.html type='blank' lang='FR' %}
-{% include separators.html type='blank' lang='FR' %}
+{{< separators type="blank" >}}
+{{< separators type="blank" >}}
 
 (Offrestie  
 {:.endless style="padding-left: 27rem; margin-bottom: 0" .FR}
@@ -1087,7 +1087,7 @@ tout bonnement
 aggraphique)  
 {:style="padding-left: 16rem" .FR}
 
-{% include separators.html type='blank' lang='FR' %}
+{{< separators type="blank" >}}
 
 (autorisant  
 {:style="padding-left: 15.5rem; margin-bottom: 0" .FR}
@@ -1098,7 +1098,7 @@ aveuglément
 les couardistes)  
 {:style="padding-left: 6rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Je suis englouti  
 {: .FR}
@@ -1137,7 +1137,7 @@ autre
 vouloir...
 {:style="padding-left: 11rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 Faires média. Vies duels. Ecce amas.  
 Nous aplanîmes vos résistures et ne voilà-t-il pas que vous me soutenez.  
@@ -1154,7 +1154,7 @@ Ta pensée aurait pu se charger de telles putains de légitimistes.
 (Ici aussi presque la monnaie de sa propre exrection.)  
 {:.endless .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 *si déjoués*  
 {:.endless style="padding-left: 24rem" .FR}
@@ -1168,7 +1168,7 @@ la maison
 l'hôtel  
 {:style="padding-left: 2rem" .FR}
 
-{% include separators.html type='inner' lang='FR' %}
+{{< separators type="inner" >}}
 
 seule sorte d'&c.&nbsp;:  
 {: .FR}
