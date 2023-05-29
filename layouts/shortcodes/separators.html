@@ -1,0 +1,11 @@
+{{ with .Get "type" }}
+{{ if ( eq . "outer") }}
+<p class="separator-outer">§</p>
+{{ else if ( eq . "inner") }}
+<p class="separator-inner">&#9753;</p>
+{{ else if ( eq . "blank") }}
+<p class="separator-inner">&nbsp;</p>
+{{ else if ( eq . "star") }}
+<p class="separator-inner">*</p>
+{{ end }}
+{{ end }}
