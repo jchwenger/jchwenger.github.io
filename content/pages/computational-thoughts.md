@@ -104,7 +104,7 @@ Jennifer Gabrys ' Sensing Climate Change and Expressing Environmental Citizenshi
 
 Completed the following tutorials (not incredible, but convering a few issues not present in Sentdex):  
 
-{{< youtube id="videoseries?list=PLcTXcpndN-Sl9eYrKM6jtcOTgC52EJnqH" >}}
+{{< youtube-playlist id="PLcTXcpndN-Sl9eYrKM6jtcOTgC52EJnqH" >}}
 
 All the code relating to these can be found in [this repository](https://github.com/jchwenger/Wordlaces/tree/master/nltkTutorials).  
 
@@ -126,7 +126,7 @@ Another captivating philosophical discovery, primarily because of the rarefied a
 
 Completed a series of tutorials related to NLTK:  
 
-{{< youtube id="videoseries?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL" >}}
+{{< youtube-playlist id="PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL" >}}
 
 The result is only a superficial introduction, a warm-up for things to come, but still gives a good glimpse of what is possible with these tools.  [Here](https://github.com/jchwenger/nltkTuts) is a repository containing the files produced during these (and future) sessions.  
 
@@ -246,9 +246,9 @@ available in book form and as two lecture series on YouTube:
 
 'Reading Marx's Capital' on YouTube:  
 
-{{< youtube id="videoseries?list=PL0A7FFF28B99C1303" >}}
+{{< youtube-playlist id="PL0A7FFF28B99C1303" >}}
 
-{{< youtube id="videoseries?list=PLA444E846FD59F94B" >}}
+{{< youtube-playlist id="PLA444E846FD59F94B" >}}
 
 {{< separators type="outer" >}}  
 
