@@ -26,8 +26,7 @@ markup:
 params:
   # Subtitle of the website
   subtitle: "Fancy subtitle."
-  favicon: "./favicon.ico"
-  touchicon: "./touch-icon.png"
+  favicon: true
   # Dark code highlighting
   codeblocksdark: false
   # Customize the indicator for margin notes
