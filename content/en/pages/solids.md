@@ -258,6 +258,3 @@ Before the indifferent beak could let her drop?
 **[Makoto Aida, b. 1965, retrospective at the Mori Art Museum, 2012](http://www.mori.art.museum/english/contents/aidamakoto_main/)**
 
 ![Makoto Aida](/assets/solids/images/Makoto-Aida.jpg){: .align-center}
-
-
-

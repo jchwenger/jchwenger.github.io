@@ -90,20 +90,13 @@ gallery:
     title:
 ---
 
-<blockquote class='FR'>
-  <p>L'écriture à l'épreuve de la machine</p>
-</blockquote>
 <blockquote class='EN'>
   <p>Writing to the test of the machine</p>
 </blockquote>
 
-<p class='small' align='right'><i><a class='lang-link'>Français</a></i></p>
-
 One more set of experiments around text generation using <i>deep learning</i>, an exhibit presented at the occasion of the <a href="http://printempspoesie.ch/wordpress/event/ca-artificiel-lecriture-a-lepreuve-de-la-machine/">Printemps de la poésie</a> by the gallery <a href="http://lecabanon-unil.ch/">Le Cabanon</a> at the University of Lausanne. The show also included the interactive page <a href="/pastiches/">« Pastiches & mélanges »</a>. 
-{: .EN}
 
 The texts presented here fit into three categories: <i>Logisms</i> gathers words generated or inspired by a network trained on the <a href="http://www.cnrtl.fr/definition/">CNRTL</a> dictionary (and then translated); "to begin with..." as well as the <i>Lumps</i> are the result of a three-pronged trajectory, a) the slow elaboration of the still subterranean corpus <i>It I-VI</i>, b) the training of a network on this corpus and the generation of raw texts, c) the rewriting (and translation) of the finished texts; finally, an essay pertaining some encountered issues and questions, that can be read in parallel with <a href="https://recursus.co/squares/writing-under-computation/">this one</a>.
-{: .EN}
 
 {{< separators type="outer" >}}
  
@@ -112,7 +105,6 @@ The texts presented here fit into three categories: <i>Logisms</i> gathers words
 [Lumps](/artificial-it-ii-lumps){:target="_blank"}  
 [Logisms](/logisms){:target="_blank"}  
 [Writing and its Double (essay)](/writing-double){:target="_blank"}  
-{: .EN}
 
 {{< separators type="outer" >}}
 
@@ -121,13 +113,11 @@ The texts presented here fit into three categories: <i>Logisms</i> gathers words
 {{< separators type="outer" >}}
 
 All my gratitude to Colin Pahlisch for inviting me to participate in the Printemps de la Poésie in Lausanne, as well as Monica Unser and Rafael Santianez, co-curators of Le Cabanon, as well as the rest of the team, Marie, Clarissa, Letizia, Chloé, Janett, Lucas and Sébastien, for their enthusiasm and the impeccable professionalism they showed during the development of this project. I am also grateful to Rebecca Aston, Clément Hongler and Jacob Menick for their support and sorcery. None of this would exist without them, thank you!
-{: .EN}
 
 
 {{< separators type="outer" >}}
 
 2020 Update: « exist digressively » exhibited in a metro station in Stockholm.
-{: .EN}
 
 {{< separators type="blank" >}}
 
@@ -146,7 +136,6 @@ Lin](https://www.instagram.com/wendylasts/), [Noora
 Lehtovuori](https://www.instagram.com/n.lehtovuori/) & [Ria
 Andrews](https://www.instagram.com/ria.andrews)), whose work and support made
 this exhibition possible.
-{: .EN}
 
 {{< separators type="blank" >}}
 

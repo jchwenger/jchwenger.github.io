@@ -93,17 +93,10 @@ gallery:
 <blockquote class='FR'>
   <p>L'écriture à l'épreuve de la machine</p>
 </blockquote>
-<blockquote class='EN'>
-  <p>Writing to the test of the machine</p>
-</blockquote>
-
-<p class='small' align='right'><i><a class='lang-link'>Français</a></i></p>
 
 Poursuite de mes expérimentations avec la génération de textes grâce au <i>deep learning</i>, une exposition présentée dans le cadre du <a href="http://printempspoesie.ch/wordpress/event/ca-artificiel-lecriture-a-lepreuve-de-la-machine/">Printemps de la poésie</a> par la galerie <a href="http://lecabanon-unil.ch/">Le Cabanon</a> à L'Université de Lausanne. L'exposition comprenait également la page interactive <a href="/pastiches/">« Pastiches & mélanges »</a>. 
-{: .FR}
 
 Les textes présentés ici se déclinent en trois types: <i>Logismes</i> rassemble des mots générés ou inspirés par un réseau entraîné sur le dictionnaire <a href="http://www.cnrtl.fr/definition/">CNRTL</a>; « pour commencer... » ainsi que les <i>Morceaux</i> sont le résultat d'un trajet en trois temps, a) la lente rédaction du corpus encore souterrain <i>Ça I-VI</i>, b) l'entraînement d'un réseau sur ce corpus et génération de textes bruts, c) réécriture (et traductions) des textes finaux; enfin, un essai touchant à certaines des problématiques rencontrées, qui peut se lire en parallèle à <a href="https://recursus.co/squares/writing-under-computation/">celui-là</a> (en anglais).
-{: .FR}
 
 {{< separators type="outer" >}}
  
@@ -112,7 +105,6 @@ Les textes présentés ici se déclinent en trois types: <i>Logismes</i> rassemb
 [Morceaux](/artificial-it-ii-lumps){:target="_blank"}  
 [Logismes](/logisms){:target="_blank"}  
 [L'écriture et son double (essai)](/writing-double){:target="_blank"}  
-{: .FR}
 
 {{< separators type="outer" >}}
 
@@ -121,12 +113,10 @@ Les textes présentés ici se déclinent en trois types: <i>Logismes</i> rassemb
 {{< separators type="outer" >}}
 
 Toute ma gratitude à Colin Pahlisch pour m’avoir invité à participer au Printemps de la Poésie, ainsi qu’à Monica Unser et Rafaël Santianez du Cabanon, ainsi que le reste de l’équipe, Marie, Clarissa, Letizia, Chloé, Janett, Lucas et Sébastien, pour leur enthousiasme et le professionalisme impeccables dont ils ont fait preuve durant l’élaboration de ce projet. Toute ma gratitude également à Rebecca Aston, Clément Hongler et Jacob Menick pour leur soutien et leur sorcellerie. Rien de tout cela n’existerait sans eux, merci !
-{: .FR}
 
 {{< separators type="outer" >}}
 
 Update (2020) : « exist digressively » exposé dans une station de métro à Stockholm.
-{: .FR}
 
 {{< separators type="blank" >}}
 
@@ -144,7 +134,6 @@ ainsi qu'à toute l'équipe ([Chih Tung Lin](https://www.instagram.com/wendylast
 [Noora Lehtovuori](https://www.instagram.com/n.lehtovuori/) &
 [Ria Andrews](https://www.instagram.com/ria.andrews)), dont le soutien et le travail
 ont rendu cette exposition possible.
-{: .FR}
 
 {{< separators type="blank" >}}
 
