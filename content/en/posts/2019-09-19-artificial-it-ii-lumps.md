@@ -626,12 +626,6 @@ Rather than in you, they, exits without proofs,
 Follow their determinations (more than only unique ambitions).  
 {:style="padding-left: 3rem; text-indent: -1rem; text-align: justify" .EN}
 
-# Morceaux
-{: .FR}
-
-## I
-{: .FR}
-
 l’amour est à réarmer
 {:.text-center .FR}
 
@@ -707,9 +701,6 @@ rééléations
 
 fissilectiques
 {:.text-center style="padding-left: 8rem" .FR}
-
-## II
-{: .FR}
 
 musique  
 vigie  
@@ -789,9 +780,6 @@ rétiaire
 ?
 {:.text-center .FR}
 
-## III
-{: .FR}
-
 Je n’aurai pas ça comme ils m’auront.
 {: .endless .FR}
 
@@ -815,9 +803,6 @@ dis l'être minéral.
 
 {{< separators type="inner" >}}
 
-*Affaire de la chose unique*  
-{: .FR}
-
 Rappelle-moi que oui peu importe le quand ou l'où fort bientôt toutes ces guerres ne seront que naguères.  
 {: .endless .FR}
 
@@ -835,9 +820,6 @@ Le même me domine autant que tu le fais, soi superstraté et paradigmenteur, lo
 
 Défais le carré, adapte l'étroit, abats des idées par exemple comme&nbsp;: «&nbsp;Je ne demanderais qu'à attendre la mort&nbsp;», «&nbsp;Je savais que le viol était un projet du monde&nbsp;».  
 {: .endless .FR}
-
-## IV
-{: .FR}
 
 Haut la  
 Queue à  
@@ -976,12 +958,6 @@ me semble.
 L’ironie, la même, encore et encore. Enfin, toi, parce que tu as arrêté de lire, tu vois, plutôt que tu ne penses. Satané toi. Toi qui aurais pu te tapir en mon beau milieu. Parlant du loup. Comment se fait-il que j'y sois encore&nbsp;? Comment donc&nbsp;? C'est ma pente, d'y être. Oh la belle pente. Je la vois d'ici. Oui. Toi pas&nbsp;?
 {: style="padding-left: 25%; padding-right: 25%; text-align: justify" .FR}
 
-## V
-{: .FR}
-
-Contemplez la précoce cession de  
-{: .FR}
-
 l'attention gueusante du  
 {:style="padding-left: 3rem" .FR}
 
@@ -993,72 +969,11 @@ scéneurs premiers&nbsp;!
 
 {{< separators type="inner" >}}
 
-*Quantités*
-{: .FR}
-
-Planète max.  
-Lieu pessialisé.  
-Flottant? À refaire.  
-{: .FR}
-
-Oui.  
-{: .FR}
-
-Décidément.  
-C'est à se sentir.   
-Comme en Homérique.  
-{: .FR}
+{{< separators type="inner" >}}
 
 {{< separators type="inner" >}}
 
-Ses petites techniques à lui, ses trous.  
-{: .FR}
-
-Son petit mourir d’envie de parler, son à nouveau.  
-{: .FR}
-
-Oui. C’est réprimant.  
-{: .FR}
-
 {{< separators type="inner" >}}
-
-*Hypothèse*
-{: .FR}
-
-Comment recommence-t-on.  
-Après tant de dispuissance.  
-{: .FR}
-
-(«&nbsp;Oh non clairement peux pas changer.&nbsp;»)  
-{: .FR}
-
-Puis. Surrections de la métastance!!!  
-Ou. On espère. Quelque chose d'approchant.  
-{: .FR}
-
-Haha, ouais, clair. À chacun sa vieille phase.  
-{: .FR}
-
-{{< separators type="inner" >}}
-
-les épices, le sexe, les chauves-souris,  
-le mouvement coriace de l'eau  
-peints tous ensemble tels  
-un seul et même temps,  
-{: .FR}
-
-correctement argumentés tels  
-le surprenant pour soi-même,  
-le x & le y, le donc, l'&c.,  
-{: .FR}
-
-un peu du moins argumentés tels  
-l'où, le comment, le ça qui m'a appelé,  
-((dans) la merde, (dans) l'&c.)  
-{: .FR}
-
-## VI
-{: .FR}
 
 longtemps  
 {:style="margin-bottom: 0" .FR}
@@ -1099,9 +1014,6 @@ les couardistes)
 {:style="padding-left: 6rem" .FR}
 
 {{< separators type="inner" >}}
-
-Je suis englouti  
-{: .FR}
 
 dans la  
 {:style="padding-left: 6rem" .FR}
@@ -1170,13 +1082,6 @@ l'hôtel
 
 {{< separators type="inner" >}}
 
-seule sorte d'&c.&nbsp;:  
-{: .FR}
-
-davantage de  
-parangons  
-{: .FR}
-
 &nbsp; (réflexe  
 &nbsp; putaire)  
 {:style="padding-left: 1rem" .FR}
@@ -1203,38 +1108,11 @@ venir)
 {:style="padding-left: 2rem" .FR}
 
 
-## VII
-{: .FR}
-
-*(Empires à la suite.)*
-{: .FR}
-
-(Un de plus.)  
-{:style="margin-bottom: 0" .FR}
-(Platon mantelé & démantelé.)  
-{:style="padding-left: 2rem; margin-bottom: 0" .FR}
-&nbsp; (Douleur.)  
-&nbsp; (Payante.)  
-&nbsp; (Pavant la voie.)  
-(Fléau de l'art de page.)  
-{: .FR}
-
-(Un de plus.)  
-Orgasmes à plat,  
-&nbsp; (Férocité.)  
-&nbsp; (Agrippements.)  
-(Huttes de la haine.)  
-(Maisons à soi.)  
-{: .FR}
-
 Sages jusqu'à ce qu'en eux-mêmes,  
 {:style="padding-left: 2rem" .FR}
 
 (Tordu, martelant les pourquois, j'ai envisagé la vraie liberté, vais éclaircir sans existence, ou serai, après les jours, impérial contre moi-même, homme toujours, tous les décrets, tous les récits.)  
 {:style="padding-left: 4rem; text-indent: -1rem; text-align: justify" .FR}
-
-(Un de plus.)  
-{: .FR}
 
 (Voilà ce qui arrive aux. Riens. (Tourmontrances conflictuelles. (Joli&nbsp;!, genre, ça ne peut que finir par être lu.)) Haha, ceux-là. Les sales riens.)  
 {:style="padding-left: 4rem; text-indent: -1rem; text-align: justify" .FR}

@@ -19,12 +19,6 @@ pitch:
 
 <p class='small' align='right'><i><a class='lang-link'>English</a></i></p>
 
-# Lumps
-{: .EN}
-
-## I
-{: .EN}
-
 love is to be rearmed
 {:.text-center .EN}
 
@@ -101,9 +95,6 @@ reeleations
 
 fissilectics
 {:.text-center style="padding-left: 7rem" .EN}
-
-## II
-{: .EN}
 
 music  
 vigil
@@ -182,9 +173,6 @@ retiarius
 ?
 {:.text-center .EN}
 
-## III
-{: .EN}
-
 I won’t get it as they’ll get me.
 {: .endless .EN}
 
@@ -208,9 +196,6 @@ say the mineral being.
 
 {{< separators type="inner" >}}
 
-*Matter of the One Thing*
-{: .EN}
-
 Remind me that yes no matter where no matter when soon enough all those whiles will be ago.
 {: .endless .EN}
 
@@ -228,9 +213,6 @@ The same dominates me as much as you do, superstrated and paradigmental self, wh
 
 Undo the square, adapt the tight, take down ideas e.g.: "Expecting death is all I'd ask", "I knew rape was a project of the world".
 {: .endless .EN}
-
-## IV
-{: .EN}
 
 Homer’s  
 Upward  
@@ -358,12 +340,6 @@ strange.
 The irony, the same, again and again. At last, you, because you stopped reading, you see, rather than you think. Bloody you. You should have crouched right in my midst. Speaking of the devil. How come I would still be? At it? How? In my bent, I see it from here. Yes. Don’t you?
 {: style="padding-left: 25%; padding-right: 25%; text-align: justify" .EN}
 
-## V
-{: .EN}
-
-Behold the early yielding of  
-{: .EN}
-
 the beggaring focus of  
 {:style="padding-left: 3rem" .EN}
 
@@ -375,72 +351,11 @@ the first sceners!
 
 {{< separators type="inner" >}}
 
-*Quantities*
-{: .EN}
-
-Planet max.  
-Pessialised place.  
-Floaty? To be redone.  
-{: .EN}
-
-Yes.  
-{: .EN}
-
-Definitely.  
-A feeling of.  
-Homerica.  
-{: .EN}
+{{< separators type="inner" >}}
 
 {{< separators type="inner" >}}
 
-His small techniques, his holes.  
-{: .EN}
-
-His small aching to speak, his anew.  
-{: .EN}
-
-Yes. That is repressing.  
-{: .EN}
-
 {{< separators type="inner" >}}
-
-*Hypothesis*
-{: .EN}
-
-How does one start again.  
-After so much mismight.  
-{: .EN}
-
-('Oh no clearly can’t change.')  
-{: .EN}
-
-Then. Surrections of the metastance!!!  
-Or. One hopes. Something approaching.  
-{: .EN}
-
-Haha, yeah, sure. Each to one's old phase.  
-{: .EN}
-
-{{< separators type="inner" >}}
-
-the spices, the sex, the bats,  
-the tough water movement,  
-painted all together as  
-one very same time,  
-{: .EN}
-
-correctly discussed as  
-the startling to oneself,  
-the x & the y, the hence, the &c.,  
-{: .EN}
-
-at least somewhat discussed as  
-the where, the how, the this that called me,  
-((in) the shit, (in) the &c.)  
-{: .EN}
-
-## VI
-{: .EN}
 
 long  
 {:style="margin-bottom: 0" .EN}
@@ -481,9 +396,6 @@ altogether)
 {:style="padding-left: 6rem" .EN}
 
 {{< separators type="inner" >}}
-
-I am sucked  
-{: .EN}
 
 into  
 {:style="padding-left: 6rem" .EN}
@@ -552,13 +464,6 @@ the hotel
 
 {{< separators type="blank" >}}
 
-only sort of &c.:  
-{: .EN}
-
-more  
-paragons  
-{: .EN}
-
 (whoresome  
 reflex)  
 {:style="padding-left: 1rem" .EN}
@@ -581,38 +486,11 @@ longing)
 withal)  
 {:style="padding-left: 2rem" .EN}
 
-## VII
-{: .EN}
-
-*(Empires in a row.)*
-{: .EN}
-
-(One more.)  
-(Plato bunked & debunked.)  
-&nbsp; (Pain.)  
-&nbsp; (Paying.)  
-&nbsp; (Paving the way.)  
-(Banes of page art.)  
-{: .EN}
-
-(One more.)  
-{:style="margin-bottom: 0" .EN}
-Lain orgasms,  
-{:style="padding-left: 2rem; margin-bottom: 0" .EN}
-&nbsp; (Ferality.)  
-&nbsp; (Grabbings.)  
-(Huts of hatred.)  
-(Homes of one's own.)  
-{: .EN}
-
 Wise until in themselves,  
 {:style="padding-left: 2rem" .EN}
 
 (Twisted, banging on the whies, I entertained true freedom, will brighten without existences or will, after the days, imperial at myself, a man always, be all writs, all accounts.)  
 {:style="padding-left: 4rem; text-indent: -1rem; text-align: justify" .EN}
-
-(One more.)  
-{: .EN}
 
 (That’s what’s happening to. Nothings. (Conflicted tormonstrances.) Haha, those. dirty nothings. (Shapely!, as in, that can’t but end up getting read.))  
 {:style="padding-left: 4rem; text-indent: -1rem; text-align: justify" .EN}
