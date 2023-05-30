@@ -273,3 +273,14 @@ p:lang(ja), span:lang(ja), {
 .marginnote:lang(ja) {
     font-size: 0.9rem;
 }
+
+/* ------------------------------------------------------------------------ */
+/* Styling for fontawesome icons */
+/* https://fontawesome.com/docs/web/add-icons/svg-bare */
+/* ------------------------------------------------------------------------ */
+
+.icon {
+  width: 1em;
+  height: 1em;
+  vertical-align: -.125em;
+}

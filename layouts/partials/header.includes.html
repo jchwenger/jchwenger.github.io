@@ -20,9 +20,6 @@
       href="https://fonts.googleapis.com/css?family=Noto+Serif+SC&display=swap" />
 </noscript>
 
-<!-- Font Awesome -->
-<script src="https://kit.fontawesome.com/39df359885.js" crossorigin="anonymous"></script>
-
 {{ $htoptions := (dict "targetPath" "/css/hugo-tufte.min.css" "outputStyle" "compressed" "enableSourceMap" true) }}
 {{ $htstyle := resources.Get "scss/hugo-tufte.scss"| resources.ExecuteAsTemplate "main.scss" .  | resources.ToCSS $htoptions }}
 <link rel="stylesheet" href="{{ $htstyle.Permalink | relURL }}">
