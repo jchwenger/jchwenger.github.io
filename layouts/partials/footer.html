@@ -45,15 +45,11 @@
 </p>
 {{ end }}
 
-{{ if or ( isset .Site.Params "copyright" ) ( isset .Site.Params "copyrightHolder" ) }}
+{{ if ( isset .Site.Params "copyright" ) }}
 <div class="copyright">
 <p>
   {{ with .Site.Params.copyright }}
-  {{ . | safeHTML }}
-  {{ else }}
-  &copy; {{now.Format "2006"}}
-  {{ with .Site.Params.copyrightHolder }}{{ . }}{{end}}.
-  All rights reserved.
+  {{ . | safeHTML }} &copy; {{now.Format "2006"}}
   {{end}}
 </p>
 </div>
