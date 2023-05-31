@@ -46,11 +46,11 @@ Jérémie Wenger, writer and programmer
 ## Galleries
 
 - [Les Subsistances, Lyon (Emile Zeizig)](https://mascarille.com/galerie/index.php?/category/4769), 2021
-- [Manufacture, Photo Montage (Ivo Fovanna)]({{ site.baseurl }}{% link _pages/chatbot-gallery-fovanna.md %}), 2020
-- [Arsenic, Rehearsals (Bartek Sozanski)]({{ site.baseurl }}{% link _pages/chatbot-gallery-arsenic-sozanski.md %}), March 2021
-- [Arsenic, Rehearsals (Clément Hongler)]({{ site.baseurl }}{% link _pages/chatbot-gallery-arsenic-hongler.md %}), March 2021
-- [Training and early stages (Clément Hongler, Jérémie Wenger)]({{ site.baseurl }}{% link _pages/chatbot-gallery-training.md %}), 2020
-- [Interface demos]({{ site.baseurl }}{% link _pages/chatbot-gallery-demos.md %})
+- [Manufacture, Photo Montage (Ivo Fovanna)]({{< ref "chatbot-gallery-fovanna.md" >}}), 2020
+- [Arsenic, Rehearsals (Bartek Sozanski)]({{< ref "chatbot-gallery-arsenic-sozanski.md" >}}), March 2021
+- [Arsenic, Rehearsals (Clément Hongler)]({{< ref "chatbot-gallery-arsenic-hongler.md" >}}), March 2021
+- [Training and early stages (Clément Hongler, Jérémie Wenger)]({{< ref "chatbot-gallery-training.md" >}}), 2020
+- [Interface demos]({{< ref "chatbot-gallery-demos.md" >}})
 
 ## Documents and Press coverage
 

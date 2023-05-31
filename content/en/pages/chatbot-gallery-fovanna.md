@@ -114,10 +114,10 @@ fovanna:
 Rehearsals at the [Manufacture](https://www.manufacture.ch/) School of Performative Arts.
 Lausanne, Switzerland, March 2021.
 
-[Main page]({{ site.baseurl }}{% link _pages/chatbot.md %})
+[Main page]({{< ref "chatbot.md" >}})
 
 *Photographs and montage: Ivo Fovanna.*
 
 {% include gallery id="fovanna" layout="half" caption="*photographs and montage: Ivo Fovanna*" %}
 
-[Main page]({{ site.baseurl }}{% link _pages/chatbot.md %})
+[Main page]({{< ref "chatbot.md" >}})
