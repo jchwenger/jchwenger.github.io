@@ -186,7 +186,7 @@ Lausanne, Switzerland, 2020.
 
 {% include gallery id="hongler" layout="full" caption="Screenshots: Clément Hongler" %}
 
-{% include separators.html type="outer" %}
+{{< separators type="outer" >}}
 
 *Photographs: Jérémie Wenger*
 
