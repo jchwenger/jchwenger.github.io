@@ -1,5 +1,4 @@
 <footer class="page-footer">
-<hr />
 
 <div class="next-post", style="display:inline-block;">
   {{ if .NextPage }}
@@ -12,6 +11,8 @@
   <a class="link-reverse" href="{{ .PrevPage.Permalink }}?ref=footer">{{ .PrevPage.Title | truncate 50 "..."}} »</a>
   {{ end }}
 </div>
+
+<hr />
 
 <ul class="page-footer-menu">
   {{/* SOCIALS */}}
