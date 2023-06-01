@@ -1,0 +1,5 @@
+{{ $tag := .Get "tag" | default "p" }}
+{{ $attrString := "" }}
+{{ with .Get "class" }}{{ $attrString = printf "class='%s'" . }}{{ end }}
+{{ with .Get "id" }}{{ $attrString = print $attrString (printf " id='%s'" .) }}{{ end }}
+{{ printf "<%s %s>%s</%s>" $tag $attrString (.Inner | markdownify) $tag | htmlUnescape | safeHTML }}
