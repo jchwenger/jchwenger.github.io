@@ -42,6 +42,22 @@ h3:hover > a.heading-anchor {
     visibility: visible;
 }
 
+h1 > a:link,
+h1 > a:visited,
+h2 > a:link,
+h2 > a:visited,
+h3 > a:link,
+h3 > a:visited {
+ text-decoration: none;
+}
+
+h2:hover > a:hover,
+h2:hover > a:active,
+h3:hover > a:hover,
+h3:hover > a:active {
+  text-decoration: underline;
+}
+
 hr {
     text-align: left;
     margin-left: 0;
