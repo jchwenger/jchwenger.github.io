@@ -1,0 +1,12 @@
+.i18nlist {
+  width: 75%;
+  padding: 0;
+  max-width: 45rem;
+  list-style: none;
+
+  li {
+    text-align: right;
+    font-size: $font-size-small;
+    padding: 0;
+  }
+}
