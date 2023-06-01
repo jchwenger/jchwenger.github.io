@@ -288,3 +288,26 @@ p:lang(ja), span:lang(ja), {
   height: 1em;
   vertical-align: -.125em;
 }
+
+/* ------------------------------------------------------------------------ */
+/* Styling add-ons*/
+/* ------------------------------------------------------------------------ */
+
+.small {
+  font-size: 1.2rem;
+}
+
+.text-left,
+.text-left p {
+  text-align: left;
+}
+
+.text-center,
+.text-center p {
+  text-align: center;
+}
+
+.text-right,
+.text-right p {
+  text-align: right;
+}
