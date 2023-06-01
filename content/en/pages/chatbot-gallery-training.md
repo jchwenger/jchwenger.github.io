@@ -174,8 +174,9 @@ wenger:
     image_path: https://chatbot-manufacture.s3.eu-west-2.amazonaws.com/Wenger-rehearsals-2021-80.low.webp
 ---
 
+{{< html class="small text-right" >}}
 *photo montage: Ivo Fovanna*
-{: .small .text-right}
+{{< /html >}}
 
 Rehearsals at the [Manufacture](https://www.manufacture.ch/) School of Performative Arts, extracts, training process.
 Lausanne, Switzerland, 2020.

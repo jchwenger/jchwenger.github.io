@@ -71,5 +71,6 @@ If humanity should, as some Californian or Cantonese prophets claim, play a deci
 
 {{< separators type="outer" >}}
 
+{{< html class="small" >}}
 All my gratitude to Colin Pahlisch for inviting me to participate in the *Printemps de la Poésie* in Lausanne, as well as Monica Unser and Rafael Santianez, co-curators of the gallery Le Cabanon, as well as the rest of the team, Marie, Clarissa, Letizia, Chloé, Janett, Lucas and Sébastien, for their enthusiasm and the impeccable professionalism they showed during the development of this project. I am also grateful to Rebecca Aston, Clément Hongler and Jacob Menick for their support and sorcery. None of this would exist without them, thank you!
-{:.small}
+{{< /html >}}

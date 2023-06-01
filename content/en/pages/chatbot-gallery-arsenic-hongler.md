@@ -218,8 +218,9 @@ hongler:
     image_path: https://chatbot-manufacture.s3.eu-west-2.amazonaws.com/Hongler-rehearsals-2021-105.low.webp
 ---
 
+{{< html class="small text-right" >}}
 *photo montage: Ivo Fovanna*
-{: .small .text-right}
+{{< /html >}}
 
 Rehearsals at the [Arsenic](https://arsenic.ch/en/) Theatre.
 Lausanne, Switzerland, March 2021.
