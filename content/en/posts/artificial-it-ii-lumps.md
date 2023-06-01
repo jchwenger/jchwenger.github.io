@@ -18,8 +18,7 @@ pitch:
 
 ## I
 
-love is to be rearmed
-{:.text-center}
+{{% style id="blah diblah" class=".text-center" %}}love is to *be* rearmed{{% /style %}}
 
 {{< separators type="inner" >}}
 

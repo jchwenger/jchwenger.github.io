@@ -94,17 +94,17 @@ gallery:
   <p>L'écriture à l'épreuve de la machine</p>
 </blockquote>
 
-Poursuite de mes expérimentations avec la génération de textes grâce au <i>deep learning</i>, une exposition présentée dans le cadre du <a href="http://printempspoesie.ch/wordpress/event/ca-artificiel-lecriture-a-lepreuve-de-la-machine/">Printemps de la poésie</a> par la galerie <a href="http://lecabanon-unil.ch/">Le Cabanon</a> à L'Université de Lausanne. L'exposition comprenait également la page interactive <a href="/pastiches/">« Pastiches & mélanges »</a>. 
+Poursuite de mes expérimentations avec la génération de textes grâce au <i>deep learning</i>, une exposition présentée dans le cadre du [Printemps de la poésie](http://printempspoesie.ch/wordpress/event/ca-artificiel-lecriture-a-lepreuve-de-la-machine/) par la galerie [Le Cabanon](http://lecabanon-unil.ch/) à L'Université de Lausanne. L'exposition comprenait également la page interactive [« Pastiches & mélanges »](/pastiches/). 
 
-Les textes présentés ici se déclinent en trois types: <i>Logismes</i> rassemble des mots générés ou inspirés par un réseau entraîné sur le dictionnaire <a href="http://www.cnrtl.fr/definition/">CNRTL</a>; « pour commencer... » ainsi que les <i>Morceaux</i> sont le résultat d'un trajet en trois temps, a) la lente rédaction du corpus encore souterrain <i>Ça I-VI</i>, b) l'entraînement d'un réseau sur ce corpus et génération de textes bruts, c) réécriture (et traductions) des textes finaux; enfin, un essai touchant à certaines des problématiques rencontrées, qui peut se lire en parallèle à <a href="https://recursus.co/squares/writing-under-computation/">celui-là</a> (en anglais).
+Les textes présentés ici se déclinent en trois types: <i>Logismes</i> rassemble des mots générés ou inspirés par un réseau entraîné sur le dictionnaire [CNRTL](http://www.cnrtl.fr/definition/); « pour commencer... » ainsi que les <i>Morceaux</i> sont le résultat d'un trajet en trois temps, a) la lente rédaction du corpus encore souterrain <i>Ça I-VI</i>, b) l'entraînement d'un réseau sur ce corpus et génération de textes bruts, c) réécriture (et traductions) des textes finaux; enfin, un essai touchant à certaines des problématiques rencontrées, qui peut se lire en parallèle à [celui-là](https://recursus.co/squares/writing-under-computation/) (en anglais).
 
 {{< separators type="outer" >}}
  
-[Ça artificiel, « pour commencer... »](/artificial-it-ii){:target="_blank"}  
-[Ça artificiel](/ait){:target="_blank"}  
-[Morceaux](/artificial-it-ii-lumps){:target="_blank"}  
-[Logismes](/logisms){:target="_blank"}  
-[L'écriture et son double (essai)](/writing-double){:target="_blank"}  
+[Ça artificiel, « pour commencer... »](/artificial-it-ii)  
+[Ça artificiel](/ait) 
+[Morceaux](/artificial-it-ii-lumps)  
+[Logismes](/logisms)  
+[L'écriture et son double (essai)](/writing-double)  
 
 {{< separators type="outer" >}}
 

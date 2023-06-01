@@ -24,4 +24,4 @@ Jérémie C. Wenger is a writer from Switzerland, based in London. His practice 
 *(143 words)*
 {: .text-right}
 
-[CV](/assets/cv/JCWenger_CV.pdf){:target="_blank"}
+[CV](/assets/cv/JCWenger_CV.pdf)

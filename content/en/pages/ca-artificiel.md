@@ -100,11 +100,11 @@ The texts presented here fit into three categories: <i>Logisms</i> gathers words
 
 {{< separators type="outer" >}}
  
-[Artificial It, "to begin with..."](/artificial-it-ii){:target="_blank"}  
-[Artificial It](/ait){:target="_blank"}  
-[Lumps](/artificial-it-ii-lumps){:target="_blank"}  
-[Logisms](/logisms){:target="_blank"}  
-[Writing and its Double (essay)](/writing-double){:target="_blank"}  
+[Artificial It, "to begin with..."](/artificial-it-ii)  
+[Artificial It](/ait)  
+[Lumps](/artificial-it-ii-lumps)  
+[Logisms](/logisms)  
+[Writing and its Double (essay)](/writing-double)  
 
 {{< separators type="outer" >}}
 
