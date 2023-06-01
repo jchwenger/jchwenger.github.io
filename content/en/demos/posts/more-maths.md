@@ -10,7 +10,9 @@ categories:
   - katex
   - latex
   - tufte-css
+draft: true
 ---
+
 A compilation of `$\LaTeX$` formulas...
 <!--more-->
 

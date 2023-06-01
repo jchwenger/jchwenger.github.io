@@ -10,6 +10,7 @@ toc: true
 # hideReadTime: true
 categories: [katex, latex, tufte-css]
 description: "If the description field is not empty, its contents will show in the home page instead of the first 140 characters of the post."
+draft: true
 ---
 
 ## New features

@@ -6,6 +6,7 @@ categories:
     - "hugo"
     - "fun"
     - "test"
+draft: true
 ---
 
 ## First heading

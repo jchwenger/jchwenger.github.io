@@ -2,7 +2,9 @@
 title: Volume 1. Good Volume
 type: book
 layout: chapters
+draft: true
 ---
+
 This is a layout showcase for:
 
 ```yaml
