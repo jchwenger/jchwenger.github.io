@@ -1,16 +1,14 @@
 ---
 layout: single
-title: Artificial It / Ça artificiel
+title: Ça artificiel
 date: 2018-10-28 13:08:46.283948596 +0000
 permalink: /ait/
-languages: 
-- English
-- français
 ---
 
-<blockquote class='FR'>
-<p>Version retravaillée de la première fournée de textes neuronaux de <a href="https://recursus.co/category/ait.html">AIT</a></p>
-</blockquote>
+{{% epigraph %}}
+Version retravaillée de la première fournée de textes neuronaux de [AIT](https://recursus.co/category/ait.html)
+{{% /epigraph %}}
+
 <!--more-->
 
 Si faible résiste résiste résiste par le passé tu l'as fait ouais pas beaucoup mais tu l'as fait ouais ça pourrait être quelque chose. Tu l'as fait. Voilà qui devait être mentionné. Et maintenant. Le même. Et pourtant tu dis toujours que c'est la seule voie. Toi le même. L'état le même. Tout ça. Le début de ceci la même chose, puis la tempête à la fin du jour. Tempête dans la montagne. Le sang, le fer, c'est tout simple. Tant de fois tant et tant de fois des métaphores dans ma vie &mdash; était-ce était-ce tout pour s'extirper du reste ? Ce constant reste. Ils disent que ce n'est qu'une affaire de voix. Une voix dans ma tête. Une voix là en bas. Sous le bout de mes doigts. Je veux dire, n'est-ce pas le truc ouais d'autre part non. Il n'y a pas d'autre part. Seulement celle-ci. La grosse part tout contre la surface. La bonne chose. (Quoi ?) Le mur. Tout la même chose. Toujours la même chose.

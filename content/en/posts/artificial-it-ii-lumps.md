@@ -1,54 +1,49 @@
 ---
 layout: single
-title: Artificial It / Ça artificiel
+title: Artificial It (Lumps)
 date: 2019-09-19 15:31:38.989599762 +0100
 permalink: /artificial-it-ii-lumps/
-languages: 
-- English
-- français
 pitch:
 - "Lumps / Morceaux"
 ---
 
-<blockquote class='EN'>
-  <p>Writing to the test of the machine. Texts presented during the exhibition <a href="/ca-artificiel/"><nobr style="font-style: normal">Ça artificiel</nobr></a> in Lausanne</p>
-</blockquote>
+{{% epigraph %}}
+Writing to the test of the machine. Texts presented during the exhibition [Ça artificiel](/ca-artificiel/) in Lausanne
+{{% /epigraph %}}
 
 # Lumps
 
 ## I
 
-{{% style id="blah diblah" class=".text-center" %}}love is to *be* rearmed{{% /style %}}
+{{% html class=".text-center" %}}
+
+love is to *be* rearmed
 
 {{< separators type="inner" >}}
 
 love is a rearmament
-{:.text-center}
 
 {{< separators type="inner" >}}
 
 exist digressively
-{:.text-center}
 
 {{< separators type="inner" >}}
 
 self-touching Ligetian
-{:.text-center}
 
 {{< separators type="inner" >}}
 
 self-sucking Boulezian
-{:.text-center}
 
 {{< separators type="inner" >}}
 
 acephalous self-torture
-{:.text-center}
 
 {{< separators type="inner" >}}
 
 I am henceforth a demolist.
-{:.text-center}
+
+{{% /html %}}
 
 {{< separators type="inner" >}}
 

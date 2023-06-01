@@ -1,18 +1,15 @@
 ---
 layout: single
-title: Artificial It / Ça artificiel
+title: Ça artificiel (morceaux)
 date: 2019-09-19 15:31:38.989599762 +0100
 permalink: /artificial-it-ii-lumps/
-languages: 
-- English
-- français
 pitch:
-- "Lumps / Morceaux"
+- "Morceaux"
 ---
 
-<blockquote class='FR'>
-  <p>L'écriture à l'épreuve de la machine. Textes présentés à l'occasion de l'exposition <a href="/ca-artificiel/"><nobr style="font-style: normal">Ça artificiel</nobr></a> à Lausanne</p>
-</blockquote>
+{{% epigraph %}}
+L'écriture à l'épreuve de la machine. Textes présentés à l'occasion de l'exposition [Ça artificiel](/ca-artificiel/) à Lausanne
+{{% /epigraph %}}
 
 # Morceaux
 

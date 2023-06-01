@@ -1,18 +1,15 @@
 ---
 layout: single
-title: Writing and its Double / L'écriture et son double
+title: Writing and its Double
 date: 2019-05-06 00:35:19.240800200 +0100
 permalink: /writing-double/
-languages: 
-- English
-- français
 pitch:
-- "Peritexts / Péritextes"
+- "Peritexts"
 ---
 
-<blockquote class='EN'>
-  <p>Writing to the test of the machine. Peritexts presented during the exhibition <a href="/ca-artificiel/"><nobr style="font-style: normal">Ça artificiel</nobr></a> in Lausanne</p>
-</blockquote>
+{{% epigraph %}}
+Writing to the test of the machine. Peritexts presented during the exhibition [Ça artificiel](/ca-artificiel/) in Lausanne
+{{% /epigraph %}}
 
 ## Neural Dawn
 

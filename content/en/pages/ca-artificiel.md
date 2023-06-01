@@ -4,9 +4,6 @@ title: Ça artificiel
 classes: wide
 date:  2019-04-12 13:52:24.447654484 +0200
 permalink: /ca-artificiel/
-languages:
-- English
-- français
 gallery:
   - url: /assets/kirjasto/D4A6590.jpg
     image_path: /assets/kirjasto/D4A6590.jpg
@@ -90,9 +87,9 @@ gallery:
     title:
 ---
 
-<blockquote class='EN'>
-  <p>Writing to the test of the machine</p>
-</blockquote>
+{{% epigraph %}}
+Writing to the test of the machine
+{{% /epigraph %}}
 
 One more set of experiments around text generation using <i>deep learning</i>, an exhibit presented at the occasion of the <a href="http://printempspoesie.ch/wordpress/event/ca-artificiel-lecriture-a-lepreuve-de-la-machine/">Printemps de la poésie</a> by the gallery <a href="http://lecabanon-unil.ch/">Le Cabanon</a> at the University of Lausanne. The show also included the interactive page <a href="/pastiches/">« Pastiches & mélanges »</a>. 
 

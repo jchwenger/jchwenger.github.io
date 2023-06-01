@@ -4,9 +4,6 @@ title: Ça artificiel
 classes: wide
 date:  2019-04-12 13:52:24.447654484 +0200
 permalink: /ca-artificiel/
-languages:
-- English
-- français
 gallery:
   - url: /assets/kirjasto/D4A6590.jpg
     image_path: /assets/kirjasto/D4A6590.jpg

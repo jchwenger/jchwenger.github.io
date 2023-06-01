@@ -43,8 +43,9 @@ icons:
 
 ---
 
+{{% html  class="small text-right" %}}
 *photo montage: Ivo Fovanna*
-{: .small .text-right}
+{{% /html %}}
 
 [Main page]({{< ref "chatbot.md" >}})
 

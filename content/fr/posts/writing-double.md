@@ -1,18 +1,15 @@
 ---
 layout: single
-title: Writing and its Double / L'écriture et son double
+title: L'écriture et son double
 date: 2019-05-06 00:35:19.240800200 +0100
 permalink: /writing-double/
-languages: 
-- English
-- français
 pitch:
-- "Peritexts / Péritextes"
+- "Péritextes"
 ---
 
-<blockquote class='FR'>
-  <p>L'écriture à l'épreuve de la machine. Péritextes présentés à l'occasion de l'exposition <a href="/ca-artificiel/"><nobr style="font-style: normal">Ça artificiel</nobr></a> à Lausanne</p>
-</blockquote>
+{{% epigraph %}}
+L'écriture à l'épreuve de la machine. Péritextes présentés à l'occasion de l'exposition [Ça artificiel](/ca-artificiel/) à Lausanne
+{{% /epigraph %}}
 
 ## Aube neuronale
 
