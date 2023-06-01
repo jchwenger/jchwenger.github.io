@@ -17,559 +17,559 @@ pitch:
 {{< separators type="blank" >}}
 
 lampfulness
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 stationalist
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 aspector
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 contradistinguishable
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 thunderliness
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 circumlopsinate
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 paradical
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 superface
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 precapitulate
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 periphysician
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 protocosm
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 paralign
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 preoccupid
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 occluvial
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 gaffeme
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 hirsuit
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 narthecogenesis
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 homode
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 fonchery
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 pneural
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 bioacter
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 quadruptile
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 glosiery
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 chrine
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 spherophile
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 procretion
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 barburrer
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 choriage
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 pharaodont
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 pharaophagi
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 arguteer
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 arguminant
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 argulical
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 behood
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 ultracoast
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 holorganic
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 holory
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 formour
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 zealative
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 indolombia
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 genetarch
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 simileon
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 varneline
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 howlard
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 dething
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 flonger
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 forcify
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 rackmand
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 rackmard
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 autopter
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 oneiroplore
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 heterogenesis
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 phonopod
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 phonophobia
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 saturnacious
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 rotorer
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 saniferocist
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 gastro-grammatical
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 petuage
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 freluchandarian
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 hoolag
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 wobbledybook
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 conculpate
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 succursion
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 succursivity
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 succuberance
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 succubundance
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 incubitable
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 incubism
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 nerox
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 velicose
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 imbel
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 disalienate
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 inalienate
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 subtermyth
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 metalect
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 pueritude
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 penultival
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 consensuction
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 disastriumph
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 psychoponic
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 immean
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 proctogasmist
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 countermissory
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 logonymy
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 ultimetry
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 conservage
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 afferion
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 scrivain
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 survivore
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 underthing
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 constele
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 anthropoblige
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 intermassive
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 spartiferous
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 disputaser
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 thanatostasis
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 Cataclitus
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 contramiscuity
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 supersive
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 catastroolic
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 irrat
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 antiviction
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 diaphanition
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 lithostome
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 metamorfaeces
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 suffurl
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 promulgurate
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 interarchy
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 cularisms
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 peripoetics
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 aristocrastinate
-{:.text-center .EN}
+{:.text-center}

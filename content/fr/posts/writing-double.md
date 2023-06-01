@@ -78,4 +78,4 @@ Si l'humanité devait, comme le prétendent certains prophètes californiens ou 
 {{< separators type="outer" >}}
 
 Toute ma gratitude à Colin Pahlisch pour m'avoir invité à participer au Printemps de la Poésie, ainsi qu'à Monica Unser et Rafaël Santianez du Cabanon, ainsi que le reste de l'équipe, Marie, Clarissa, Letizia, Chloé, Janett, Lucas et Sébastien, pour leur enthousiasme et le professionalisme impeccables dont ils ont fait preuve durant l'élaboration de ce projet. Toute ma gratitude également à Rebecca Aston, Clément Hongler et Jacob Menick pour leur soutien et leur sorcellerie. Rien de tout cela n'existerait sans eux, merci&nbsp;!
-{:.small .FR}
+{:.small}

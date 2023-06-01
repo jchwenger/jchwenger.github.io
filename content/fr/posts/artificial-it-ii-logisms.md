@@ -15,359 +15,359 @@ pitch:
 </blockquote>
 
 lampidaire
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 stationaliste
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 aspecteur
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 contradistinguable
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 tonnerrament
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 circumlopsiner
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 paradique
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 superfacer
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 protocosme
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 paraligner
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 fonge
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 occluve
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 hirsut
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 homode
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 foncherie
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 pneural
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 quadruptile
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 chrine
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 barbourrier
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 choriage
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 pharaodonte
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 pharaophage
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 argutieur
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 arguminant
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 argulique
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 holorganique
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 holoir
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 formoir
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 indolombie
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 varneline
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 hoularde
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 forcifier
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 raquemand
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 raquemard
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 oniroplore
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 phonopode
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 phonophobe
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 saturnace
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 rotorer
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 freluchandaire
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 houlag
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 branlevit
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 conculper
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 succursion
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 succubondance
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 incubitable
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 incubisme
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 ombel
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 subtermythe
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 consensuction
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 psychoponique
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 proctogasmiste
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 contremissoire
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 logonymie
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 conservage
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 survivore
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 anthropobliger
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 intermassif
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 disputassier
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 thanatostase
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 cataclite
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 supersif
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 catastroolique
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 irrature
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 antiviction
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 diaphanition
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 lithostome
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 sufferler
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 promulgure
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 interarchie
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 cularismes
-{:.text-center .FR}
+{:.text-center}
 
 {{< separators type="outer" >}}
 
 aristocrastiner
-{:.text-center .FR}
+{:.text-center}

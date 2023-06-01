@@ -19,131 +19,131 @@ pitch:
 ## I
 
 love is to be rearmed
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 love is a rearmament
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 exist digressively
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 self-touching Ligetian
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 self-sucking Boulezian
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 acephalous self-torture
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 I am henceforth a demolist.
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 you got life  
-{:.text-center style="padding-right: 5rem" .EN}
+{:.text-center style="padding-right: 5rem"}
 
 & yet
-{:.text-center style="padding-left: 2rem" .EN}
+{:.text-center style="padding-left: 2rem"}
 
 (Catullus)
-{:.text-center style="padding-left: 10rem" .EN}
+{:.text-center style="padding-left: 10rem"}
 
 {{< separators type="inner" >}}
 
 foresome & loathgone
-{:.text-center .EN}
+{:.text-center}
 
 (Nietzsche)
-{:.text-center style="padding-left: 15rem" .EN}
+{:.text-center style="padding-left: 15rem"}
 
 {{< separators type="inner" >}}
 
 loftier
-{: .text-center style="padding-left: 4rem" .EN}
+{: .text-center style="padding-left: 4rem"}
 
 nanoscrum
-{:.text-center style="padding-right: 4.5rem" .EN}
+{:.text-center style="padding-right: 4.5rem"}
 
 further 
-{:.text-center style="padding-right: 3rem" .EN}
+{:.text-center style="padding-right: 3rem"}
 
 microscramble
-{:.text-center style="padding-left: 7rem" .EN}
+{:.text-center style="padding-left: 7rem"}
 
 {{< separators type="inner" >}}
 
 reeleations
-{:.text-center style="padding-right: 7rem" .EN}
+{:.text-center style="padding-right: 7rem"}
 
 &
-{:.text-center .EN}
+{:.text-center}
 
 fissilectics
-{:.text-center style="padding-left: 7rem" .EN}
+{:.text-center style="padding-left: 7rem"}
 
 ## II
 
 music  
 vigil
-{:.text-center .EN}
+{:.text-center}
 
 music  
 liege
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 there.  
 really.
-{: style="padding-left:45%" .EN}
+{: style="padding-left:45%"}
 
 no  
 crux.
-{: style="padding-left:45%" .EN}
+{: style="padding-left:45%"}
 
 {{< separators type="inner" >}}
 
 reach &nbsp;&nbsp; words  
 whereless
-{:.text-center .EN}
+{:.text-center}
 
 knock &nbsp;&nbsp; amend
-{:.text-center .EN}
+{:.text-center}
 
 the fucked &nbsp;&nbsp; the lost  
 the old &nbsp;&nbsp; the state
-{:.text-center .EN}
+{:.text-center}
 
 {{< separators type="inner" >}}
 
 cycles
-{:.text-center .EN}
+{:.text-center}
 ever
-{:.text-center style="padding-left: 3rem" .EN}
+{:.text-center style="padding-left: 3rem"}
 
 as if
-{:.text-center style="padding-right: 3rem" .EN}
+{:.text-center style="padding-right: 3rem"}
 painless
-{:.text-center style="padding-left: 5rem" .EN}
+{:.text-center style="padding-left: 5rem"}
 
 as if
-{:.text-center style="padding-right: 5rem" .EN}
+{:.text-center style="padding-right: 5rem"}
 ongoing
-{:.text-center style="padding-left: 6rem" .EN}
+{:.text-center style="padding-left: 6rem"}
 
 {{< separators type="inner" >}}
 
@@ -152,213 +152,213 @@ art again to
 get into  
 cool  
 you
-{: style="padding-left:45%" .EN}
+{: style="padding-left:45%"}
 
 {{< separators type="inner" >}}
 
 love
-{:.text-center .EN}
+{:.text-center}
 
 :
-{:.text-center .EN}
+{:.text-center}
 
 reiter
-{:.text-center style="padding-left: 3rem" .EN}
+{:.text-center style="padding-left: 3rem"}
 
 or
-{:.text-center style="padding-right: 1rem" .EN}
+{:.text-center style="padding-right: 1rem"}
 
 retiarius
-{:.text-center style="padding-left: 4rem" .EN}
+{:.text-center style="padding-left: 4rem"}
 
 ?
-{:.text-center .EN}
+{:.text-center}
 
 ## III
 
 I won’t get it as they’ll get me.
-{: .endless .EN}
+{: .endless}
 
 {{< separators type="inner" >}}
 
 My heart. Look at my fucking males. Yet. Stay.
-{: .endless .EN}
+{: .endless}
 
 {{< separators type="inner" >}}
 
 Are what I imagine this late lumps of dreams of the past?
-{: .endless .EN}
+{: .endless}
 
 {{< separators type="inner" >}}
 
 Of infancist anxietes, cisable of reason,
-{: .endless .EN}
+{: .endless}
 
 say the mineral being.
-{: .endless style="padding-left: 16rem" .EN}
+{: .endless style="padding-left: 16rem"}
 
 {{< separators type="inner" >}}
 
 *Matter of the One Thing*
 
 Remind me that yes no matter where no matter when soon enough all those whiles will be ago.
-{: .endless .EN}
+{: .endless}
 
 Now surely you are onto. Something that be. Progress yes in which case even the. heart a-puking. Go.
-{: .endless .EN}
+{: .endless}
 
 {{< separators type="inner" >}}
 
 The same dominates me as much as you do, superstrated and paradigmental self, when, a madduced & effete thrall, you solace in your square ideas.
-{: .endless .EN}
+{: .endless}
 
 (Possibly changingly squarely oblivion's carbuncle!)  
 (O all too moneyfarious H-bombast!)
-{: .endless .EN}
+{: .endless}
 
 Undo the square, adapt the tight, take down ideas e.g.: "Expecting death is all I'd ask", "I knew rape was a project of the world".
-{: .endless .EN}
+{: .endless}
 
 ## IV
 
 Homer’s  
 Upward  
 Cock!
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 Tell  
 --Tale  
 Of old!
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 {{< separators type="inner" >}}
 
 *Beijing*
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 now.  
 rework Peking.
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 soling it,  
 screwing it,
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 from levers  
 to ricks,
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 everything  
 must rise.
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 {{< separators type="inner" >}}
 
 must come,  
 must go:
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 autobiography
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 (autolovely);
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 next station?  
 Wagner;
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 next love?  
 so rare;
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 {{< separators type="inner" >}}
 
 readable &  
 emanating:  
 old it;
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 invisible:  
 can only  
 be it;
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 simple,  
 delusional:  
 that's it;
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 {{< separators type="inner" >}}
 
 l &nbsp; ve  
 &nbsp; i  
 r &nbsp; sk
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 like the  
 globule  
 lovers
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 who live
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 like  
 slopes,
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 who risk
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 like  
 one
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 {{< separators type="inner" >}}
 
 those paths.  
 shit.
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 to it.
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 the dart.  
 the structure.
 how to.  
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 how to.  
 do that well.
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 without self.  
 nothing.
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 meseems rather.  
 not altogether.  
 strange.
-{: style="padding-left: 45%" .EN}
+{: style="padding-left: 45%"}
 
 {{< separators type="inner" >}}
 
 The irony, the same, again and again. At last, you, because you stopped reading, you see, rather than you think. Bloody you. You should have crouched right in my midst. Speaking of the devil. How come I would still be? At it? How? In my bent, I see it from here. Yes. Don’t you?
-{: style="padding-left: 25%; padding-right: 25%; text-align: justify" .EN}
+{: style="padding-left: 25%; padding-right: 25%; text-align: justify"}
 
 ## V
 
 Behold the early yielding of  
 
 the beggaring focus of  
-{:style="padding-left: 3rem" .EN}
+{:style="padding-left: 3rem"}
 
 the last serious representative of  
-{:style="padding-left: 6rem" .EN}
+{:style="padding-left: 6rem"}
 
 the first sceners!  
-{:style="padding-left: 9rem" .EN}
+{:style="padding-left: 9rem"}
 
 {{< separators type="inner" >}}
 
@@ -414,111 +414,111 @@ the where, the how, the this that called me,
 ## VI
 
 long  
-{:style="margin-bottom: 0" .EN}
+{:style="margin-bottom: 0"}
 
 they lasted  
-{:style="padding-left: 2.5rem; margin-bottom: 0" .EN}
+{:style="padding-left: 2.5rem; margin-bottom: 0"}
 
 in  
-{:style="padding-left: 7.5rem; margin-bottom: 0" .EN}
+{:style="padding-left: 7.5rem; margin-bottom: 0"}
 
 {{< separators type="blank" >}}
 {{< separators type="blank" >}}
 
 the Cave  
-{:style="padding-left: 13rem" .EN}
+{:style="padding-left: 13rem"}
 
 {{< separators type="blank" >}}
 {{< separators type="blank" >}}
 
 (downright  
-{:.endless style="padding-left: 26rem; margin-bottom: 0" .EN}
+{:.endless style="padding-left: 26rem; margin-bottom: 0"}
 
 aggraphical  
-{:.endless style="padding-left: 21rem; margin-bottom: 0" .EN}
+{:.endless style="padding-left: 21rem; margin-bottom: 0"}
 
 (Offeresteia  
-{:style="padding-left: 16rem" .EN}
+{:style="padding-left: 16rem"}
 
 {{< separators type="blank" >}}
 
 (allowing  
-{:style="padding-left: 15.5rem; margin-bottom: 0" .EN}
+{:style="padding-left: 15.5rem; margin-bottom: 0"}
 
 cowardists  
-{:style="padding-left: 11rem; margin-bottom: 0" .EN}
+{:style="padding-left: 11rem; margin-bottom: 0"}
 
 altogether)  
-{:style="padding-left: 6rem" .EN}
+{:style="padding-left: 6rem"}
 
 {{< separators type="inner" >}}
 
 I am sucked  
 
 into  
-{:style="padding-left: 6rem" .EN}
+{:style="padding-left: 6rem"}
 
 alive at all  
-{:style="padding-left: 2rem" .EN}
+{:style="padding-left: 2rem"}
 
 literature  
-{:style="padding-left: 7rem" .EN}
+{:style="padding-left: 7rem"}
 
 into  
-{:style="padding-left: 5rem" .EN}
+{:style="padding-left: 5rem"}
 
 the &c.  
-{:style="padding-left: 8rem" .EN}
+{:style="padding-left: 8rem"}
 
 (a blank)  
-{:style="padding-left: 11rem" .EN}
+{:style="padding-left: 11rem"}
 
 the what?  
-{:style="padding-left: 15rem" .EN}
+{:style="padding-left: 15rem"}
 
 the  
-{:style="padding-left: 13rem; margin-bottom: 0" .EN}
+{:style="padding-left: 13rem; margin-bottom: 0"}
 
 nothing!  
-{:style="padding-left: 17rem; margin-bottom: 0" .EN}
+{:style="padding-left: 17rem; margin-bottom: 0"}
 
 of an--  
-{:style="padding-left: 8rem; margin-bottom: 0" .EN}
+{:style="padding-left: 8rem; margin-bottom: 0"}
 other  
-{:style="padding-left: 15rem; margin-bottom: 0" .EN}
+{:style="padding-left: 15rem; margin-bottom: 0"}
 will...  
-{:style="padding-left: 11rem" .EN}
+{:style="padding-left: 11rem"}
 
 {{< separators type="inner" >}}
 
 Media doings. Duel lives. Ecce heap.  
 We evened out your resistures and here you are supporting me.  
 How very like. The light path and the old.  
-{:.endless .EN}
+{:.endless}
 
 Better to force what might than what hasn’t.  
 Not absolutely sure. I, for instance, am a void, ergo. Haha.  
 (In rigorous ethics one quotes only oneself.)  
-{:.endless .EN}
+{:.endless}
 
 That’s going on. Again. Naturally this way.  
 (Your thought could have dealt with such fucking legitimists.)  
 Here also almost the own coin of one’s exrection.  
-{:.endless .EN}
+{:.endless}
 
 {{< separators type="inner" >}}
 
 *so solved*  
-{:.endless style="padding-left: 24rem" .EN}
+{:.endless style="padding-left: 24rem"}
 
 the shell  
-{:style="padding-left: 14rem; margin-bottom: 0" .EN}
+{:style="padding-left: 14rem; margin-bottom: 0"}
 the shoe  
-{:style="padding-left: 10rem; margin-bottom: 0" .EN}
+{:style="padding-left: 10rem; margin-bottom: 0"}
 the home  
-{:style="padding-left: 6rem; margin-bottom: 0" .EN}
+{:style="padding-left: 6rem; margin-bottom: 0"}
 the hotel  
-{:style="padding-left: 2rem" .EN}
+{:style="padding-left: 2rem"}
 
 {{< separators type="blank" >}}
 
@@ -529,25 +529,25 @@ paragons
 
 (whoresome  
 reflex)  
-{:style="padding-left: 1rem" .EN}
+{:style="padding-left: 1rem"}
 
 (where--  
-{:style="padding-left: 2rem" .EN}
+{:style="padding-left: 2rem"}
 
 (Yseult  
-{:style="padding-left: 8rem" .EN}
+{:style="padding-left: 8rem"}
 
 (Shaka)  
-{:.endless style="padding-left: 30rem" .EN}
+{:.endless style="padding-left: 30rem"}
 
 (Antares)  
-{:.endless style="padding-left: 20rem" .EN}
+{:.endless style="padding-left: 20rem"}
 
 longing)  
-{:style="padding-left: 8rem" .EN}
+{:style="padding-left: 8rem"}
 
 withal)  
-{:style="padding-left: 2rem" .EN}
+{:style="padding-left: 2rem"}
 
 ## VII
 
@@ -561,30 +561,30 @@ withal)
 (Banes of page art.)  
 
 (One more.)  
-{:style="margin-bottom: 0" .EN}
+{:style="margin-bottom: 0"}
 Lain orgasms,  
-{:style="padding-left: 2rem; margin-bottom: 0" .EN}
+{:style="padding-left: 2rem; margin-bottom: 0"}
 &nbsp; (Ferality.)  
 &nbsp; (Grabbings.)  
 (Huts of hatred.)  
 (Homes of one's own.)  
 
 Wise until in themselves,  
-{:style="padding-left: 2rem" .EN}
+{:style="padding-left: 2rem"}
 
 (Twisted, banging on the whies, I entertained true freedom, will brighten without existences or will, after the days, imperial at myself, a man always, be all writs, all accounts.)  
-{:style="padding-left: 4rem; text-indent: -1rem; text-align: justify" .EN}
+{:style="padding-left: 4rem; text-indent: -1rem; text-align: justify"}
 
 (One more.)  
 
 (That’s what’s happening to. Nothings. (Conflicted tormonstrances.) Haha, those. dirty nothings. (Shapely!, as in, that can’t but end up getting read.))  
-{:style="padding-left: 4rem; text-indent: -1rem; text-align: justify" .EN}
+{:style="padding-left: 4rem; text-indent: -1rem; text-align: justify"}
 
 Rather than in you, they, exits without proofs,  
-{:style="padding-left: 3rem; text-indent: -1rem; text-align: justify" .EN}
+{:style="padding-left: 3rem; text-indent: -1rem; text-align: justify"}
 
 (It might have been, haha, it’s a shame, really, it was in the thing, in the picture, this, (haha, the very moor of the voice, yes, so much peat in there), so many periods that might have been.)  
-{:style="padding-left: 4rem; text-indent: -1rem; text-align: justify" .EN}
+{:style="padding-left: 4rem; text-indent: -1rem; text-align: justify"}
 
 Follow their determinations (more than only unique ambitions).  
-{:style="padding-left: 3rem; text-indent: -1rem; text-align: justify" .EN}
+{:style="padding-left: 3rem; text-indent: -1rem; text-align: justify"}
