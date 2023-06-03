@@ -66,9 +66,11 @@ defaultContentLanguage: en
 languages:
   en:
     contentDir: content/en
+    languageName: English
     weight: 1
   fr:
     contentDir: content/fr
+    languageName: Français
     weight: 2
 
 # -----------------------------------------------------------------------
