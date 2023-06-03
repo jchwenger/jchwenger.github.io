@@ -36,8 +36,10 @@ params:
   copyright: "Jérémie C. Wenger"
   # Show the "Powered by Hugo-Tufte and Hugo."
   showPoweredBy: false
-  # Site wide kill switch for date in pages
+  # Sitewide kill switch for date in pages
   hidedate: false
+  # Sitewide kill switch for read time in pages
+  hidereadtime: true
   # Site wide kill switch for post summary on home page
   showSummary: true
   # Site wide kill switch for LaTeX support
