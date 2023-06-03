@@ -327,3 +327,10 @@ p:lang(ja), span:lang(ja), {
 .text-right p {
   text-align: right;
 }
+
+li {
+  p {
+    width: 100%;
+    margin: 0;
+  }
+}
