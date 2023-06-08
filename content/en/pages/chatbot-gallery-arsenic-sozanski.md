@@ -5,7 +5,7 @@ header:
   overlay_filter: "0.2"
   overlay_image: https://chatbot-manufacture.s3.eu-west-2.amazonaws.com/Fovanna-chatbot-2021-37.webp
 excerpt: "Act and dialogue with a conversational agent-actor."
-title: CHATBOT Gallery
+title: CHATBOT Gallery (Sozanski @ Arsenic)
 date: 2021-12-03 19:02:37.917021534 +0000 
 permalink: /chatbot-gallery-arsenic-sozanski/
 
