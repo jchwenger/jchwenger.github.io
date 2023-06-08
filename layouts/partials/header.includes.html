@@ -25,3 +25,7 @@
 <link rel="stylesheet" href="{{ $htstyle.Permalink | relURL }}">
 
 <link rel="stylesheet" href="{{ "/css/hugo-tufte-override.css" | relURL }}">
+
+{{ if .Params.gallery }}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bricks.js/1.1.1/bricks.min.js" integrity="sha512-lPvL3wHPKH9rjYFEgr/ZWvMk6BqgUkhfF/7a89wg0NIazIexka/OPe3rkpPabQq21Q9wqoRCf/FnhACKJUOStw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+{{ end }}

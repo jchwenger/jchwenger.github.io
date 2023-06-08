@@ -1,0 +1,29 @@
+{{ $globalCtx := . }}
+{{ $galleryName := .Get "id" }}
+{{ with .Page.Params.gallery }}
+  {{ range . }}
+    {{ range $k, $v := . }}
+      {{ if eq $galleryName $k }}
+        <div class="bricks-masonry {{ printf "bricks-masonry-%s" $galleryName }}">
+          {{ range $v }}
+            <img src="{{ .url }}" alt="" loading="lazy">
+          {{ end }}
+        </div>
+        {{ with $globalCtx.Get "caption" }}
+        <p class="bricks-masonry-legend"><em>{{ . }}</em></p>
+        {{ end }}
+        <script>
+          Bricks({
+            container: '.{{ printf "bricks-masonry-%s" $galleryName }}',
+            packed: '{{ printf "packed-%s" $galleryName }}',
+            sizes: [
+              { columns: 2, gutter: 10 },
+              { mq: '768px', columns: 3, gutter: 25 },
+              { mq: '1024px', columns: 4, gutter: 50 }
+            ]
+          });
+        </script>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ end }}
