@@ -5,41 +5,40 @@ header:
   overlay_filter: "0.2"
   overlay_image: https://chatbot-manufacture.s3.eu-west-2.amazonaws.com/Fovanna-chatbot-2021-37.webp
 excerpt: "Act and dialogue with a conversational agent-actor."
-title: CHATBOT Gallery
+title: CHATBOT Gallery (demos)
 date: 2021-12-04 13:11:45.097804320 +0000 
 permalink: /chatbot-gallery-demos/
 
-
-authors:
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/corneille.png
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/corneille.png
-    title: "Pierre Corneille, author of <i>Le Cid</i> (this portrait is also the favicon for the bot site)"
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/chekhov.png
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/chekhov.png
-    title: "Anton Chekhov, author of <i>The Cherry Orchard</i>"
-
-icons:
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/01-nicolas-zlatoff.gif
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/01-nicolas-zlatoff.gif
-    title: Nicolas Zlatoff
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/02-guillaume-ceppi.gif
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/02-guillaume-ceppi.gif
-    title: Guillaume Ceppi
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/03-lucas-savioz.gif
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/03-lucas-savioz.gif
-    title: Lucas Savioz
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/04-bartek-sozanski.gif
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/04-bartek-sozanski.gif
-    title: Bartek Sozanski
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/05-elsa-thébault.gif
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/05-elsa-thébault.gif
-    title: Elsa Thébault
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/06-lisa-veyrier.gif
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/06-lisa-veyrier.gif
-    title: Lisa Veyrier
-  - url: https://chatbot-2021-icons.s3.amazonaws.com/07-jérémie-wenger.gif
-    image_path: https://chatbot-2021-icons.s3.amazonaws.com/07-jérémie-wenger.gif
-    title: Jérémie Wenger
+gallery:
+  - authors:
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/corneille.png
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/corneille.png
+      title: "Pierre Corneille, author of <i>Le Cid</i> (this portrait is also the favicon for the bot site)"
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/chekhov.png
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/chekhov.png
+      title: "Anton Chekhov, author of <i>The Cherry Orchard</i>"
+  - icons:
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/01-nicolas-zlatoff.gif
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/01-nicolas-zlatoff.gif
+      title: Nicolas Zlatoff
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/02-guillaume-ceppi.gif
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/02-guillaume-ceppi.gif
+      title: Guillaume Ceppi
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/03-lucas-savioz.gif
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/03-lucas-savioz.gif
+      title: Lucas Savioz
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/04-bartek-sozanski.gif
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/04-bartek-sozanski.gif
+      title: Bartek Sozanski
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/05-elsa-thébault.gif
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/05-elsa-thébault.gif
+      title: Elsa Thébault
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/06-lisa-veyrier.gif
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/06-lisa-veyrier.gif
+      title: Lisa Veyrier
+    - url: https://chatbot-2021-icons.s3.amazonaws.com/07-jérémie-wenger.gif
+      image_path: https://chatbot-2021-icons.s3.amazonaws.com/07-jérémie-wenger.gif
+      title: Jérémie Wenger
 
 ---
 
@@ -143,20 +142,17 @@ There is also a "bots only" page, to display specifically what the bots are writ
 
 Other videos show work on collecting and cleaning datasets.
 
-<div class="responsive-video-container">
-<iframe src="https://www.youtube.com/embed/?listType=playlist&list=PLlNDOBNFozLDlk3eGGFWOchRJ6B4ADset" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
+{{< youtube-playlist id="PLlNDOBNFozLDlk3eGGFWOchRJ6B4ADset" >}}
 
 ## Memes
 
 Two authors prominently feature in the show: Pierre Corneille, and Anton Chekhov. The idea of making a favicon out of Corneille came to me early, and opened the door to more meme-oriented fun.
 
-{% include gallery id="authors" layout="half" %}
+{{< gallery id="authors" caption="photographs and memestry: Jérémie Wenger" >}}
 
 This led to the idea of having gifs in a similar style for the team.
 
-{% include gallery id="icons" layout="fourth" caption="*photographs and memestry: Jérémie Wenger*" %}
+{{< gallery id="icons" caption="photographs and memestry: Jérémie Wenger" >}}
 
 ## Three answers to [Oriza Hirata](https://en.wikipedia.org/wiki/Oriza_Hirata)
 
