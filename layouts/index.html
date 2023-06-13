@@ -12,7 +12,12 @@
     {{ range (where .Site.AllPages.ByDate.Reverse ".Kind" "==" "page") }}
       {{ if (not .Params.unlisted )}}
       <li {{ if.Draft}}class="content-draft"{{ end }}>
-        {{ if .Draft }} :: Draft | {{end}}<a {{ if (not .Params.unlinked) }}href="{{ .RelPermalink }}"{{ end }}><em>{{ .Title }}</em></a>, {{ .PublishDate.Format "January 2006" }}, <span class="content-small">({{ .WordCount }} words)</span>.{{ if .Description }}) {{ .Description }}.{{ end }}
+        {{ if .Draft }} :: Draft | {{end}}
+        <a {{ if (not .Params.unlinked) }}href="{{ .RelPermalink }}"{{ end }}>
+          <em>{{ .Title }}</em></a>,
+       {{ i18n (printf "%s" .PublishDate.Month) }} {{ .PublishDate.Format "2006" }}.
+       {{ if .Description }} <span class="content-description">{{ .Description }}.</span>{{ end }}
+       {{ if .Params.wordcount }}<span class="content-small"> ({{ .WordCount }} words)</span>{{ end }}
       </li>
       {{ end }}
     {{ end }}
