@@ -4,8 +4,11 @@ tags
 # ---
 *.sw*
 
+# hugo, sass
+# ----------
 .bundle
 .sass-cache
 _asset_bundler_cache
 codekit-config.json
 node_modules
+resources
