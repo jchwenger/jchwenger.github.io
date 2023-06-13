@@ -58,6 +58,12 @@ h3:hover > a:active {
   text-decoration: underline;
 }
 
+
+h1, h2, h3, h4, h5, h6 {
+  width: 75%;
+  max-width: 45rem;
+}
+
 hr {
     text-align: left;
     margin-left: 0;
@@ -367,6 +373,10 @@ li {
 
 .content-draft {
   color: #929292;
+}
+
+.content-description {
+  color: #585858;
 }
 
 .content-small {
