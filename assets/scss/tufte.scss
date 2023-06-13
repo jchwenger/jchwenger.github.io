@@ -66,26 +66,50 @@ body {
 
 h1 {
     font-weight: 400;
+    font-size: 3.2rem;
     margin-top: 4rem;
     margin-bottom: 1.5rem;
-    font-size: 3.2rem;
     line-height: 1;
 }
 
 h2 {
     font-style: italic;
     font-weight: 400;
+    font-size: 2.4rem;
     margin-top: 2.1rem;
     margin-bottom: 0;
-    font-size: 2.2rem;
     line-height: 1;
 }
 
 h3 {
     font-style: italic;
     font-weight: 400;
-    font-size: 1.7rem;
+    font-size: 2.2rem;
     margin-top: 2rem;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+h4 {
+    font-weight: 400;
+    font-size: 1.9rem;
+    margin-top: 1.8rem;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 1.7rem;
+    margin-top: 1.6rem;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+h6 {
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-top: 1.4rem;
     margin-bottom: 0;
     line-height: 1;
 }
