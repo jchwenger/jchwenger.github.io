@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Artificial It (Logisms)
 date: 2019-09-19 12:47:55.337199455 +0100
 permalink: /logisms/

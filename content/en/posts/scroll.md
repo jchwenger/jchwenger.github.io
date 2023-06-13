@@ -1,5 +1,4 @@
 ---
-layout: single
 title: A Scroll
 date: 2019-11-20 17:51:17.928854247 +0000
 permalink: /scroll/

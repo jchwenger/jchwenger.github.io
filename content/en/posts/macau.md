@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Macau
 date: 2019-01-11 17:53:21 +0100
 permalink: /macau/

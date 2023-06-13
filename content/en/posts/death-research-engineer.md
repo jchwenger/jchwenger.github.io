@@ -1,5 +1,4 @@
 --- 
-layout: single
 title: Death of a Research Engineer
 date: 2019-11-15 12:54:46.338292059 +0000
 permalink: /death-research-engineer/ 

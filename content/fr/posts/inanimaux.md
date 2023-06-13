@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Inanimaux
 date: 2020-12-18 15:03:09.404026231 +0000
 permalink: /inanimaux/

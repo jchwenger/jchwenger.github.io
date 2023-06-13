@@ -1,5 +1,4 @@
 ---
-layout: single 
 title: Ideas    
 date: 2016-12-18 20:34:13.000000000 +0000
 permalink: /ideas/  

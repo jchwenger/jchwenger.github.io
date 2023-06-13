@@ -1,5 +1,4 @@
 --- 
-layout: single
 title: Neovalis
 date: 2017-08-23 06:30:01.000000000 +0100
 permalink: /neovalis/

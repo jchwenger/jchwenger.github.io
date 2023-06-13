@@ -1,5 +1,4 @@
 ---  
-layout: single  
 title: Solids (NSFW)  
 date: 2016-10-31 18:04:18.000000000 +0000
 permalink: /solids/  

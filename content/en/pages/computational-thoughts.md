@@ -1,5 +1,4 @@
 ---  
-layout: single 
 title: Computational Thoughts 
 date: 2018-06-15 18:31:25.516793919 +0100
 permalink: /computational-thoughts/  

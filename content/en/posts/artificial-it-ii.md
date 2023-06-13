@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Artificial It ("to begin with")
 date: 2019-09-19 15:31:38.989599762 +0100
 permalink: /artificial-it-ii/

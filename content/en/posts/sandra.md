@@ -1,5 +1,4 @@
 ---  
-layout: single  
 title: "Sandra K. wakes up..."  
 date: 2017-02-28 20:41:00.000000000 +0000
 permalink: /sandra/  

@@ -1,5 +1,4 @@
 ---
-layout: single 
 title: Pastiches & mélanges    
 ml5: true
 permalink: /pastiches/  

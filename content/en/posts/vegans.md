@@ -1,5 +1,4 @@
 ---
-layout: single
 classes: wide
 title: "Vegans"
 date: 2021-10-27 13:20:34.525753107 +0100

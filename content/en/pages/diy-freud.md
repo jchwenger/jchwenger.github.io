@@ -1,5 +1,4 @@
 ---
-layout: single
 excerpt: "Effective therapy on the cheap"
 title: DIY Freud
 date: '2022-02-14 14:00:16.585520139 +0000'

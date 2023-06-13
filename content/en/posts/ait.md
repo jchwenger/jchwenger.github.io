@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Artificial It
 date: 2018-10-28 13:08:46.283948596 +0000
 permalink: /ait/

@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /about/
 classes: homepage
 author_profile: true

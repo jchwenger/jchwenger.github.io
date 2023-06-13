@@ -1,5 +1,4 @@
 ---
-layout: single
 classes: wide
 title: "Lacanage"
 date: 2021-09-06 15:43:49.434726143 +0200

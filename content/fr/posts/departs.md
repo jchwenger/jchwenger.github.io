@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Départs"
 date: 2021-12-10 14:54:22.426607256 +0000
 permalink: /departs/

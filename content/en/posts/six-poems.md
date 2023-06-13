@@ -1,5 +1,4 @@
 ---  
-layout: single  
 title: Six Poems  
 date: 2017-11-01 16:49:28.000000000 +0000
 permalink: /six-poems/  

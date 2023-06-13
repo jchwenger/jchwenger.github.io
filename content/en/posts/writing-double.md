@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Writing and its Double
 date: 2019-05-06 00:35:19.240800200 +0100
 permalink: /writing-double/

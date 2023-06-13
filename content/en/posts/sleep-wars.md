@@ -1,5 +1,4 @@
 --- 
-layout: single
 title: Sleep Wars 
 date: 2016-03-15 23:47:20.000000000 +0000
 permalink: /sleep-wars/ 

@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Ça artificiel
 classes: wide
 date:  2019-04-12 13:52:24.447654484 +0200

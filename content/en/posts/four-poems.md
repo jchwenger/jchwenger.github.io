@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Four Poems 
 date: 2016-04-04 15:45:52.000000000 +0100
 permalink: /four-poems/  

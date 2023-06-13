@@ -1,5 +1,4 @@
 ---
-layout: single
 title: Essay
 date: 2017-09-21 13:21:20.000000000 +0100
 permalink: /essay/

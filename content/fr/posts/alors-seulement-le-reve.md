@@ -1,8 +1,7 @@
 ---  
-layout: single  
 classes: wide  
 title: "Alors seulement le rêve..."  
-date: 2021-04-09 19:35:50.064492611 +0100  
+date: 2021-04-09 19:35:50.064492611 +0100
 permalink: /alors-seulement-le-reve/  
 pitch:  
 - "Textes neuraux"  

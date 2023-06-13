@@ -1,5 +1,4 @@
 ---
-layout: single
 classes: wide
 title: Les mots sous les mots
 date:  2019-03-09 12:20:39.683945699 +0000

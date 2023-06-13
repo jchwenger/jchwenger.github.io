@@ -1,5 +1,4 @@
 ---
-layout: single
 classes: wide
 title: Carrés 
 date:  2019-03-09 11:59:19.970839024 +0000
