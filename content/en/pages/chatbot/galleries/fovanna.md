@@ -8,6 +8,7 @@ excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT Gallery (Fovanna)
 date: 2021-11-29 22:43:33.151270184 +0100 
 permalink: /chatbot-gallery-fovanna/
+unlisted: true
 
 fovanna:
   - url: https:/chatbot-manufacture.s3.eu-west-2.amazonaws.com/Fovanna-chatbot-2021-01.webp

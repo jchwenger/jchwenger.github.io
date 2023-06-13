@@ -3,6 +3,7 @@ title: Volume 2. Cool Volume
 type: book
 layout: chapters
 draft: true
+unlisted: true
 ---
 This is a layout showcase for:
 

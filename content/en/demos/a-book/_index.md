@@ -4,6 +4,7 @@ subtitle: Best book ever!
 type: book
 layout: all
 draft: true
+unlisted: true
 ---
 This is a layout showcase for:
 

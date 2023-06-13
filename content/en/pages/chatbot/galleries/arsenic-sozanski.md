@@ -8,6 +8,7 @@ excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT Gallery (Sozanski @ Arsenic)
 date: 2021-12-03 19:02:37.917021534 +0000 
 permalink: /chatbot-gallery-arsenic-sozanski/
+unlisted: true
 
 sozanski:
   - url: https:/chatbot-manufacture.s3.eu-west-2.amazonaws.com/Sozanski-Arsenic-2021-01.webp

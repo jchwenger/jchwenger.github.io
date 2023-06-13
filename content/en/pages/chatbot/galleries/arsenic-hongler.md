@@ -8,6 +8,7 @@ excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT Gallery (Hongler @ Arsenic)
 date: 2021-12-03 19:02:34.913010652 +0000 
 permalink: /chatbot-gallery-arsenic-hongler/
+unlisted: true
 
 hongler:
   - url: https:/chatbot-manufacture.s3.eu-west-2.amazonaws.com/Hongler-rehearsals-2021-001.webp

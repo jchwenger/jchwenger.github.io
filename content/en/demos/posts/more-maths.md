@@ -11,6 +11,7 @@ categories:
   - latex
   - tufte-css
 draft: true
+unlisted: true
 ---
 
 A compilation of `$\LaTeX$` formulas...

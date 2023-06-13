@@ -8,6 +8,7 @@ excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT Gallery (training)
 date: 2021-11-29 22:45:20.246370800 +0100  
 permalink: /chatbot-gallery-training/
+unlisted: true
 
 hongler:
   - url: https:/chatbot-manufacture.s3.eu-west-2.amazonaws.com/Hongler-training-2021-1.webp

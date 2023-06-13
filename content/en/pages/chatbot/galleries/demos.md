@@ -8,6 +8,7 @@ excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT Gallery (demos)
 date: 2021-12-04 13:11:45.097804320 +0000 
 permalink: /chatbot-gallery-demos/
+unlisted: true
 
 gallery:
   - authors:
