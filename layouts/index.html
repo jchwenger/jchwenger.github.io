@@ -15,7 +15,7 @@
         {{ if .Draft }} :: Draft | {{end}}
         <a {{ if (not .Params.unlinked) }}href="{{ .RelPermalink }}"{{ end }}>
           <em>{{ .Title }}</em></a>,
-       {{ i18n (printf "%s" .PublishDate.Month) }} {{ .PublishDate.Format "2006" }}.
+       {{ i18n (printf "%s" .PublishDate.Month) }} {{ .PublishDate.Format "2006" }}{{ with .Params.publication | markdownify }}, ({{ . }}){{ end }}.
        {{ if .Description }} <span class="content-description">{{ .Description }}.</span>{{ end }}
        {{ if .Params.wordcount }}<span class="content-small"> ({{ .WordCount }} words)</span>{{ end }}
       </li>
