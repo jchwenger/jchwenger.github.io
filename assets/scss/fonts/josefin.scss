@@ -1,0 +1,96 @@
+/*
+ * --------------------------------------------------------------------------------
+ * Josefin Sans Font Faces
+ * =======================
+ * https://fonts.google.com/specimen/Josefin+Sans
+ */
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: 300;
+  font-style: normal;
+  src: local("Josefin Sans Light"), local("JosefinSans-Light"),
+  url("josefin/JosefinSans-Light.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: normal;
+  font-style: normal;
+  src: local("Josefin Sans Regular"), local("JosefinSans-Regular"),
+  url("josefin/JosefinSans-Regular.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: 600;
+  font-style: italic;
+  src: local("Josefin Sans SemiBold Italic"), local("JosefinSans-SemiBoldItalic"),
+  url("josefin/JosefinSans-SemiBoldItalic.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: 300;
+  font-style: italic;
+  src: local("Josefin Sans Light Italic"), local("JosefinSans-LightItalic"),
+  url("josefin/JosefinSans-LightItalic.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: 600;
+  font-style: normal;
+  src: local("Josefin Sans SemiBold"), local("JosefinSans-SemiBold"),
+  url("josefin/JosefinSans-SemiBold.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: bold;
+  font-style: italic;
+  src: local("Josefin Sans Bold Italic"), local("JosefinSans-BoldItalic"),
+  url("josefin/JosefinSans-BoldItalic.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: 100;
+  font-style: italic;
+  src: local("Josefin Sans Thin Italic"), local("JosefinSans-ThinItalic"),
+  url("josefin/JosefinSans-ThinItalic.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: 100;
+  font-style: normal;
+  src: local("Josefin Sans Thin"), local("JosefinSans-Thin"),
+  url("josefin/JosefinSans-Thin.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: bold;
+  font-style: normal;
+  src: local("Josefin Sans Bold"), local("JosefinSans-Bold"),
+  url("josefin/JosefinSans-Bold.woff2") format("woff2"),
+}
+
+@font-face {
+  font-family: 'Josefin Sans';
+  font-display: swap;
+  font-weight: normal;
+  font-style: italic;
+  src: local("Josefin Sans Italic"), local("JosefinSans-Italic"),
+  url("josefin/JosefinSans-Italic.woff2") format("woff2"),
+}
