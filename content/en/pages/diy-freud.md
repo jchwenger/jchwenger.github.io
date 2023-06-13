@@ -2,7 +2,7 @@
 layout: single
 excerpt: "Effective therapy on the cheap"
 title: DIY Freud
-date: 2022-02-14 14:00:16.585520139 +0000 
+date: '2022-02-14 14:00:16.585520139 +0000'
 permalink: /diy-freud/
 ---
 
@@ -21,10 +21,12 @@ Recipe for a therapy framework on the cheap:
 3. Set a theme for yourself. You will drift off, that's part of the joy, but it can help you keep a direction or focus on something in particular.
 4. Press record and start speaking. (You may delete the recorded file after, as you wish, the important thing is that you know the machine is listening.)
 
-   Optionally, you can also:
+Optionally, you can also:
+
 5. Set a direct debit in your bank account, as small as you'd like it to be, to whomever, a friend, a charity, etc., to integrate a financial commitment to your sessions.
 
-   And finally:
+And finally:
+
 6. Organise your sessions around that regular payment, which would also act as the time of your session, so that you not only do you have the financial constraint set up, but also the simulated *limited* access to your 'therapist', with only, say, one session per week, that you can look forward to, prepare for, get all angsty about, etc., while you also go about your life doing other things.[^2]
 
 My CPU-felt wishes to you all on your path to recovery 🤖.
