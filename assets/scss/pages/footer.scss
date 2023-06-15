@@ -20,7 +20,7 @@ footer.page-footer hr {
     width: 100%;
 }
 
-footer.page-footer ul.page-footer-menu {
+footer.page-footer div.page-footer-info ul.page-footer-menu {
   list-style: none;
   display: block;
   /*text-align:center;*/
@@ -29,10 +29,16 @@ footer.page-footer ul.page-footer-menu {
     width: unset;
 }
 
-footer.page-footer ul.page-footer-menu li {
+footer.page-footer div.page-footer-info ul.page-footer-menu li {
   display: inline-block;
   margin-right: 0.5rem;
   // font-size: 55%;
+}
+
+@media screen and (max-width: 760px) {
+  footer.page-footer div.page-footer-info ul.page-footer-menu li {
+    margin-right: 0;
+  }
 }
 
 .page-footer-info {

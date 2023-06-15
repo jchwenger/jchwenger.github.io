@@ -64,6 +64,12 @@ h1, h2, h3, h4, h5, h6 {
   max-width: 45rem;
 }
 
+@media screen and (max-width: 760px) {
+  h1, h2, h3, h4, h5, h6 {
+    width: 90%;
+  }
+}
+
 hr {
     text-align: left;
     margin-left: 0;
@@ -75,6 +81,12 @@ hr {
     border-color: red;
 }
 
+@media screen and (max-width: 760px) {
+  hr {
+    width: 90%;
+  }
+}
+
 kbd {
   border: 1px #111 solid;
   border-radius: 5px;
@@ -84,13 +96,6 @@ kbd {
 
 mark {
     background: #f0d9bb;
-}
-
-@media screen and (max-width: 760px) {
-  h1, h2, h3, h4, h5, h6,
-  hr {
-    width: 90%;
-  }
 }
 
 /* ------------------------------------------------------------------------ */
@@ -164,6 +169,12 @@ table.lntable {
             }
         }
     }
+}
+
+@media screen and (max-width: 760px) {
+  .footnotes ol {
+    width: 90%;
+  }
 }
 
 /* ------------------------------------------------------------------------ */
