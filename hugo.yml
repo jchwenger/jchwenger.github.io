@@ -75,12 +75,12 @@ languages:
 # -----------------------------------------------------------------------
 # Navigation menu
 # -----------------------------------------------------------------------
-menu:
-  nav:
-    - name: Home
-      weight: -110
-      identifier: home
-      url: /
+# menu:
+#   nav:
+    # - name: Home
+    #   weight: -110
+    #   identifier: home
+    #   url: /
     # - name: Posts
     #   weight: -100
     #   identifier: posts
@@ -111,45 +111,6 @@ menu:
   #     identifier: custom_link
   #     url: 'https://example.com'
 
-
-
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-
-
-# # Site Author
-# author:
-#   name             : "Jérémie C. Wenger"
-#   avatar           : "/assets/jcw_colour_square.jpg"
-#   bio              : "Mostly text"
-#   location         : "London"
-#   email            : "jeremie[dot]wenger[at]gmail[dot]com"
-#   links:
-#     - label: "Website"
-#       icon: "fas fa-fw fa-link"
-#       # url: "https://your-website.com"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter"
-#       # url: "https://twitter.com/"
-#     - label: "Facebook"
-#       icon: "fab fa-fw fa-facebok"
-#       # url: "https://facebook.com/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       # url: "https://github.com/"
-#     - label: "Instagram"
-#       icon: "fab fa-fw fa-instagram"
-#       # url: "https://instagram.com/"
 
 # projects:
 #   projects:
@@ -237,20 +198,3 @@ menu:
 #     - label: "SoundCloud"
 #       icon: "fab fa-fw fa-soundcloud"
 #       # url: https://soundcloud.com/hilperic
-
-# # Plugins (previously gems:)
-# plugins:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-
-# # mimic GitHub Pages with --safe
-# whitelist:
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jekyll-gist
-#   - jekyll-feed
-#   - jemoji
-
