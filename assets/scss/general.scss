@@ -86,6 +86,13 @@ mark {
     background: #f0d9bb;
 }
 
+@media screen and (max-width: 760px) {
+  h1, h2, h3, h4, h5, h6,
+  hr {
+    width: 90%;
+  }
+}
+
 /* ------------------------------------------------------------------------ */
 /* Styling for listing pages. */
 /* ------------------------------------------------------------------------ */
@@ -361,6 +368,13 @@ li {
   padding-left: 0;
 }
 
+@media screen and (max-width: 760px) {
+  .content-list {
+    width: 90%;
+  }
+}
+
+
 .content-list li {
   list-style: none;
   padding-left: 2ch;
@@ -385,22 +399,4 @@ li {
 
 .letterhead > h1 {
   font-family: Josefin Sans;
-}
-
-/* ------------------------------------------------------------------------
- * Footer
- * ------------------------------------------------------------------------ */
-
-.page-footer-info {
-  display: flex;
-  justify-content: space-between;
-}
-
-.copyright {
-  flex: 1 1 auto;
-}
-
-.copyright p {
-  float: right;
-  text-align: right;
 }

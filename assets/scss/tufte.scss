@@ -343,6 +343,9 @@ div.table-wrapper {
 }
 
 @media screen and (max-width: 760px) {
+    body {
+      padding-left: 5%;
+    } 
     h2,
     h3,
     p,
@@ -365,6 +368,9 @@ div.table-wrapper {
     blockquote p,
     blockquote footer {
         width: 90%;
+    }
+    article {
+      padding: 0;
     }
 }
 
