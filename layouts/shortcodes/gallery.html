@@ -1,10 +1,15 @@
 {{ $globalCtx := . }}
 {{ $galleryName := .Get "id" }}
+{{ $galleryType := .Get "type" }}
 {{ with .Page.Params.gallery }}
   {{ range . }}
     {{ range $k, $v := . }}
       {{ if eq $galleryName $k }}
+        {{ if eq $galleryType "full" }}
+        <div class="bricks-masonry-full {{ printf "bricks-masonry-%s" $galleryName }}">
+        {{ else }}
         <div class="bricks-masonry {{ printf "bricks-masonry-%s" $galleryName }}">
+        {{ end }}
           {{ range $v }}
             <img src="{{ .url }}" alt="" loading="lazy">
           {{ end }}
