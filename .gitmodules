@@ -1,15 +1,3 @@
-[submodule "_imports/alors-seulement-le-reve"]
-	path = _imports/alors-seulement-le-reve
-	url = https://github.com/jchwenger/alors-seulement-le-reve
-[submodule "_imports/lacanage"]
-	path = _imports/lacanage
-	url = https://github.com/jchwenger/lacanage
-[submodule "_imports/vegans"]
-	path = _imports/vegans
-	url = https://github.com/jchwenger/vegans/
-[submodule "_imports/departs.writing"]
-	path = _imports/departs.writing
-	url = https://github.com/jchwenger/departs.writing
 [submodule "themes/hugo-tufte"]
 	path = themes/hugo-tufte
 	url = git@github.com:loikein/hugo-tufte.git
