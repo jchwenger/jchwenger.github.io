@@ -6,6 +6,9 @@
   {{ . }}
   </section>
 {{ end }}
+
+{{/* noList = true prevents the list to be displayed */}}
+{{ if not .Params.noList }}
 <section class="page-list">
   <ul class="content-list">
     {{/* https://discourse.gohugo.io/t/solved-list-all-section-pages-from-any-language/8900/2 */}}
@@ -23,6 +26,7 @@
     {{ end }}
   </ul>
 </section>
+{{ end }}
 
 {{ partial "footer.html" . }}
 </article>
