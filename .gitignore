@@ -13,3 +13,7 @@ codekit-config.json
 node_modules
 resources
 .hugo_build.lock
+
+# MacOS
+# -----
+**/.DS_Store
