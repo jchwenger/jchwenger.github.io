@@ -12,7 +12,7 @@ baseurl: ""
 title: "Jérémie C. Wenger"
 canonifyurls: true
 # Number of posts per page on the home page
-paginate: 5
+pagination.pagerSize: 5
 
 # Only modify the following if you know what you are doing
 markup:
