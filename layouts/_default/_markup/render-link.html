@@ -1,2 +1,1 @@
-{{/* https://stackoverflow.com/a/72056237 */}}
-<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if (strings.HasPrefix .Destination "http") }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>
+{{/* https://stackoverflow.com/a/72056237 */}}<a href="{{ .Destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}{{ if (strings.HasPrefix .Destination "http") }} target="_blank" rel="noopener"{{ end }}>{{ .Text | safeHTML }}</a>{{- /* chomp trailing newline, see: https://gohugo.io/render-hooks/links/ */ -}}
