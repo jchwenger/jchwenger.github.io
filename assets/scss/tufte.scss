@@ -266,7 +266,11 @@ figure.fullwidth figcaption {
 }
 
 /* Links: replicate underline that clears descenders */
-a:link,
+a:link {
+  color: blue;
+  text-decoration: none;
+}
+
 a:visited {
     color: inherit;
 }
