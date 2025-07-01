@@ -215,14 +215,18 @@ figure.fullwidth figcaption {
     margin-right: 24%;
 }
 
-/* Links: replicate underline that clears descenders */
 a:link {
   color: blue;
   text-decoration: none;
 }
 
+a:focus {
+  outline: none;
+  box-shadow: 0 1px 0 blue;
+}
+
 a:visited {
-    color: inherit;
+  color: dogerblue;
 }
 
 /* Sidenotes, margin notes, figures, captions */
