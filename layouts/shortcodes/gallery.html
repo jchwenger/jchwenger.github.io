@@ -2,13 +2,13 @@
 {{ $galleryName := .Get "id" }}
 {{ $galleryLayout := .Get "layout" }}
 {{ $imgWidth := .Get "img-width" }}
-{{ warnf "gallery, id: %s, layout: %s, img width: %s" $galleryName $galleryLayout $imgWidth }}
+{{/* {{ warnf "gallery, id: %s, layout: %s, img width: %s" $galleryName $galleryLayout $imgWidth }} */}}
 {{ with .Page.Params.gallery }}
   {{ range . }}
     {{ range $k, $v := . }}
-    {{ warnf " - k is %s" $k }}
+    {{/* {{ warnf " - k is %s" $k }} */}} 
       {{ if eq $galleryName $k }}
-      {{ warnf "%s = %s, layout: %s" $galleryName $k $galleryLayout }}
+      {{/* {{ warnf "%s = %s, layout: %s" $galleryName $k $galleryLayout }} */}}
         {{ if eq $galleryLayout "full" }}
         <div class="bricks-masonry-full {{ printf "bricks-masonry-%s" $galleryName }}">
         {{ else }}
