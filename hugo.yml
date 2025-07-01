@@ -31,7 +31,7 @@ params:
   # Some suggestions: ⊕, 💬, 💭, 📑, 🏷, ✍, 💡, 🧐, 📎, 📌
   marginNoteInd: "⊕"
   # Your name or the name of you company
-  copyright: "Jérémie C. Wenger"
+  copyright: "Jérémie Wenger"
   # Show the "Powered by Hugo-Tufte and Hugo."
   showPoweredBy: false
   # Sitewide kill switch for date in pages
