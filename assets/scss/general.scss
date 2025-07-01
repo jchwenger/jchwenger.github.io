@@ -30,6 +30,7 @@ body {
 a.heading-anchor {
     display: none;
     visibility: collapse;
+    font-size: 1.6rem;
 }
 
 h2 {
@@ -42,22 +43,18 @@ h3:hover > a.heading-anchor {
     visibility: visible;
 }
 
-h1 > a:link,
-h1 > a:visited,
-h2 > a:link,
-h2 > a:visited,
-h3 > a:link,
-h3 > a:visited {
- text-decoration: none;
+/* https://stackoverflow.com/a/62396051 */
+:is(h1, h2, h3, h4, h5, h6) > a:link,
+:is(h1, h2, h3, h4, h5, h6) > a:visited {
+    text-decoration: none;
+    color: inherit;
 }
 
-h2:hover > a:hover,
-h2:hover > a:active,
-h3:hover > a:hover,
-h3:hover > a:active {
-  text-decoration: underline;
-}
 
+// :is(h1, h2, h3, h4, h5, h6):hover > a:hover,
+:is(h1, h2, h3, h4, h5, h6):hover > a:active {
+    outline-style: none;
+}
 
 h1, h2, h3, h4, h5, h6 {
   width: 75%;
