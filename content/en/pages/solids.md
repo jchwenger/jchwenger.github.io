@@ -1,7 +1,8 @@
 ---  
 title: Solids (NSFW)  
 date: 2016-10-31 18:04:18.000000000 +0000
-permalink: /solids/  
+url: /solids/  
+draft: true
 wiki:
   - img_path: "/assets/solids/wiki/Tetrahedron.gif" 
     alt: "Tetrahedron"
@@ -53,23 +54,24 @@ wiki:
 Having as its starting point an axiomatic conflagration of Plato’s cosmological philosophy (in the *Timaeus*) and the array and extremes of human desire (the most easily accessible forms of which being internet shock videos involving extreme sexuality and violence, which were one of the source of inspiration for the piece), *Solids* is an attempt to draw a bridge between the apparent chaos of human perversion and on of the most fundamental philosophical texts from the tradition aiming at finding a method for deciphering the world through the lens of mathematical structures.
 
 <div class="wiki">
-  {% for image in page.wiki %}
+  {{ range .Params.wiki }}
+  {{ warnf "%s" . }}
   <div>
     <div>
-      <a href="{{ image.img_url }}">
-        <img src="{{ image.img_path }}">
+      <a href="{{ .img_url }}">
+        <img src="{{ .img_path }}">
       </a>
     </div>
     <div>
-      <p>{{ image.title }}</p>
-      {% if image.txt_url %}
-      <p>(<a href="{{ image.txt_url }}">{{ image.excerpt }}</a>)</p>
-      {% else %}
-      <p>{{ image.excerpt }}</p>
-      {% endif %}
+      <p>{{ .title }}</p>
+      {{ if .txt_url }}
+      <p>(<a href="{{ .txt_url }}">{{ .excerpt }}</a>)</p>
+      {{ else }}
+      <p>{{ .excerpt }}</p>
+      {{ end }}
     </div>
   </div>
-  {% endfor %} 
+  {{ end }}
 </div>
 
 Plato’s method of classifying the fundamental elements of the world (fire, air, water, earth and aether, which he inherits from earlier Presocratic figures) using mathematical solids (tetrahedron or pyramid, hexahedron or cube, octahedron, dodecahedron, icosahedron) is used in the same manner, as a structural prism through which it is possible not only to apprehend various sexual perversions (sex addiction, scatophilia, zoophilia, rape, sometimes leading to mutilation or murder, etc.) as material, but also providing a formal framework out of which it is possible to ultimately turn them into literary texts. The last element, [aether](https://en.wikipedia.org/wiki/Aether_(classical_element)), is only fleetingly mentioned in Plato, and becomes more prominent in Aristotle as the supreme element containing the fixed heavenly/divine stars. We take it here as the element associated with this peculiar figure which is no solid but nevertheless plays a defining role in Plato’s cosmology: the sphere.
@@ -210,13 +212,13 @@ I’ll push your shit in and stuff your face.
 
 **[Hokusai](https://en.wikipedia.org/wiki/Hokusai), [*The Dream of the Fisherman’s Wife, 1814*](https://en.wikipedia.org/wiki/The_Dream_of_the_Fisherman's_Wife)**
 
-![Hokusai](/assets/solids/images/Hokusai.jpg){: .align-center}
+![Hokusai](/assets/solids/images/Hokusai.jpg)
 
 {{< separators type="inner" >}}
 
 **[Kunisada](https://en.wikipedia.org/wiki/Kunisada), [*Woman and Dog, 日本春宫册页《女人和狗》, 1837*](https://zh.wikipedia.org/wiki/File:%E6%97%A5%E6%9C%AC%E6%98%A5%E5%AE%AB%E5%86%8C%E9%A1%B5%E3%80%8A%E5%A5%B3%E4%BA%BA%E5%92%8C%E7%8B%97%E3%80%8B.jpg)**
 
-![Kunisada](/assets/solids/images/Kunisada.jpg){: .align-center}
+![Kunisada](/assets/solids/images/Kunisada.jpg)
 
 {{< separators type="inner" >}}
 
@@ -244,16 +246,16 @@ Before the indifferent beak could let her drop?
 
 **[*Leda and the Swan*, 16th-century copy after a lost painting by Michelangelo](http://www.nationalgalleryimages.co.uk/Imagedetails.aspx?q=NG1868&ng=NG1868&frm=1)**
 
-![Leda](/assets/solids/images/Leda-swan.jpg){: .align-center}
+![Leda](/assets/solids/images/Leda-swan.jpg)
 
 {{< separators type="inner" >}}
 
 **[Maurizio Cattelan, ‘untitled’, 2007](https://www.perrotin.com/artists/Maurizio_Cattelan/2/untitled/12880)**
 
-![Cattelan](/assets/solids/images/Cattelan.jpg){: .align-center}
+![Cattelan](/assets/solids/images/Cattelan.jpg)
 
 {{< separators type="inner" >}}
 
 **[Makoto Aida, b. 1965, retrospective at the Mori Art Museum, 2012](http://www.mori.art.museum/english/contents/aidamakoto_main/)**
 
-![Makoto Aida](/assets/solids/images/Makoto-Aida.jpg){: .align-center}
+![Makoto Aida](/assets/solids/images/Makoto-Aida.jpg)
