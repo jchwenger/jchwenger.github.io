@@ -1,7 +1,7 @@
 ---
 title: CHATBOT Gallery (training)
 date: 2021-11-29 22:45:20.246370800 +0100  
-permalink: /chatbot-gallery-training/
+slug: /chatbot-gallery-training/
 unlisted: true
 
 gallery:

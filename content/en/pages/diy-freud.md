@@ -2,7 +2,7 @@
 excerpt: "Effective therapy on the cheap"
 title: DIY Freud
 date: '2022-02-14 14:00:16.585520139 +0000'
-permalink: /diy-freud/
+slug: /diy-freud/
 ---
 
 I have been suffering from chronic pain in my hands, arms and shoulders for years now, leading me to lose almost all hope of being able to work seriously with a computer any more. I recently discovered the mind-body approach of Dr. Sarno, Dr. Schubiner, as well as Alan Gordon, and am currently in the process of developing tools to tackle my condition using an anxiety/depression-based approach (pain as learned pathways in the brain, rather than damage in my tissues).

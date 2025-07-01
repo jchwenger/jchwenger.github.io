@@ -1,7 +1,7 @@
 ---  
 title: Solids (NSFW)  
 date: 2016-10-31 18:04:18.000000000 +0000
-url: /solids/  
+slug: /solids/  
 draft: true
 wiki:
   - img_path: "/assets/solids/wiki/Tetrahedron.gif" 
@@ -54,24 +54,23 @@ wiki:
 Having as its starting point an axiomatic conflagration of Plato’s cosmological philosophy (in the *Timaeus*) and the array and extremes of human desire (the most easily accessible forms of which being internet shock videos involving extreme sexuality and violence, which were one of the source of inspiration for the piece), *Solids* is an attempt to draw a bridge between the apparent chaos of human perversion and on of the most fundamental philosophical texts from the tradition aiming at finding a method for deciphering the world through the lens of mathematical structures.
 
 <div class="wiki">
-  {{ range .Params.wiki }}
-  {{ warnf "%s" . }}
+  {% for image in page.wiki %}
   <div>
     <div>
-      <a href="{{ .img_url }}">
-        <img src="{{ .img_path }}">
+      <a href="{{ image.img_url }}">
+        <img src="{{ image.img_path }}">
       </a>
     </div>
     <div>
-      <p>{{ .title }}</p>
-      {{ if .txt_url }}
-      <p>(<a href="{{ .txt_url }}">{{ .excerpt }}</a>)</p>
-      {{ else }}
-      <p>{{ .excerpt }}</p>
-      {{ end }}
+      <p>{{ image.title }}</p>
+      {% if image.txt_url %}
+      <p>(<a href="{{ image.txt_url }}">{{ image.excerpt }}</a>)</p>
+      {% else %}
+      <p>{{ image.excerpt }}</p>
+      {% endif %}
     </div>
   </div>
-  {{ end }}
+  {% endfor %} 
 </div>
 
 Plato’s method of classifying the fundamental elements of the world (fire, air, water, earth and aether, which he inherits from earlier Presocratic figures) using mathematical solids (tetrahedron or pyramid, hexahedron or cube, octahedron, dodecahedron, icosahedron) is used in the same manner, as a structural prism through which it is possible not only to apprehend various sexual perversions (sex addiction, scatophilia, zoophilia, rape, sometimes leading to mutilation or murder, etc.) as material, but also providing a formal framework out of which it is possible to ultimately turn them into literary texts. The last element, [aether](https://en.wikipedia.org/wiki/Aether_(classical_element)), is only fleetingly mentioned in Plato, and becomes more prominent in Aristotle as the supreme element containing the fixed heavenly/divine stars. We take it here as the element associated with this peculiar figure which is no solid but nevertheless plays a defining role in Plato’s cosmology: the sphere.

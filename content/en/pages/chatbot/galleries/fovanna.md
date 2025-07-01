@@ -1,7 +1,7 @@
 ---
 title: CHATBOT Gallery (Fovanna)
 date: 2021-11-29 22:43:33.151270184 +0100 
-permalink: /chatbot-gallery-fovanna/
+slug: /chatbot-gallery-fovanna/
 unlisted: true
 
 gallery:

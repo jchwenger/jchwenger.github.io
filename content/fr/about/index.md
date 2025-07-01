@@ -1,6 +1,5 @@
 ---
-permalink: /about/
-classes: homepage
+slug: /about/
 title: À propos
 hidedate: true
 unlisted: true

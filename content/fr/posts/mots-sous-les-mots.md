@@ -1,8 +1,8 @@
 ---
-classes: wide
 title: Les mots sous les mots
 date:  2019-03-09 12:20:39.683945699 +0000
-permalink: /sous-mots/
+slug: /sous-mots/
+draft: true
 ---
 
 > Version française du processus de décomposition de mots en sous-mots, suivant les procédures développées dans [Recursus](https://recursus.co/)

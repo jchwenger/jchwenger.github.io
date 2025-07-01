@@ -1,7 +1,7 @@
 ---
 title: Pastiches & mélanges    
 ml5: true
-permalink: /pastiches/  
+slug: /pastiches/  
 ---
 
 > Génération automatique de textes grâce au deep learning.

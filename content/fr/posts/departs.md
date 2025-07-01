@@ -1,11 +1,12 @@
 ---
 title: "Départs"
 date: 2021-12-10 14:54:22.426607256 +0000
-permalink: /departs/
+slug: /departs/
 unlisted: true
 draft: true
 pitch:
 - "Prototype pour une pièce radiophonique à deux voix"
+draft: true
 ---
 
 > Prototype pour une pièce radiophonique à deux voix. Les textes sont issus de réécritures de matériaux générés par des modèles linguistiques neuraux, utilisant l'architecture Transformer, (notamment, entre autres, [le GPT-3 d’OpenAI](https://beta.openai.com/overview)).

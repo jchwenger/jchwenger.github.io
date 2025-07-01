@@ -1,7 +1,7 @@
 ---  
 title: Computational Thoughts 
 date: 2018-06-15 18:31:25.516793919 +0100
-permalink: /computational-thoughts/  
+slug: /computational-thoughts/  
 ---  
 
 An archive of posts written in the context of the Master's in Computational Arts at Goldsmiths College, University of London, academic year 2017-2018.  

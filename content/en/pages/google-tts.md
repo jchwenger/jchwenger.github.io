@@ -1,8 +1,7 @@
 ---
 title: Google TTS reads foreign texts with an unreasonably accurate accent
-classes: wide
 date:  2020-02-13 16:02:07.089180456 +0000
-permalink: /google-tts/
+slug: /google-tts/
 ---
 
 > Casual mischief with Google's Text-To-Speech

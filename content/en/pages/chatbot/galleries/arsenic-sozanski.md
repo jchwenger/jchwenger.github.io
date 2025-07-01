@@ -1,7 +1,7 @@
 ---
 title: CHATBOT Gallery (Sozanski @ Arsenic)
 date: 2021-12-03 19:02:37.917021534 +0000 
-permalink: /chatbot-gallery-arsenic-sozanski/
+slug: /chatbot-gallery-arsenic-sozanski/
 unlisted: true
 
 gallery:

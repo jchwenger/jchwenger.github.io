@@ -2,7 +2,7 @@
 excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT
 date: 2020-10-26 17:14:31.122147288 +0000
-url: /chatbot/
+slug: /chatbot/
 ---
 
 {{< figure

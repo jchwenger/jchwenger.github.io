@@ -1,10 +1,8 @@
 ---
 title: CHATBOT Gallery (Hongler @ Arsenic)
 date: 2021-12-03 19:02:34.913010652 +0000 
-permalink: /chatbot-gallery-arsenic-hongler/
+slug: /chatbot-gallery-arsenic-hongler/
 unlisted: true
-
-
 
 gallery:
   - hongler:

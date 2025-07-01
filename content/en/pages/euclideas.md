@@ -1,7 +1,7 @@
 --- 
 title: Euclideas 
 date: 2018-05-21 16:29:44.000000000 +0100
-permalink: /euclideas/ 
+slug: /euclideas/ 
 ---
 
 This project comprises several small rhythmic pieces in the form of Max patches. They all function as 'perpetua mobilia', that can be turned on to produce a variable, but ultimately cyclical and indefinite stream of beats.   
