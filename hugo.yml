@@ -9,7 +9,7 @@ hasCJKLanguage: true
 # The url of your website
 baseurl: ""
 # The title of your website (shown on all the pages)
-title: "Jérémie C. Wenger"
+title: "Jérémie Wenger"
 canonifyurls: true
 # Number of posts per page on the home page
 pagination.pagerSize: 5
