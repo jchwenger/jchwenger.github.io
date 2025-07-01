@@ -1,18 +1,16 @@
 ---
-layout: splash
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: https://chatbot-manufacture.s3.eu-west-2.amazonaws.com/Fovanna-chatbot-2021-37.webp
 excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT
 date: 2020-10-26 17:14:31.122147288 +0000
-permalink: /chatbot/
+url: /chatbot/
 ---
 
-{{< html class="small text-right" >}}
-photo montage: Ivo Fovanna
-{{< /html >}}
+{{< figure
+  src="https://chatbot-manufacture.s3.eu-west-2.amazonaws.com/Fovanna-chatbot-2021-37.webp"
+  type="full"
+  attr="Photograph: Ivo Fovanna"
+>}}
+
 
 > A research project of the [Manufacture School of Drama](https://www.manufacture.ch) in Lausanne, Switzerland, supported by the [Swiss National Science Foundation](https://www.snf.ch/en), under the direction of [Nicolas Zlatoff](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff), 2020-2021.
 
@@ -42,7 +40,9 @@ Jérémie Wenger, writer and programmer
 
 ## Podcast (in French)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1136442328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/recherche_manufacture" title="Recherche@Manufacture" target="_blank" style="color: #cccccc; text-decoration: none;">Recherche@Manufacture</a> · <a href="https://soundcloud.com/recherche_manufacture/savoirs-sensibles-episode-1-chatbot-de-nicolas-zlatoff" title="Savoirs Sensibles - Épisode 1 - Chatbot de Nicolas Zlatoff" target="_blank" style="color: #cccccc; text-decoration: none;">Savoirs Sensibles - Épisode 1 - Chatbot de Nicolas Zlatoff</a></div>
+{{< separators type="blank" >}}
+
+<iframe width="55%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1136442328&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/recherche_manufacture" title="Recherche@Manufacture" target="_blank" style="color: #cccccc; text-decoration: none;">Recherche@Manufacture</a> · <a href="https://soundcloud.com/recherche_manufacture/savoirs-sensibles-episode-1-chatbot-de-nicolas-zlatoff" title="Savoirs Sensibles - Épisode 1 - Chatbot de Nicolas Zlatoff" target="_blank" style="color: #cccccc; text-decoration: none;">Savoirs Sensibles - Épisode 1 - Chatbot de Nicolas Zlatoff</a></div>
 
 ## Galleries
 
