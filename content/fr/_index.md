@@ -5,8 +5,11 @@ noList: true
 
 {{< epigraph >}}
 
-Né en Suisse, basé actuellement à Londres. Écriture,
-programmation, apprentissage profond. Plus [ici](about). 
+Jérémie Wenger, né en Suisse, basé actuellement à Londres. Sa pratique explore
+l'intersection de la littérature, les contraintes et processus génératifs,
+ainsi que les conséquences de l'émergence de l'Intelligence artificielle sur la
+littérature et le soi. Plus [ici](about).
+
 {{< /epigraph >}}
 
 ## 2025
@@ -433,7 +436,7 @@ Banquet de Platon*, Lausanne, L’Âge d’homme.
 « Lieux de la quête. Composer, penser, depuis Royaumont », 2012.
 [*dissonance*](https://dissonance.ch/) 118.
 
-## 2011 (and prior)
+## 2011 (et avant)
 
 Avec [Dragos Tara](https://dragostara.name/). « Miroirs – électro-acoustiques.
 Petit essai épistolaire romand sur des questions de composition
