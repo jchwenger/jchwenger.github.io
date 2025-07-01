@@ -1,7 +1,7 @@
 ---
 title: Ideas    
 date: 2016-12-18 20:34:13.000000000 +0000
-permalink: /ideas/  
+slug: /ideas/  
 ---
 
 > A list of ideas and suggestions presented as part of my submission for the Master's in Computational Arts at Goldsmiths College, London (see my end of year project, [*Recursus*](http://recursus.co/))  
@@ -76,7 +76,7 @@ Christopher Wool produced [various works based on words and letters](https://www
 Among those, ['Untitled'
 (1990)](http://www.christies.com/lotfinder/Lot/christopher-wool-b-1955-untitled-5846062-details.aspx):  
 
-![Wool Fool](/assets/ideas/Wool-Fool.jpg){: .align-center}
+![Wool Fool](https://raw.githubusercontent.com/jchwenger/jcw.assets/refs/heads/master/ideas/Wool-Fool.jpg)
 
 Liking the idea and visual result, but slightly frustrated by the simplicity of his linguistic/literary approach, I decide to attempt a work that would expand on key features of the work, as well as injecting a new technological dimension. Using the double 'O' as the basis for the visual balance of the work, a word search is conducted in the OED ("?oo?"), giving the following results (rarer or obsolete words preceded by an asterisk): boob, booh, book, bool, boom, boon, boor, boot, cook, cool, \*coom, coon, coop, coot, \*doob, \*dook, \*dool, doom, door, food, fool, foot, good, goof, \*goog, \*gook, \*gool, \*goom, goon, goop, \*goor, hood, hoof, hook, \*hoon, hoop, hoot, \*jook, \*joom, kook, \*loob, \*loof, look, lool, loom, loon, loop, \*loor, loot, mood, \*mool, moon, \*moop, moor, moot, nook, noon, \*noop, \*noov, \*pood, poof, pooh, pook, pool, poon, poop, poor, \*poot, \*rood, roof, rook, \*rool, room, \*roon, \*roop, root, \*sook, \*sool, soon, \*soop, \*soor, soot, took, \*toom, toon, toot, voom, \*voor, wood, woof, wool, \*woon, \*woop, woot, \*yoof, \*yoop, zoom, \*zoon, \*zoot. Using this list, it is possible to produce a new, dynamic, animated work, which would switch between various words, while the two 'O's remain. One could imagine a random process that would 1) pick which word to display next; 2) how long said word would remain, 3) what probability to assign to each individual word (or, perhaps, in a simpler way, simply a lower probability for asterisked words, and a standard one for the rest). 
 
@@ -155,7 +155,7 @@ however, could be extended to literary practice, especially when it comes to wor
 ### Kakekotoba  
 
 
-> A [kakekotoba](https://en.wikipedia.org/wiki/Kakekotoba)(掛詞) or  pivot word is a rhetorical device used in the Japanese poetic form  [waka](https://en.wikipedia.org/wiki/Waka_(poetry)). This trope uses  the phonetic reading of a grouping of kanji (Chinese characters) to  suggest several interpretations: first on the literal level (e.g. 松,  *matsu*, meaning "pine tree"), then on subsidiary homophonic levels  (e.g. 待つ, *matsu*, meaning "to wait"). 
+> A [kakekotoba](https://en.wikipedia.org/wiki/Kakekotoba) (掛詞) or  pivot word is a rhetorical device used in the Japanese poetic form  [waka](https://en.wikipedia.org/wiki/Waka_(poetry)). This trope uses  the phonetic reading of a grouping of kanji (Chinese characters) to  suggest several interpretations: first on the literal level (e.g. 松,  *matsu*, meaning "pine tree"), then on subsidiary homophonic levels  (e.g. 待つ, *matsu*, meaning "to wait"). 
 
 
 The Japanese kakekotoba can taken to be the literary equivalent to musical modulation: two systems (tonalities, semantic fields in a text)
@@ -206,11 +206,11 @@ However, one could imagine ways of graphically translate syntactical intricacies
 Spatialisation of words (and letters) using geometric patterns, for instance [Arabic geometric patterns](https://www.google.co.uk/search?q=arabic+geometric+patterns&rlz=1C1AVNG_enGB631GB657&espv=2&biw=1920&bih=974&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjXk-6M0O7QAhVKDsAKHRIOBnwQ_AUIBigB#tbm=isch&q=arabic+geometric+art+mosque)
 as an inspiration.  
 
-![Heart Head tiling](/assets/ideas/heart.png)  
-![Lick Acid tiling](/assets/ideas/acid-lick.png)  
-![Love Hate War Peace tiling](/assets/ideas/love-tiling.png)  
-![Grip Drip Bloom Probe tiling](/assets/ideas/GRIP-DRIP.png)  
-![Dapple Float Trickle tiling](/assets/ideas/float.png)  
+![Heart Head tiling](https://raw.githubusercontent.com/jchwenger/jcw.assets/refs/heads/master/ideas/heart.png)  
+![Lick Acid tiling](https://raw.githubusercontent.com/jchwenger/jcw.assets/refs/heads/master/ideas/acid-lick.png)  
+![Love Hate War Peace tiling](https://raw.githubusercontent.com/jchwenger/jcw.assets/refs/heads/master/ideas/love-tiling.png)  
+![Grip Drip Bloom Probe tiling](https://raw.githubusercontent.com/jchwenger/jcw.assets/refs/heads/master/ideas/GRIP-DRIP.png)  
+![Dapple Float Trickle tiling](https://raw.githubusercontent.com/jchwenger/jcw.assets/refs/heads/master/ideas/float.png)  
 
 [Fractals](https://www.google.co.uk/search?q=fractals&rlz=1C1AVNG_enGB631GB657&source=lnms&tbm=isch&sa=X&ved=0ahUKEwidi6733-7QAhVFB8AKHa49CDQQ_AUICCgB&biw=1920&bih=974)could also be another interesting point of departure, as well as lesser-known mathematical structures such as [Penrose tilings](https://en.m.wikipedia.org/wiki/Penrose_tiling), for which one would need to find an appropriate method that could produce the 'non-periodic' word/letter set that could adequately be projected onto it.  
 
