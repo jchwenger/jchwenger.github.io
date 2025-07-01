@@ -1,0 +1,4 @@
+{{/* https://gohugo.io/render-hooks/headings/#article */}}<h{{ .Level }} id="{{ .Anchor | safeURL }}" {{- with .Attributes.class }} class="{{ . }}" {{- end }}>
+{{ .Text | safeHTML }}
+<a href="#{{ .Anchor | safeURL }}" class="heading-anchor">#</a>
+</h{{ .Level }}>
