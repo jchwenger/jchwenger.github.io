@@ -6,34 +6,34 @@
 {{ with .Page.Params.gallery }}
   {{ range . }}
     {{ range $k, $v := . }}
-    {{/* {{ warnf " - k is %s" $k }} */}} 
+      {{/* {{ warnf " - k is %s" $k }} */}}
       {{ if eq $galleryName $k }}
-      {{/* {{ warnf "%s = %s, layout: %s" $galleryName $k $galleryLayout }} */}}
+        {{/* {{ warnf "%s = %s, layout: %s" $galleryName $k $galleryLayout }} */}}
         {{ if eq $galleryLayout "full" }}
           <div class="bricks-masonry-full {{ printf "bricks-masonry-%s" $galleryName }}">
         {{ else }}
           <div class="bricks-masonry {{ printf "bricks-masonry-%s" $galleryName }}">
         {{ end }}
-            {{ range $v }}
-              <a href="{{ .url }}" data-lightbox="{{ $galleryName }}">
-                <img src="{{ .thumb }}" width="{{ $imgWidth }}" alt="" loading="lazy">
-              </a>
-            {{ end }}
-          </div>
-          {{ with $globalCtx.Get "caption" }}
-            <p class="bricks-masonry-legend"><em>{{ . }}</em></p>
+          {{ range $v }}
+            <a href="{{ .url }}" data-lightbox="{{ $galleryName }}">
+              <img src="{{ .thumb }}" width="{{ $imgWidth }}" alt="" loading="lazy">
+            </a>
           {{ end }}
-          <script>
-            Bricks({
-              container: '.{{ printf "bricks-masonry-%s" $galleryName }}',
-              packed: '{{ printf "packed-%s" $galleryName }}',
-              sizes: [
-                { columns: 2, gutter: 10 },
-                { mq: '768px', columns: 3, gutter: 25 },
-                { mq: '1024px', columns: 4, gutter: 50 }
-              ]
-            });
-          </script>
+          </div>
+        {{ with $globalCtx.Get "caption" }}
+          <p class="bricks-masonry-legend"><em>{{ . }}</em></p>
+        {{ end }}
+        <script>
+          Bricks({
+            container: '.{{ printf "bricks-masonry-%s" $galleryName }}',
+            packed: '{{ printf "packed-%s" $galleryName }}',
+            sizes: [
+              { columns: 2, gutter: 10 },
+              { mq: '768px', columns: 3, gutter: 25 },
+              { mq: '1024px', columns: 4, gutter: 50 }
+            ]
+          });
+        </script>
       {{ end }}
     {{ end }}
   {{ end }}
