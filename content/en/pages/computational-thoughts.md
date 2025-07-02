@@ -143,7 +143,12 @@ process (see below).
 - [Morphological segmentation](https://en.wikipedia.org/wiki/Morphology_(linguistics)): this goes one step deeper, and separates components of words, e.g. 'speak-ing', where 'speak' is the [stem](https://en.wikipedia.org/wiki/Word_stem) and 'ing' is the marker for the [continuous aspect](https://en.wikipedia.org/wiki/Continuous_and_progressive_aspects).  
 - [Part-of-speech tagging](https://en.wikipedia.org/wiki/Part-of-speech_tagging): apply a tag to each word indicating to what [grammatical category](https://en.wikipedia.org/wiki/Part_of_speech) it belongs, e.g. 'speaks' (verb), 'colloquially' (adverb), cow (noun), etc.  
 - [Parsing](https://en.wikipedia.org/wiki/Parsing):  use systematic methods to decompose a sentence into its structure, and therefore understands the function of each element (what is the subject of the verb, its object, what is the complement of what, etc.). This structure is called a '[parse tree](https://en.wikipedia.org/wiki/Parse_tree)', as it posits that each sentence can be reduced to a tree-like shape like in the picture.    
-![Parse tree](/assets/thoughts/Parse_tree_1.jpg){: .align-right} S = sentence, P = phrase, V = verb, N = noun, D = determiner. One notices that the sentence has a logic, it is not a pure concatenation of words, and in this case has two very important constituents: the verb phrase (VP), and a noun phrase (NP), the identification of which is done through another operation called [phrase chunking](https://en.wikipedia.org/wiki/Phrase_chunking).  
+
+  ![Parse tree](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/Parse_tree_1.jpg)  
+
+  S = sentence, P = phrase, V = verb, N = noun, D = determiner.
+
+  One notices that the sentence has a logic, it is not a pure concatenation of words, and in this case has two very important constituents: the verb phrase (VP), and a noun phrase (NP), the identification of which is done through another operation called [phrase chunking](https://en.wikipedia.org/wiki/Phrase_chunking).  
 - [Sentence breaking](https://en.wikipedia.org/wiki/Sentence_breaking) (also known as [sentence boundary disambiguation](https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation)): find the boundaries of sentences in a text.  
 - [Stemming](https://en.wikipedia.org/wiki/Stemming): process a text so that each inflected form ('speaking' instead of 'speaks', 'insects' instead of 'insect') is reduced to its stem, which can be useful when one is only interested in the semantic value of words within the text (are the words overall positive or negative, for instance). This is an important part of [text normalization](https://en.wikipedia.org/wiki/Text_normalization), the action of preparing a text before submitting it to analysis.  
 - [Stop word](https://en.wikipedia.org/wiki/Stop_words): a word that is filtered out during the text normalization process, that is, removed before the actual analysis takes place. In the context of sentiment analysis for instance (see that entry below), purely syntactic words like 'the' or 'a' will be filtered out, in order to focus on semantics (such as 'pizza', 'amazing', etc.).  
@@ -167,7 +172,7 @@ process (see below).
 - [Relationship extraction](https://en.wikipedia.org/wiki/Relationship_extraction): extracts relationships between entities of a text (e.g. feed the computer a novel, see if it can detect what are the interactions between the various characters, etc.). See also the [entity-relationship model](https://en.wikipedia.org/wiki/Entity%E2%80%93relationship_model).  
 - [Sentiment analysis](https://en.wikipedia.org/wiki/Sentiment_analysis): extract subjective information from a text (alluded to in 'stemming' above), especially if the overall mood is positive or negative.  
 - [Topic model](https://en.wikipedia.org/wiki/Topic_model): a type of unsupervised statistical model developed to extract 'topics' from text corpora. In the conference by Patrick Harrison in the post below ([text here](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)), the topic model used is [Latent Dirichlet allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation), which uses three layers (documents or texts, topics, words) instead of two (documents, texts) to deal with texts:   
-[![Latent Dirichlet Allocation](/assets/thoughts/latent_dirichlet_allocation.png)](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
+[![Latent Dirichlet Allocation](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/latent_dirichlet_allocation.png)](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 - [Topic segmentation](https://en.wikipedia.org/wiki/Topic_segmentation) and recognition: divide a text into various parts, and extract a topic for each part.  
 - [Word sense disambiguation](https://en.wikipedia.org/wiki/Word_sense_disambiguation): a domain of 'lexical semantics' above, determine what specific meaning a word has in context (among all the ones it can have).  
 
@@ -203,12 +208,12 @@ spaCy handles many tasks commonly associated with building an end-to-end natural
   - Large English vocabulary, including stopword lists  
   - Token "probabilities"  
   - Word vectors' ([from here](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb))  
-[![spaCy](/assets/thoughts/spaCy.png)](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
+[![spaCy](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/spaCy.png)](https://github.com/skipgram/modern-nlp-in-python/blob/master/executable/Modern_NLP_in_Python.ipynb)
 - [gensim](https://radimrehurek.com/gensim/): claims to be 'the most robust, efficient and hassle-free piece of software to realize unsupervised semantic modelling from plain text' ([here](https://radimrehurek.com/gensim/about.html)), and is used in the conference to achieve phrase modeling (the process by which 'New York' is recognised as one entity, and not just two words, and 'New York Times' as another, all in an unsupervised fashion).  
 - [pyLDAvis](https://pyldavis.readthedocs.io/en/latest/readme.html): a library  to create interactive topic model visualization.  
 - [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) (or t-distributed stochastic neighbor embedding): a 'dimensionality reduction technique to assist with visualizing high-dimensional datasets' (paper [here](https://lvdmaaten.github.io/publications/papers/JMLR_2008.pdf), scikit class reference [here](http://scikit-learn.org/stable/modules/generated/sklearn.manifold.TSNE.html))  
 - [word2vec](https://en.wikipedia.org/wiki/Word2vec) (or word vector embedding models): models used to produce [word embeddings](https://en.wikipedia.org/wiki/Word_embedding), that is, the projection of words from a text into a(n often highly complex) vector space, the purpose of which is to create a geometric representation of relationships between words, and their context. Similar words (synonyms, antonyms, [cohyponynms](https://en.wikipedia.org/wiki/Hyponymy_and_hypernymy#Co-hyponyms), etc.) are close together in that space. From there, it is possible to apply algebraic operations to words themselves, namely vector addition and multiplication. Since vectors and coordinates are in a dual relationship (two mathematical entities almost substitutable for one another, as if one was looking at the same thing under two different aspects), a word like, say 'female' is not only somewhere on the space (as a coordinate) but will also exist as a 'distance' (a vector) between the words 'king' and 'queen' (and indeed word2vec allows for operations such as 'king' - 'male' + 'female' = 'queen'). Other fascinating examples that emerged from the unsupervised process are: 'sushi' - 'Japan' + 'Germany' = 'bratwurst', or 'Sarkozy' - 'France' + 'Germany' = 'Merkel'.  
-[![Word vectors](/assets/thoughts/word2vecex.jpg)](https://pyldavis.readthedocs.io/en/latest/readme.html)  
+[![Word vectors](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/word2vecex.jpg)](https://pyldavis.readthedocs.io/en/latest/readme.html)  
 
 {{< separators type="inner" >}}  
 
@@ -241,7 +246,7 @@ available in book form and as two lecture series on YouTube:
 
 *A Companion to Marx's Capital*, Vol. 1 & 2, New York, London: Verso, 2013  
 
-[![Harvey Marx](/assets/thoughts/Harvey-Marx.jpg){: .align-center}](https://www.amazon.co.uk/Companion-Marxs-Capital-Vols-Shrinkwrapped/dp/1781682496/ref=sr_1_12?ie=UTF8&qid=1518735243&sr=8-12&keywords=david+harvey)
+[![Harvey Marx](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/Harvey-Marx.jpg)](https://www.amazon.co.uk/Companion-Marxs-Capital-Vols-Shrinkwrapped/dp/1781682496/ref=sr_1_12?ie=UTF8&qid=1518735243&sr=8-12&keywords=david+harvey)
 
 'Reading Marx's Capital' on YouTube:  
 
@@ -279,7 +284,7 @@ Watching this conference, and thinking back on my gradual politicisation during 
 
 Thomas Piketty, *Le capital au XXIe siècle*, Paris, Seuil, 2013.  
 
-[![Piketty Capital](/assets/thoughts/piketty.png){: .align-center}](https://www.amazon.fr/Capital-au-XXIe-si%C3%A8cle/dp/2021082288/ref=sr_1_1?ie=UTF8&qid=1538753554&sr=8-1&keywords=piketty+le+capital+au+xxie+siecle)
+[![Piketty Capital](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/piketty.png)](https://www.amazon.fr/Capital-au-XXIe-si%C3%A8cle/dp/2021082288/ref=sr_1_1?ie=UTF8&qid=1538753554&sr=8-1&keywords=piketty+le+capital+au+xxie+siecle)
 
 {{< youtube id="JKsHhXwqDqM" >}}
 {{< youtube id="YtIw-n7z3VY" >}}
@@ -290,7 +295,7 @@ Thomas Piketty, *Le capital au XXIe siècle*, Paris, Seuil, 2013.
 
 Martin Wolf, *The Shifts and the Shocks: What we've learned -- and have still to learn -- from the financial crisis*, London, New York: Penguin, 2015.  
 
-[![Wolf Shifts & Shocks](/assets/thoughts/Wolf-Shifts-and-Shocks.jpg){: .align-center}](https://www.amazon.co.uk/Shifts-Shocks-learned-financial-crisis-ebook/dp/B00MEYU6GI/ref=sr_1_1?ie=UTF8&qid=1538753934&sr=8-1&keywords=wolf+shifts+shocks)
+[![Wolf Shifts & Shocks](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/Wolf-Shifts-and-Shocks.jpg)](https://www.amazon.co.uk/Shifts-Shocks-learned-financial-crisis-ebook/dp/B00MEYU6GI/ref=sr_1_1?ie=UTF8&qid=1538753934&sr=8-1&keywords=wolf+shifts+shocks)
 
 {{< youtube id="F4UCCmnNM3A" >}}
 {{< youtube id="FgRDI4k-6Fg" >}}
@@ -330,7 +335,7 @@ David Graeber
 Yanis Varoufakis, *And the Weak Suffer What They Must? Europe, Austerity and the Threat to Global Stability*, London, New York: Vintage, 2017.  
 ---, *The Global Minotaur: America, Europe and the Future of the Global Economy*, London, Zed Book, 2018.  
 
-[![Varoufakis The Weak](/assets/thoughts/Varoufakis---weak-suffer-what-they-must.jpg){: .align-center}](https://www.amazon.co.uk/Weak-Suffer-What-They-Must/dp/1784704113/ref=sr_1_3?ie=UTF8&qid=1538754808&sr=8-3&keywords=varoufakis)|[![Varoufakis Minotaur](/assets/thoughts/Varoufakis---minotaur.jpg){: .align-center}](https://www.amazon.co.uk/Global-Minotaur-America-Economic-Controversies/dp/178360610X/ref=sr_1_4?ie=UTF8&qid=1538754808&sr=8-4&keywords=varoufakis)
+[![Varoufakis The Weak](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/Varoufakis---weak-suffer-what-they-must.jpg)](https://www.amazon.co.uk/Weak-Suffer-What-They-Must/dp/1784704113/ref=sr_1_3?ie=UTF8&qid=1538754808&sr=8-3&keywords=varoufakis)[![Varoufakis Minotaur](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/Varoufakis---minotaur.jpg)](https://www.amazon.co.uk/Global-Minotaur-America-Economic-Controversies/dp/178360610X/ref=sr_1_4?ie=UTF8&qid=1538754808&sr=8-4&keywords=varoufakis)
 
 {{< separators type="outer" >}}  
 
@@ -597,7 +602,7 @@ Now consider what algorithms do: they parse through possibilities and return cas
 
 Let us look at an example: I develop a small program that will generate images according to some preestablished rules as well as some randomized factors. The computer will not only produce a piece of work instantly, but allow me to access a very large, possibly infinite array of 'parallel 'works, that are all singular instances within the space of possibilities opened by the code. Looking at all these different possible images, and how I react to them -- sometimes being surprised by an unexpected shape, sometimes being provoked to tweak the code in order to produce a result but I haven't been offered yet, but that I could infer lies somewhere in the possibilities that hand -- it does feel like with the computer is offering me is a tangible, manipulable part of inspiration itself.  
 
-![Neural Network](/assets/thoughts/neural-network.png){: .align-center}
+![Neural Network](https://raw.githubusercontent.com/jchwenger/jcw.assets/master/thoughts/neural-network.png)
 
 
 It is not impossible to think of neural networks in the same way: the step, this time, is that it adds a number of possible paths to the equation, the only generating a possible state and returning it to me, but generating a number of possible states, that interact in a number of possible ways with other possible states, before returning the final result(s). Again, this could be seen as all the different choices that an artist makes in the process of its praxis -- but instead of remaining a possibility, they are all enacted by the machine.  
