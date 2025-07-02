@@ -1,8 +1,8 @@
 ---
-slug: /about/
 title: À propos
+url: /a-propos/
+translationKey: about
 hidedate: true
-unlisted: true
 ---
 
 Du texte, surtout. {{< html tag="span" class="small" >}}(3 mots){{< /html >}}
