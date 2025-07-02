@@ -6,6 +6,12 @@
   width: 55%;
 }
 
+@media screen and (max-width: 760px) {
+  .bricks-masonry {
+    width: 90%;
+  }
+}
+
 .bricks-masonry-full {
   width: 90%;
 }
