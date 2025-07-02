@@ -84,7 +84,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 [*Machines Poétiques: Transreading Twentieth-Century French Poetry*](https://poetryschool.com/product/machines-poetiques-transreading-twentieth-century-french-poetry-spring-2023/), 2022-23. Monthly online poetry course with [Iris Colomb](https://iriscolomb.com/), [The Poetry School](https://poetryschool.com/)
 
-[*DIY Freud*](diy-freud), 2022. Automated therapist on the cheap, essay
+[*DIY Freud*](pages/diy-freud), 2022. Automated therapist on the cheap, essay
 
 *Art Projects*, 2022. "Comrade, what is your art project? – Hito Steyerl". Prose [unfinished]
 
@@ -122,7 +122,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 [*exist digressively*](ca-artificiel/#text-type-light), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) in Stockholm (Sweden)
 
-[*Google TTS reads foreign texts with an unreasonably accurate accent*](google-tts), 2020. Casual mischief with Google's Text-To-Speech system. Python
+[*Google TTS reads foreign texts with an unreasonably accurate accent*](pages/google-tts), 2020. Casual mischief with Google's Text-To-Speech system. Python
 
 ## 2019
 
@@ -167,15 +167,15 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 *What do we know about Tessa K.?*, 2018. Prose
 
-[*Euclideas*](euclideas), 2018. Several small rhythmic pieces in the form of Max patches, functioning as ‘perpetua mobilia’ that can be turned on to produce a variable, but ultimately cyclical and indefinite stream of beats. Max/MSP
+[*Euclideas*](pages/euclideas), 2018. Several small rhythmic pieces in the form of Max patches, functioning as ‘perpetua mobilia’ that can be turned on to produce a variable, but ultimately cyclical and indefinite stream of beats. Max/MSP
 
 ## 2017
 
-[*Computational Thoughts*](computational-thoughts), 2017-8. An archive of posts written in the context of the Master’s in Computational Arts at Goldsmiths College, University of London, academic year 2017-2018
+[*Computational Thoughts*](pages/computational-thoughts), 2017-8. An archive of posts written in the context of the Master’s in Computational Arts at Goldsmiths College, University of London, academic year 2017-2018
 
 [*Monodrian*](https://openprocessing.org/user/101600), 2017. A series of Processing sketches in homage to Mondrian. Processing
 
-[*Ideas*](ideas), 2017. A list of ideas and suggestions presented as part of my submission for the Master’s in Computational Arts at Goldsmiths College, London
+[*Ideas*](pages/ideas), 2017. A list of ideas and suggestions presented as part of my submission for the Master’s in Computational Arts at Goldsmiths College, London
 
 [*Tomorrow Is the Past of Some Distant future*](https://www.youtube.com/watch?v=tz0mFZKtlfw), 2017-8. Texts for a music piece by [Davor Branimir Vincze](https://www.db-vincze.com/)
 

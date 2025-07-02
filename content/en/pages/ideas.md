@@ -1,11 +1,11 @@
 ---
 title: Ideas    
 date: 2016-12-18 20:34:13.000000000 +0000
-slug: /ideas/  
 ---
 
-> A list of ideas and suggestions presented as part of my submission for the Master's in Computational Arts at Goldsmiths College, London (see my end of year project, [*Recursus*](http://recursus.co/))  
-
+{{% epigraph %}}
+A list of ideas and suggestions presented as part of my submission for the Master's in Computational Arts at Goldsmiths College, London (see my end of year project, [*Recursus*](http://recursus.co/))  
+{{% /epigraph %}}
 
 ### Subwords  
 

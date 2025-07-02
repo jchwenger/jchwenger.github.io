@@ -1,7 +1,6 @@
 --- 
 title: Euclideas 
 date: 2018-05-21 16:29:44.000000000 +0100
-slug: /euclideas/ 
 ---
 
 This project comprises several small rhythmic pieces in the form of Max patches. They all function as 'perpetua mobilia', that can be turned on to produce a variable, but ultimately cyclical and indefinite stream of beats.   
@@ -124,5 +123,3 @@ Looked up when studying [Godfried Toussaint's 'The Euclidean Algorithm Generates
 {{< youtube id="jMz6e-mRUVY" >}}
 
 {{< youtube id="zO02H-R6IWo" >}}
-
-<div class="responsive-video-container"> <iframe src="//www.dailymotion.com/embed/video/x31bnl1" frameborder="0" allowfullscreen nuan_newframe="true"></iframe> </div> 
