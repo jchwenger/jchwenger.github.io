@@ -57,13 +57,13 @@ One more set of experiments around text generation using <i>deep learning</i>, a
 The texts presented here fit into three categories: <i>Logisms</i> gathers words generated or inspired by a network trained on the <a href="http://www.cnrtl.fr/definition/">CNRTL</a> dictionary (and then translated); "to begin with..." as well as the <i>Lumps</i> are the result of a three-pronged trajectory, a) the slow elaboration of the still subterranean corpus <i>It I-VI</i>, b) the training of a network on this corpus and the generation of raw texts, c) the rewriting (and translation) of the finished texts; finally, an essay pertaining some encountered issues and questions, that can be read in parallel with <a href="https://recursus.co/squares/writing-under-computation/">this one</a>.
 
 {{< separators type="outer" >}}
- 
+
 Artificial It is composed of four parts:
 
-- Artificial It  
-- Lumps  
-- Logisms  
-- "to begin with..."  
+- Artificial It
+- Lumps I-VII
+- Logisms
+- "to begin with..."
 
 As well as an essay, "Writing and its Double".
 
