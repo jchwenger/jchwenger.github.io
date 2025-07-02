@@ -1,8 +1,7 @@
 ---
 title: CHATBOT Gallery (training)
 date: 2021-11-29 22:45:20.246370800 +0100  
-slug: /chatbot-gallery-training/
-unlisted: true
+hidedate: true
 
 gallery:
   - hongler:
@@ -183,10 +182,6 @@ gallery:
 
 ---
 
-{{< html class="small text-right" >}}
-*photo montage: Ivo Fovanna*
-{{< /html >}}
-
 Rehearsals at the [Manufacture](https://www.manufacture.ch/) School of Performative Arts, extracts, training process.
 Lausanne, Switzerland, 2020.
 
@@ -194,12 +189,12 @@ Lausanne, Switzerland, 2020.
 
 *Screenshots of in-training samples by Clément Hongler:*
 
-{{< gallery id="hongler" layout="full" caption="Screenshots: Clément Hongler" img-width="49%" >}}
+{{< gallery id="hongler" layout="full" caption="Screenshots: Clément Hongler" >}}
 
 {{< separators type="outer" >}}
 
 *Photographs: Jérémie Wenger*
 
-{{< gallery id="wenger" layout="full" caption="Photographs: Jérémie Wenger" img-width="33%" >}}
+{{< gallery id="wenger" layout="full" caption="Photographs: Jérémie Wenger" >}}
 
 [Main page]({{< ref "/pages/chatbot/chatbot.md" >}})

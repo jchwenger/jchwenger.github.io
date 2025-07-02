@@ -1,8 +1,7 @@
 ---
 title: CHATBOT Gallery (Fovanna)
 date: 2021-11-29 22:43:33.151270184 +0100 
-slug: /chatbot-gallery-fovanna/
-unlisted: true
+hidedate: true
 
 gallery:
   - fovanna:
@@ -105,10 +104,6 @@ gallery:
 
 ---
 
-{{< html class="small text-right" >}}
-*photo montage: Ivo Fovanna*
-{{< /html >}}
-
 Rehearsals at the [Manufacture](https://www.manufacture.ch/) School of Performative Arts.
 Lausanne, Switzerland, March 2021.
 
@@ -116,6 +111,6 @@ Lausanne, Switzerland, March 2021.
 
 *Photographs and montage: Ivo Fovanna.*
 
-{{< gallery id="fovanna" layout="full" caption="Photographs and montage: Ivo Fovanna" img-width="33%" >}}
+{{< gallery id="fovanna" layout="full" caption="*Photographs and montage: Ivo Fovanna*" img-width="33%" >}}
 
 [Main page]({{< ref "/pages/chatbot/chatbot.md" >}})

@@ -1,8 +1,7 @@
 ---
 title: CHATBOT Gallery (Sozanski @ Arsenic)
 date: 2021-12-03 19:02:37.917021534 +0000 
-slug: /chatbot-gallery-arsenic-sozanski/
-unlisted: true
+hidedate: true
 
 gallery:
   - sozanski:
@@ -176,10 +175,6 @@ gallery:
       thumb: https:/chatbot-manufacture.s3.eu-west-2.amazonaws.com/Sozanski-Arsenic-2021-84.low.webp
 ---
 
-{{< html class="small text-right" >}}
-*photo montage: Ivo Fovanna*
-{{< /html >}}
-
 Rehearsals at the [Arsenic](https://arsenic.ch/en/) Theatre.
 Lausanne, Switzerland, March 2021.
 
@@ -187,6 +182,6 @@ Lausanne, Switzerland, March 2021.
 
 *Photographs: Bartek Sozanski.*
 
-{{< gallery id="sozanski" caption="Photographs: Bartek Sozanski." layout="full" img-width="49%" >}}
+{{< gallery id="sozanski" caption="*Photographs: Bartek Sozanski.*" layout="full" img-width="49%" >}}
 
 [Main page]({{< ref "/pages/chatbot/chatbot.md" >}})

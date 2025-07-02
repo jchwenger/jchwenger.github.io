@@ -1,8 +1,7 @@
 ---
 title: CHATBOT Gallery (demos)
 date: 2021-12-04 13:11:45.097804320 +0000 
-slug: /chatbot-gallery-demos/
-unlisted: true
+hidedate: true
 
 gallery:
   - authors:
@@ -36,10 +35,6 @@ gallery:
       title: Jérémie Wenger
 
 ---
-
-{{% html  class="small text-right" %}}
-*photo montage: Ivo Fovanna*
-{{% /html %}}
 
 [Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
 
@@ -227,11 +222,11 @@ Other videos show work on collecting and cleaning datasets.
 
 Two authors prominently feature in the show: Pierre Corneille, and Anton Chekhov. The idea of making a favicon out of Corneille came to me early, and opened the door to more meme-oriented fun.
 
-{{< gallery id="authors" caption="Photographs and memestry: Jérémie Wenger." layout="full" >}}
+{{< gallery id="authors" caption="*Photographs and memestry: Jérémie Wenger.*" layout="full" >}}
 
 This led to the idea of having gifs in a similar style for the team.
 
-{{< gallery id="icons" caption="Photographs and memestry: Jérémie Wenger." layout="full" >}}
+{{< gallery id="icons" caption="*Photographs and memestry: Jérémie Wenger.*" layout="full" >}}
 
 ## Three answers to [Oriza Hirata](https://en.wikipedia.org/wiki/Oriza_Hirata)
 

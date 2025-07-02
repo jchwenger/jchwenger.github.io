@@ -1,8 +1,7 @@
 ---
 title: CHATBOT Gallery (Hongler @ Arsenic)
 date: 2021-12-03 19:02:34.913010652 +0000 
-slug: /chatbot-gallery-arsenic-hongler/
-unlisted: true
+hidedate: true
 
 gallery:
   - hongler:
@@ -219,10 +218,6 @@ gallery:
 
 ---
 
-{{< html class="small text-right" >}}
-*photo montage: Ivo Fovanna*
-{{< /html >}}
-
 Rehearsals at the [Arsenic](https://arsenic.ch/en/) Theatre.
 Lausanne, Switzerland, March 2021.
 
@@ -230,6 +225,6 @@ Lausanne, Switzerland, March 2021.
 
 *Photographs: Clément Hongler.*
 
-{{< gallery id="hongler" caption="Photographs: Clément Hongler." layout="full" img-width="33%" >}}
+{{< gallery id="hongler" caption="*Photographs: Clément Hongler.*" layout="full" img-width="49%" >}}
 
 [Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
