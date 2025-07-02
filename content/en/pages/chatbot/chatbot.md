@@ -7,8 +7,7 @@ url: /chatbot/
 
 {{< figure
   src="https://chatbot-manufacture.s3.eu-west-2.amazonaws.com/Fovanna-chatbot-2021-37.webp"
-  type="full"
-  attr="Photograph: Ivo Fovanna"
+  attr="*Photographs & montage: Ivo Fovanna*"
 >}}
 
 
