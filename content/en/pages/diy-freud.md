@@ -25,7 +25,7 @@ Optionally, you can also:
 
 And finally:
 
-6. Organise your sessions around that regular payment, which would also act as the time of your session, so that you not only do you have the financial constraint set up, but also the simulated *limited* access to your 'therapist', with only, say, one session per week, that you can look forward to, prepare for, get all angsty about, etc., while you also go about your life doing other things.[^2]
+6. Organise your sessions around that regular payment, which would also act as the time of your session, so that you not only do you have the financial constraint set up, but also the simulated *limited* access to your ‘therapist', with only, say, one session per week, that you can look forward to, prepare for, get all angsty about, etc., while you also go about your life doing other things.[^2]
 
 My CPU-felt wishes to you all on your path to recovery 🤖.
 

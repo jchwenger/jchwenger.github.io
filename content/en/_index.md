@@ -73,7 +73,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 *The Enchanted World of Omninas*, 2022-3. Framework for working with generalised sestinas. Python & dedicated PyCairo renderer  
   "sestin", sestina in homage to Arnaut Daniel  
-  "albertine", Proustian starter 'tourniquenina' (septina)  
+  "albertine", Proustian starter ‘tourniquenina' (septina)  
   "Doom and pain came...", rotating diagonal octina  
 
 [*p5.GPT: OpenAI's ChatGPT with p5.js*](https://github.com/jchwenger/p5.GPT), 2023. ChatGPT/p5.js/JavaScript
