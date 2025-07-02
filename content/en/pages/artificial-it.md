@@ -1,6 +1,7 @@
 ---
-title: Ça artificiel
+title: Artificial It
 date:  2019-04-12 13:52:24.447654484 +0200
+translationKey: artificial-it
 
 gallery:
   - kirjasto:
@@ -57,11 +58,14 @@ The texts presented here fit into three categories: <i>Logisms</i> gathers words
 
 {{< separators type="outer" >}}
  
-[Artificial It, "to begin with..."](/artificial-it-ii)  
-[Artificial It](/ait)  
-[Lumps](/artificial-it-ii-lumps)  
-[Logisms](/logisms)  
-[Writing and its Double (essay)](/writing-double)  
+Artificial It is composed of four parts:
+
+- Artificial It  
+- Lumps  
+- Logisms  
+- "to begin with..."  
+
+As well as an essay, "Writing and its Double".
 
 {{< separators type="outer" >}}
 
