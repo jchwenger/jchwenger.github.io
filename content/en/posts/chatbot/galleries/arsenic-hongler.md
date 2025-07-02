@@ -221,10 +221,10 @@ gallery:
 Rehearsals at the [Arsenic](https://arsenic.ch/en/) Theatre.
 Lausanne, Switzerland, March 2021.
 
-[Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
+[Main page]({{< ref "/posts/chatbot/chatbot.md" >}})
 
 *Photographs: Clément Hongler.*
 
 {{< gallery id="hongler" caption="*Photographs: Clément Hongler.*" layout="full" img-width="49%" >}}
 
-[Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
+[Main page]({{< ref "/posts/chatbot/chatbot.md" >}})

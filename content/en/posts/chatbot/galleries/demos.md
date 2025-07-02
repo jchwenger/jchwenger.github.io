@@ -36,7 +36,7 @@ gallery:
 
 ---
 
-[Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
+[Main page]({{< ref "/posts/chatbot/chatbot.md" >}})
 
 ## Interface
 
@@ -246,5 +246,5 @@ Je ne souhaite pas décrire « les gens qui sont remplacés par des machines �
 
 **La Manufactrice** : … Ce n'est pas qu'il s'agît d'ennuyer les gens, mais c'est également et surtout le simple fait d'avoir en face de vous des gens qui ont conscience de n'être pas remplacés par des machines. Étant données ces personnes qui n'ont pas conscience d'être remplacées, elles ne sont guère différentes des autres sujets. Et c'est, sur le plan humain, ce qui importe pour les spectateurs. Le travail des machines peut beaucoup à nos yeux. Par exemple, elles se reproduisent beaucoup les machines-outils. Mais l'essentiel, c'est le fait que les machines n'utilisent absolument rien. Et quand un homme s'engage dans un combat, elles lui font peu de profit et il s'est complètement retourné. Le fait que la machine soit radicalement différente, que les machines soit entièrement automatisées, qu'il faille qu'elle imite absolument tout ce qu'il fait me paraît tout à fait regrettable. Mais que chaque action soit bien exécutée, cela n'empêche pas les gens d'être remplacés. Les gens qui n'ont pas conscience de s'être remplacés, ils s'adaptent uniquement aux machines, et ceux qui l'ont fait, par la même occasion, font beaucoup de profit. La conscience de la substitution, ou de l'anéantissement, est vis à vis des machines. Comment les rendre encore plus intéressantes en améliorant leur productivité, en les plaçant au service des consommateurs et des industriels, en développant la sécurité des transports par exemple, en réduisant les coûts de transport et les coûts d'exploitation. Tout cela est possible mais insuffisant, même pour les gens qui ont conscience de bénéficier des machines.
 
-[Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
+[Main page]({{< ref "/posts/chatbot/chatbot.md" >}})
 

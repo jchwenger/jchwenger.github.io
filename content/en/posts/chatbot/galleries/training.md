@@ -185,7 +185,7 @@ gallery:
 Rehearsals at the [Manufacture](https://www.manufacture.ch/) School of Performative Arts, extracts, training process.
 Lausanne, Switzerland, 2020.
 
-[Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
+[Main page]({{< ref "/posts/chatbot/chatbot.md" >}})
 
 *Screenshots of in-training samples by Clément Hongler:*
 
@@ -197,4 +197,4 @@ Lausanne, Switzerland, 2020.
 
 {{< gallery id="wenger" layout="full" caption="Photographs: Jérémie Wenger" >}}
 
-[Main page]({{< ref "/pages/chatbot/chatbot.md" >}})
+[Main page]({{< ref "/posts/chatbot/chatbot.md" >}})
