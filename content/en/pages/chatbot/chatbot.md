@@ -2,7 +2,7 @@
 excerpt: "Act and dialogue with a conversational agent-actor."
 title: CHATBOT
 date: 2020-10-26 17:14:31.122147288 +0000
-slug: /chatbot/
+url: /chatbot/
 ---
 
 {{< figure
@@ -12,7 +12,9 @@ slug: /chatbot/
 >}}
 
 
-> A research project of the [Manufacture School of Drama](https://www.manufacture.ch) in Lausanne, Switzerland, supported by the [Swiss National Science Foundation](https://www.snf.ch/en), under the direction of [Nicolas Zlatoff](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff), 2020-2021.
+{{% epigraph %}}
+A research project of the [Manufacture School of Drama](https://www.manufacture.ch) in Lausanne, Switzerland, supported by the [Swiss National Science Foundation](https://www.snf.ch/en), under the direction of [Nicolas Zlatoff](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff), 2020-2021.
+{{% /epigraph %}}
 
 <!--more -->
 

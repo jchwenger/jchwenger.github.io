@@ -43,13 +43,13 @@ gallery:
 The basic interface comes in two flavours, a 'direct' chatroom, where all edits of non-bot participants are seen in real time, and one where the history of the chat so far is also visible.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-cid.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-cid.gif"
   alt="chatbot demo gif basic window chat"
   type="full"
 >}}
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/dual-cid.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/dual-cid.gif"
   alt="chatbot demo gif dual window chat"
   type="full"
 >}}
@@ -57,13 +57,13 @@ The basic interface comes in two flavours, a 'direct' chatroom, where all edits 
 The chatroom, built with websockets, is meant for a utilization by multiple humans and bots.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-two-users.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-two-users.gif"
   alt="chatbot demo gif chat two users"
   type="full"
 >}}
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-cid-two-bots.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-cid-two-bots.gif"
   alt="chatbot demo gif chat two bots"
   type="full"
 >}}
@@ -71,7 +71,7 @@ The chatroom, built with websockets, is meant for a utilization by multiple huma
 There is also an `audience` page, which can switch between direct, history or both, and allows us to display the current session to non-participants.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/audience-cid.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/audience-cid.gif"
   alt="chatbot demo gif audience window"
   type="full"
 >}}
@@ -83,13 +83,13 @@ There is also an `audience` page, which can switch between direct, history or bo
 There is a `mechanism` window that attempts to make the inner workings of the bots more visible, showing for instance the bot generating batches, or sending tokens from the client to the main chat server (at the `tempo` rate, see below). More than one bot will be displayed if connected.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/mechanism-cid.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/mechanism-cid.gif"
   alt="chatbot demo gif mechanism one bot"
   type="full"
 >}}
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/mechanism-autonomous-two-bots.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/mechanism-autonomous-two-bots.gif"
   alt="chatbot demo gif mechanism two bots"
   type="full"
 >}}
@@ -103,7 +103,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 → `reset`: one major functionality is to `reset` the session, wiping out all memory from connected bots.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/dual-master-reset.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/dual-master-reset.gif"
   alt="chatbot demo gif master reset"
   type="full"
 >}}
@@ -111,7 +111,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 →  `pause`: every time the bot has spoken, a random number between 0 and `pause` is generated, determining the length of time it will remain silent after (and won't react to any new messages).
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-pause.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-pause.gif"
   alt="chatbot demo gif master pause"
   type="full"
 >}}
@@ -119,7 +119,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 →  `silence`: every time the bot is about to reply, a random number between 0 and 1 is generated: if it is greater than `silence`, the bot answers.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-silence.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-silence.gif"
   alt="chatbot demo gif master silence"
   type="full"
 >}}
@@ -127,7 +127,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 →  `temperature`, `top_k`, `top_p`: parameters all relating to how conservative (temperature: 'cold', down to pure repetition) to how wild (temperature: 'hot', up to pure madness), by making the distribution steeper ('cold', the likelier tokens are always picked) or flatter ('hot', less likely tokens have much more probability to get picked nevertheless). `top_k` limits the sampling to the top k most probable tokens, whilst `top_p` limits the overall probability mass of the most probable tokens, limiting that to a number between 0 and 1.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-temperature.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-temperature.gif"
   alt="chatbot demo gif master temperature"
   type="full"
 >}}
@@ -135,7 +135,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 →  `tempo`: the speed at which tokens are sent to the chat (to simulate gradual writing); this can be changed literally as the bot is writing...
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-tempo.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-tempo.gif"
   alt="chatbot demo gif master tempo"
   type="full"
 >}}
@@ -143,7 +143,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 →  `wait`: the amount of time a reply remains blocked on the Master page before being sent to the chat. This is especially useful when working with multiple batches, as the Master can then take some time to choose which answer to pick... When the choices are present, it is possible to send before the end of the countdown, skip (discard) these answers, regenerate (discarding the current replies), or choose one by selecting it (clicking again will deselect). If nothing is selected, the backend sampling method is applied (see `batch size` above).
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-wait.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-wait.gif"
   alt="chatbot demo gif master wait"
   type="full"
 >}}
@@ -151,7 +151,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 → `mode`: The Master has a choice between two `modes` for the bot, `reactive` or `autonomous`: in the first instance, only an input from any participant (or other bot) will trigger a response (subjected to the random barrier above, `silence`, as well as `pause` after having spoken). In autonomous mode, the same limitations apply (`silence` and `pause`), but the bot will go on generating new replies on its own indefinitely. 
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-cid-reactive-autonomous.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-cid-reactive-autonomous.gif"
   alt="chatbot demo gif master reactive autonomous"
   type="full"
 >}}
@@ -159,7 +159,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 → `batch size`: The Master can change the batch size, which takes some time (the mechanism page gives a notification when the process is complete). The bot will be fully unreactive during all this time. If the batch is greater than one, the Master can choose which reply to send to the chat, and if no external choice is given the bot does (several options exist in the backend, always taking into account the perplexity of the generated samples: always taking the min, always the max, or sampling using the perplexity as a weighing factor).
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-batch-size.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-batch-size.gif"
   alt="chatbot demo gif master batch size"
   type="full"
 >}}
@@ -167,7 +167,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 → `character`, `first words`: It is possible to constrain a bot to speak as one character. When the character is set, it is possible to require it to begin its next answer with determined words. If the character isn't set, however, the `first words` are still inserted into the bulk of the session (what the bot will see in its attention window), but will not appear in the public chat.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-character-first-words.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-character-first-words.gif"
   alt="chatbot demo gif master first words"
   type="full"
 >}}
@@ -175,19 +175,19 @@ One user (and one only, at any one time) can access a separate Master page conta
 → `subtext`: this box allows you to insert text into what the bot reads when preparing its next reply. By giving substantial extracts to it you can almost certainly reorient it towards a particular style (here three examples of *Le Cid*, *Chekhov* and *Deleuze*).
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-subtext-cid.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-subtext-cid.gif"
   alt="chatbot demo gif master subtext Le Cid"
   type="full"
 >}}
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-subtext-chekhov.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-subtext-chekhov.gif"
   alt="chatbot demo gif master subtext Chekhov"
   type="full"
 >}}
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-subtext-deleuze.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-subtext-deleuze.gif"
   alt="chatbot demo gif master subtext Deleuze"
   type="full"
 >}}
@@ -195,7 +195,7 @@ One user (and one only, at any one time) can access a separate Master page conta
 Finally, the Master page allows you to export the current session as a JSON file.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-session-deleuze.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-session-deleuze.gif"
   alt="chatbot demo gif master session"
   type="full"
 >}}
@@ -203,7 +203,7 @@ Finally, the Master page allows you to export the current session as a JSON file
 You can also browse all past sessions, check information about times & actors, and export everything as a JSON file.
 
 {{< figure
-  src="https:/chatbot-2021-demos.s3.eu-west-2.amazonaws.com/chat-master-archives.gif"
+  src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/chatbot/media/demos/chat-master-archives.gif"
   alt="chatbot demo gif master archives"
   type="full"
 >}}
