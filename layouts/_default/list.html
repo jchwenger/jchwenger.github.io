@@ -7,8 +7,11 @@
 {{ partial "letterhead.html" . }}
 {{ partial "content.header.html" . }}
 
+{{/* `nolist` in individual pages will prevent display */}}
+{{ $filtered := where .Pages "Params.nolist" "ne" true }}
+
 <section class="list-page">
-{{ range .Data.Pages.GroupByDate "2006" }}
+{{ range $filtered.GroupByDate "2006" }}
   <ul>
   <li class="year">{{ .Key }} ({{ len .Pages }})</li>
     {{ range .Pages.GroupByDate "January" }}
