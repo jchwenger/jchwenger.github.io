@@ -128,7 +128,7 @@ Among various forays into the possibilities at hand using Plato's framework, one
 
 {{< separators type="outer" >}}  
 
-### Advanced Logometorology  
+### Advanced Logometeorology  
 
 Wordclouds today are prefabricated and corny. Skills in programming could allow for truly crafted shapes but also, perhaps more importantly,
 a full control over the fine-tuning of the process, so as to be able to remove words that are irrelevant ('the', 'is', etc.), or reverse the size/frequency ratio, so as to show the unique words instead of the most frequent, and, perhaps expand the technique so as to have the computer parse the text looking for phrases instead of single words, or other requests.An interesting development could also be to create wordclouds that update themselves often, so as to reflect, for instance, the state of a discussion (a hashtag) at any given point around a specific topic.
