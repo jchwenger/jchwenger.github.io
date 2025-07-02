@@ -7,13 +7,13 @@
   </section>
 {{ end }}
 
-{{/* noList = true prevents the list to be displayed */}}
-{{ if not .Params.noList }}
+{{/* [_index frontmatter:] noList: true prevents the list to be displayed */}}
+{{ if (not .Params.noList) }}
 <section class="page-list">
   <ul class="content-list">
     {{/* https://discourse.gohugo.io/t/solved-list-all-section-pages-from-any-language/8900/2 */}}
     {{ range (where .Site.AllPages.ByDate.Reverse ".Kind" "==" "page") }}
-      {{ if (not .Params.unlisted )}}
+      {{ if (not .Params.unlisted) }}
       <li {{ if.Draft}}class="content-draft"{{ end }}>
         {{ if .Draft }} :: Draft | {{end}}
         <a {{ if (not .Params.unlinked) }}href="{{ .RelPermalink }}"{{ end }}>
