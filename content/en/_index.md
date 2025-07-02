@@ -15,7 +15,7 @@ Excerpts from *Lacanage*, forthcoming in [Still Point](https://www.stillpointldn
 
 Excerpts from *Artificial It*, forthcoming in [gorse](http://gorse.ie/) 12 (ed: [Christodoulos Makris](https://yesbutisitpoetry.blogspot.com/)), 2025.
 
-*rebut\|robot*, à paraître dans le [Projet éditorial Arkhaï](https://arkhai.com/), 2025. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des *mots-garous* (« werewords »). Shell/Python
+*rebut\|robot*, forthcoming in [Projet éditorial Arkhaï](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
 ## 2025
 
