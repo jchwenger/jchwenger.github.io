@@ -21,7 +21,7 @@
           {{ end }}
           </div>
         {{ with $globalCtx.Get "caption" }}
-          <p class="bricks-masonry-legend"><em>{{ . }}</em></p>
+          <p class="bricks-masonry-legend"><em>{{ . | markdownify }}</em></p>
         {{ end }}
         <script>
           Bricks({
