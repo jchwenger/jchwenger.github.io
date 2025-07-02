@@ -19,7 +19,7 @@ Extraits d'*Artificial It*, à paraître dans [gorse](http://gorse.ie/) 12 (éd.
 
 ## 2025
 
-*Cubes*, publié dans [The New River](https://thenewriverjournal.org/cubes-by-jeremie-wenger/) (éd: [Riley O’Mearns](https://www.instagram.com/rileyohhhh/)), 2025.
+[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), publié dans [The New River](https://thenewriverjournal.org/category/spring-2025-issue/) Issue XLIX 2025 (éd: [Riley O’Mearns](https://www.instagram.com/rileyohhhh/)), 2025.
 
 [*Chains*](https://www.tiltedhouse.org/tilt0005-j), publié dans [TILT 0005](https://www.tiltedhouse.org/tilt-0005) (éds: [Henry Goldkamp](https://www.henrygoldkamp.com/), [Nam Hoang Tran](https://namhtran.carrd.co)), 2025.
 
