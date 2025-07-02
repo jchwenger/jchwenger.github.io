@@ -356,6 +356,17 @@ li {
   }
 }
 
+.media-wrapper {
+  width: 55%;
+  justify-content: center;
+}
+
+@media screen and (max-width: 760px) {
+  .media-wrapper {
+    width: 90%;
+  }
+}
+
 /* ------------------------------------------------------------------------
  * Figures tweaks
  * ------------------------------------------------------------------------ */
