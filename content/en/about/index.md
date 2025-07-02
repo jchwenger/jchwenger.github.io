@@ -14,5 +14,3 @@ Born in Lausanne, Switzerland, 1983. Humanities studies in home town. Moved to t
 {{< separators type="outer" >}}
 
 Jérémie C. Wenger is a writer from Switzerland, based in London. His practice seeks to find a path away from sterile self-reference, inner conflicts and the intricacies of exile, while attempting to forge a personal style and a renewed interplay between systematic thought and intuition. Apart from languages and literatures, both classical and modern, with a particular focus on modernism, his interests lie in philosophy, music, and, more recently, (geo)politics and economics, albeit reluctantly so. The discovery of programming and artificial intelligence in 2017-2018, and the integration of those techniques into his writing practice is an important turn in his trajectory, which sheds a retrospective light on a long-standing interest in the dialectics between constraint and freedom in literary and artistic forms, especially in the novels and poetry of the twentieth-century avant-gardes, as well as in experimental musical composition. {{< html tag="span" class="small" >}}(143 words){{< /html >}}
-
-[CV](/assets/cv/JCWenger_CV.pdf)
