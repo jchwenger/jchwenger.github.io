@@ -5,12 +5,12 @@ translationKey: about
 hidedate: true
 ---
 
-Mostly text. {{< html tag="span" class="small" >}}(2 words){{< /html >}}
+Mostly text.
 
 {{< separators type="outer" >}}
 
-Born in Lausanne, Switzerland, 1983. Humanities studies in home town. Moved to the UK for a PhD, 2011. Dropped out, moved to London, 2013. Writing. MA in Computational Arts, Goldsmiths, 2017-2018. Writing and programming. {{< html tag="span" class="small" >}}(34 words){{< /html >}}
+Born in Lausanne, Switzerland, 1983. Humanities studies in home town. Moved to the UK for a PhD, 2011. Dropped out, moved to London, 2013. Writing. MA in Computational Arts, Goldsmiths, 2017-2018. Writing and programming.
 
 {{< separators type="outer" >}}
 
-Jérémie C. Wenger is a writer from Switzerland, based in London. His practice seeks to find a path away from sterile self-reference, inner conflicts and the intricacies of exile, while attempting to forge a personal style and a renewed interplay between systematic thought and intuition. Apart from languages and literatures, both classical and modern, with a particular focus on modernism, his interests lie in philosophy, music, and, more recently, (geo)politics and economics, albeit reluctantly so. The discovery of programming and artificial intelligence in 2017-2018, and the integration of those techniques into his writing practice is an important turn in his trajectory, which sheds a retrospective light on a long-standing interest in the dialectics between constraint and freedom in literary and artistic forms, especially in the novels and poetry of the twentieth-century avant-gardes, as well as in experimental musical composition. {{< html tag="span" class="small" >}}(143 words){{< /html >}}
+Jérémie C. Wenger is a writer from Switzerland, based in London. His practice seeks to find a path away from sterile self-reference, inner conflicts and the intricacies of exile, while attempting to forge a personal style and a renewed interplay between systematic thought and intuition. Apart from languages and literatures, both classical and modern, with a particular focus on modernism, his interests lie in philosophy, music, and, more recently, (geo)politics and economics, albeit reluctantly so. The discovery of programming and artificial intelligence in 2017-2018, and the integration of those techniques into his writing practice is an important turn in his trajectory, which sheds a retrospective light on a long-standing interest in the dialectics between constraint and freedom in literary and artistic forms, especially in the novels and poetry of the twentieth-century avant-gardes, as well as in experimental musical composition.
