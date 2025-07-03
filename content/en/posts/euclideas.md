@@ -5,7 +5,7 @@ date: 2018-05-21 16:29:44.000000000 +0100
 
 This project comprises several small rhythmic pieces in the form of Max patches. They all function as 'perpetua mobilia', that can be turned on to produce a variable, but ultimately cyclical and indefinite stream of beats.   
 
-Patches available [here](https://www.dropbox.com/sh/tugugmhjqgmj57s/AABf_81G9o3g8TptsaAb-NqEa?dl=0).  
+Patches available [here](https://www.dropbox.com/scl/fo/7vldo0sy9yzbthwstjuy3/ACwjCjMXp2QfFcDK242RRG4?rlkey=wxn4bmj24b6blxugk48egunl7&dl=0).  
 
 {{< separators type="outer" >}}  
 
