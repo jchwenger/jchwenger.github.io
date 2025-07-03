@@ -55,7 +55,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 With [Vassilis Papadopoulos](https://scholar.google.com/citations?user=4o52I2oAAAAJ&hl=en), [Clément Hongler](https://scholar.google.com/citations?user=p9B6eWEAAAAJ&hl=en). "[Arrows of Time for Large Language Models](https://arrowsoftime.github.io/)", 2024. A study on the probabilistic modeling performed by Autoregressive Large Language Models through the angle of time directionality, ICML 2024 Oral.
 
-Three *Squares* published by [Pamenar Online Magazine](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger), 2024. Editor: [Khashayar "Kess" Mohammadi](https://www.khashayarmohammadi.com/)
+Three *Squares* published by [Pamenar Online Magazine](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger) (ed: [Khashayar "Kess" Mohammadi](https://www.khashayarmohammadi.com/)), 2024.
 
 ## 2023
 
