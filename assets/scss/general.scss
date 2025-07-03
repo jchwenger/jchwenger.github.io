@@ -330,6 +330,12 @@ p:lang(ja), span:lang(ja), {
 /* Styling add-ons*/
 /* ------------------------------------------------------------------------ */
 
+@media screen and (max-width: 760px) {
+  html {
+    font-size: 12px;
+  }
+}
+
 .small {
   font-size: $font-size-small;
 }
