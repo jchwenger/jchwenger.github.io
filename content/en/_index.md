@@ -39,7 +39,7 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 [Excerpts from *Chains*](https://www.vernacular.website/jeremie-wenger/from-chains), published in Vernacular[\*](https://www.vernacular.website), 2024.
 
-[Excerpts from *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), published in [Strings 2](https://stringsmag.com/strings-2) (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera/)), 2024.
+[Excerpts from *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), published in Strings 2[\*](https://stringsmag.com/strings-2) (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera/)), 2024.
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/) (French version in [*Dimensions* 15, le journal de l'éducation, la recherche et l'innovation de l'EPFL](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), p. 10), EPFL, 2024.
 
