@@ -36,6 +36,8 @@ Extraits de *Chaînes*, publiés dans [minor literature\[s\]](https://minorliter
 
 ## 2024
 
+*The Corridor*, 2024. Fiction
+
 Extraits de *Chaînes*, publiés dans [Vernacular](https://www.vernacular.website/jeremie-wenger/from-chains), 2024.
 
 Extraits de *Lacanage*, publiés dans [Strings](https://stringsmag.com/strings-2-jeremie-wenger) 2 (éds [Alex Aspden](https://alexaspden.com/) & [Alex Keramidas](https://www.instagram.com/alexandrakera/)), 2024.
