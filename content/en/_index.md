@@ -112,7 +112,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 *Lacanage*, 2021. Neural texts using materials from a language model finetuned on Jacques Lacan and my own texts, with Alan Cunningham[\*](https://www.alanmcunningham.com/), supported by the Arts Council of Northern Ireland[\*](https://artscouncil-ni.org/). GPT-2
 
-[*Kirjasto/Library*](ca-artificiel#kirjasto), 2021. Exhibition of *Artificial It* and *Artificial It ("to begin with...")* in Helsinki, Finland, (curation: Jonni Korhonen[\*](https://www.instagram.com/darkchildnana/)).
+[*Kirjasto/Library*](posts/artificial-it#kirjasto), 2021. Exhibition of *Artificial It* and *Artificial It ("to begin with...")* in Helsinki, Finland, (curation: Jonni Korhonen[\*](https://www.instagram.com/darkchildnana/)).
 
 ## 2020
 

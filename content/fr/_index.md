@@ -113,13 +113,13 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 *Lacanage*, 2021. Textes neuraux utilisant des matériaux généras par des modèles de langage affinés sur Jacques Lacan et mes propres textes, avec Alan Cunningham[\*](https://www.alanmcunningham.com/), avec le soutien de l'Arts Council d'Irlande du Nord[\*](https://artscouncil-ni.org/). GPT-2
 
-[*Kirjasto/Library*](ca-artificiel#kirjasto), 2021. Exposition d'*Artificial It* et d'*Artificial It ("to begin with...")* à Helsinki, Finlande, (curation: Jonni Korhonen[\*](https://www.instagram.com/darkchildnana/))
+[*Kirjasto/Library*](posts/ca-artificiel#kirjasto), 2021. Exposition d'*Artificial It* et d'*Artificial It ("to begin with...")* à Helsinki, Finlande, (curation: Jonni Korhonen[\*](https://www.instagram.com/darkchildnana/))
 
 ## 2020
 
 *Inanimaux*, 2020. Textes neuraux utilisant des matériaux générés par des modèles de language affinés pour le français. Shell/GPT-2
 
-[*CHATBOT*](chatbot), 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur. Un projet de recherche de la Manufacture, Haute école des arts de la scène[\*](https://www.manufacture.ch) à Lausanne, Suisse, supported by the Swiss National Science Foundation[\*](https://www.snf.ch/en), under the direction of Nicolas Zlatoff[\*](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
+[*CHATBOT*](/chatbot), 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur. Un projet de recherche de la Manufacture, Haute école des arts de la scène[\*](https://www.manufacture.ch) à Lausanne, Suisse, supported by the Swiss National Science Foundation[\*](https://www.snf.ch/en), under the direction of Nicolas Zlatoff[\*](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
 
 [*exist digressively*](ca-artificiel/#text-type-light) (« exister digressivement »), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) à Stockholm (Suède)
 
