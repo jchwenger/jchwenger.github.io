@@ -9,29 +9,29 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 ## Forthcoming
 
-Excerpts from *Lacanage*, forthcoming in [Still Point](https://www.stillpointldn.com/), 2025.
+Excerpts from *Lacanage*, forthcoming in Still Point[\*](https://www.stillpointldn.com/), 2025.
 
-Excerpts from *Artificial It*, forthcoming in [gorse](http://gorse.ie/) 12 (ed: [Christodoulos Makris](https://yesbutisitpoetry.blogspot.com/)), 2025.
+Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed: Christodoulos Makris[\*](https://yesbutisitpoetry.blogspot.com/)), 2025.
 
-*rebut\|robot*, forthcoming in [Projet éditorial Arkhaï](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
+*rebut\|robot*, forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
 ## 2025
 
-[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in [The New River](https://thenewriverjournal.org/category/spring-2025-issue/) Issue XLIX 2025 (ed: [Riley O’Mearns](https://www.instagram.com/rileyohhhh/)), 2025.
+[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh/)), 2025.
 
-[*Chains*](https://www.tiltedhouse.org/tilt0005-j), published in [TILT 0005](https://www.tiltedhouse.org/tilt-0005) (eds: [Henry Goldkamp](https://www.henrygoldkamp.com/), [Nam Hoang Tran](https://namhtran.carrd.co)), 2025.
+[*Chains*](https://www.tiltedhouse.org/tilt0005-j), published in TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (eds: Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
 
-Panelist for [*Antenna: Where Signals Meet*](https://www.instagram.com/p/DKrxpdxNv1G), MFA Computational Arts Work-in-Progress 2 Show, 2025, Goldsmiths College, London. With [Rebecca Aston](https://rebeccaaston.com/), [Patrick Hartono](https://patrickhartono.com/), [Katie Tindle](https://katietindle.co.uk/) and [Rachel Falconer](https://www.gold.ac.uk/computing/people/r-falconer/).
+Panelist for [*Antenna: Where Signals Meet*](https://www.instagram.com/p/DKrxpdxNv1G), MFA Computational Arts Work-in-Progress 2 Show, 2025, Goldsmiths College, London. With Rebecca Aston[\*](https://rebeccaaston.com/), Patrick Hartono[\*](https://patrickhartono.com/), Katie Tindle[\*](https://katietindle.co.uk/) and Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/).
 
-*Machines Poétiques: Introducing textual systems through experimental French poetry*, 2025, Goldsmiths College, London. One-day computational poetry workshop with [Iris Colomb](https://iriscolomb.com/). p5.js/JavaScript
+*Machines Poétiques: Introducing textual systems through experimental French poetry*, 2025, Goldsmiths College, London. One-day computational poetry workshop with Iris Colomb[\*](https://iriscolomb.com/). p5.js/JavaScript
 
 [*p5.Ollama: Ollama with p5.js*](https://github.com/jchwenger/p5.Ollama), 2025. Ollama/p5.js/JavaScript
 
 [*p5.Claude: Anthropic's Claude with p5.js*](https://github.com/jchwenger/p5.Claude), 2025. Claude/p5.js/JavaScript
 
-Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams/tech-tea--exchange) residency, Tate, with [Nathan Bayliss](https://practice.nathanbayliss.tv/) and [Robin Leverton](https://robinlevertonart.com/), under the leadership of [Rachel Falconer](https://www.gold.ac.uk/computing/people/r-falconer/).
+Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams/tech-tea--exchange) residency, Tate, with Nathan Bayliss[\*](https://practice.nathanbayliss.tv/) and Robin Leverton[\*](https://robinlevertonart.com/), under the leadership of Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/).
 
-Excerpts from *Chains*, published in [minor literature\[s\]](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/) (ed: [Yanina Spizzirri](https://x.com/schweben_weben)), 2025.
+Excerpts from *Chains*, published in [minor literature\[s\]](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/) (ed: Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
 
 *The Corridor*, 2024-5. Fiction
 
@@ -39,31 +39,31 @@ Excerpts from *Chains*, published in [minor literature\[s\]](https://minorlitera
 
 Excerpts from *Chains*, published in [Vernacular](https://www.vernacular.website/jeremie-wenger/from-chains), 2024.
 
-Excerpts from *Lacanage*, published in [Strings](https://stringsmag.com/strings-2-jeremie-wenger) 2 (eds: [Alex Aspden](https://alexaspden.com/) & [Alex Keramidas](https://www.instagram.com/alexandrakera/)), 2024.
+Excerpts from *Lacanage*, published in [Strings](https://stringsmag.com/strings-2-jeremie-wenger) 2 (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera/)), 2024.
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/) (French version in [*Dimensions* 15, le journal de l'éducation, la recherche et l'innovation de l'EPFL](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), p. 10), EPFL, 2024.
 
-"to begin with...", from *Artificial It*, published in [GRASS](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) [@englishgrass](https://www.instagram.com/englishgrass/), issue 4 (ed.: [Tommy Sissons](https://www.instagram.com/tommyfredsissons/)), 2024.
+"to begin with...", from *Artificial It*, published in [GRASS](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass/), issue 4 (ed.: Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
 
 *Cubes*, constrained writing on cubic surfaces, inspired by Ilse Garner's "Puzzle-Alphabet" (2010), presented at [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
 
-[*Départs*](departs) presented at the symposium: [3ai.24: Art in the Age of AI](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Greece, 2024.
+[*Départs*](departs) presented at the symposium: 3ai.24: Art in the Age of AI[\*](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Greece, 2024.
 
-*Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (ed: [petra schulze-wollgast (psw)](https://www.psw.gallery/)), 2024. A visual/generative tribute to [Ruth Wolf-Rehfeldt](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
+*Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (ed: petra schulze-wollgast (psw)[\*](https://www.psw.gallery/)), 2024. A visual/generative tribute to Ruth Wolf-Rehfeldt[\*](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
 
 *Gonograph*, 2024. Polygonal constrained writing & dedicated web text editor. JavaScript [unfinished]
 
-[*Machines Poétiques: Introducing textual systems through experimental French poetry*](https://github.com/jchwenger/machines.poetiques.goldsmiths.2024), 2024, Goldsmiths College, London. One-day computational poetry workshop with [Iris Colomb](https://iriscolomb.com/). p5.js/JavaScript
+[*Machines Poétiques: Introducing textual systems through experimental French poetry*](https://github.com/jchwenger/machines.poetiques.goldsmiths.2024), 2024, Goldsmiths College, London. One-day computational poetry workshop with Iris Colomb[\*](https://iriscolomb.com/). p5.js/JavaScript
 
-With [Vassilis Papadopoulos](https://scholar.google.com/citations?user=4o52I2oAAAAJ&hl=en), [Clément Hongler](https://scholar.google.com/citations?user=p9B6eWEAAAAJ&hl=en). "[Arrows of Time for Large Language Models](https://arrowsoftime.github.io/)", 2024. A study on the probabilistic modeling performed by Autoregressive Large Language Models through the angle of time directionality, ICML 2024 Oral.
+With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2oAAAAJ&hl=en), Clément Hongler[\*](https://scholar.google.com/citations?user=p9B6eWEAAAAJ&hl=en). "[Arrows of Time for Large Language Models](https://arrowsoftime.github.io/)", 2024. A study on the probabilistic modeling performed by Autoregressive Large Language Models through the angle of time directionality, ICML 2024 Oral.
 
-Three *Squares* published by [Pamenar Online Magazine](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger) (ed: [Khashayar "Kess" Mohammadi](https://www.khashayarmohammadi.com/)), 2024.
+Three *Squares* published by [Pamenar Online Magazine](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger) (ed: Khashayar "Kess" Mohammadi[\*](https://www.khashayarmohammadi.com/)), 2024.
 
 ## 2023
 
 *Subwords*, 2023-4. Constrained writing based on subsequence decompositions of long words into shorter ones. Shell/Python & dedicated PyCairo renderer
 
-Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcham, Goldsmiths College, 2023. Curation: [Eden Chahal](https://www.theimpossiblecities.com) and [Marisa Di Monda](https://www.marisadimonda.com/)
+Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcham, Goldsmiths College, 2023. Curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)
 
 ## 2022
 
@@ -78,11 +78,11 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 [*p5.GPT: OpenAI's ChatGPT with p5.js*](https://github.com/jchwenger/p5.GPT), 2023. ChatGPT/p5.js/JavaScript
 
-[*Machines Poétiques: Introducing textual systems through experimental French poetry*](https://github.com/jchwenger/machines.poetiques.goldsmiths.2023), 2023, Goldsmiths College, London. One-day computational poetry workshop with [Iris Colomb](https://iriscolomb.com/). ChatGPT/p5.js/JavaScript
+[*Machines Poétiques: Introducing textual systems through experimental French poetry*](https://github.com/jchwenger/machines.poetiques.goldsmiths.2023), 2023, Goldsmiths College, London. One-day computational poetry workshop with Iris Colomb[\*](https://iriscolomb.com/). ChatGPT/p5.js/JavaScript
 
-[*Bilingual Lab*](https://www.instagram.com/p/CnReCfVoMjf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2022-23. Monthly online poetry course with [Iris Colomb](https://iriscolomb.com/), [Beyond Form Creative Writing](https://www.beyondformcreativewriting.org/)
+[*Bilingual Lab*](https://www.instagram.com/p/CnReCfVoMjf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2022-23. Monthly online poetry course with Iris Colomb[\*](https://iriscolomb.com/), Beyond Form Creative Writing[\*](https://www.beyondformcreativewriting.org/)
 
-[*Machines Poétiques: Transreading Twentieth-Century French Poetry*](https://poetryschool.com/product/machines-poetiques-transreading-twentieth-century-french-poetry-spring-2023/), 2022-23. Monthly online poetry course with [Iris Colomb](https://iriscolomb.com/), [The Poetry School](https://poetryschool.com/)
+[*Machines Poétiques: Transreading Twentieth-Century French Poetry*](https://poetryschool.com/product/machines-poetiques-transreading-twentieth-century-french-poetry-spring-2023/), 2022-23. Monthly online poetry course with Iris Colomb[\*](https://iriscolomb.com/), The Poetry School[\*](https://poetryschool.com/)
 
 [*DIY Freud*](posts/diy-freud), 2022. Automated therapist on the cheap, essay
 
@@ -94,11 +94,11 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 *pas peu lunaire* ("not a little lunar"), 2022. Homophonic variations on Apollinaire's "Chantre"
 
-[*Machines Poétiques: Introducing textual systems through experimental French poetry*](https://github.com/jchwenger/machines.poetiques.goldsmiths.2022), 2022, Goldsmiths College, London. One-day computational poetry workshop with [Iris Colomb](https://iriscolomb.com/). p5.js/JavaScript
+[*Machines Poétiques: Introducing textual systems through experimental French poetry*](https://github.com/jchwenger/machines.poetiques.goldsmiths.2022), 2022, Goldsmiths College, London. One-day computational poetry workshop with Iris Colomb[\*](https://iriscolomb.com/). p5.js/JavaScript
 
 [*minGPT*](https://github.com/jchwenger/minGPT) fork, 2022. Byte-level, alphabet-agnostic tokenization & TPU/XLA integration & first steps towards in-training gradual generation, PyTorch/Python
 
-*bridges*, 2022. A GPT-2 wrapper class & gephyrurge (bridge-maker) using forward and backward text generation, with [Pr. Clément Hongler](https://people.epfl.ch/clement.hongler). GPT-2/Tensorflow/Python
+*bridges*, 2022. A GPT-2 wrapper class & gephyrurge (bridge-maker) using forward and backward text generation, with Pr. Clément Hongler[\*](https://people.epfl.ch/clement.hongler). GPT-2/Tensorflow/Python
 
 ## 2021
 
@@ -110,15 +110,15 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 *Vegans*, 2021. Neural fiction: variations on one single prompt. GPT-2/GPT-J-6B
 
-*Lacanage*, 2021. Neural texts using materials from a language model finetuned on Jacques Lacan and my own texts, with [Alan Cunningham](https://www.alanmcunningham.com/), supported by the [Arts Council of Northern Ireland](https://artscouncil-ni.org/). GPT-2
+*Lacanage*, 2021. Neural texts using materials from a language model finetuned on Jacques Lacan and my own texts, with Alan Cunningham[\*](https://www.alanmcunningham.com/), supported by the Arts Council of Northern Ireland[\*](https://artscouncil-ni.org/). GPT-2
 
-[*Kirjasto/Library*](ca-artificiel#kirjasto), 2021. Exhibition of *Artificial It* and *Artificial It ("to begin with...")* in Helsinki, Finland, (curation: [Jonni Korhonen](https://www.instagram.com/darkchildnana/)).
+[*Kirjasto/Library*](ca-artificiel#kirjasto), 2021. Exhibition of *Artificial It* and *Artificial It ("to begin with...")* in Helsinki, Finland, (curation: Jonni Korhonen[\*](https://www.instagram.com/darkchildnana/)).
 
 ## 2020
 
 *Inanimaux* ("Inanimals"), 2020. Neural texts generated using materials generated by language models finetuned for French. Shell/GPT-2
 
-[*CHATBOT*](chatbot), 2020-1. Act and dialogue with a conversational agent-actor. A research project of the [Manufacture School of Drama](https://www.manufacture.ch) in Lausanne, Switzerland, supported by the [Swiss National Science Foundation](https://www.snf.ch/en), under the direction of [Nicolas Zlatoff](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
+[*CHATBOT*](chatbot), 2020-1. Act and dialogue with a conversational agent-actor. A research project of the Manufacture School of Drama[\*](https://www.manufacture.ch) in Lausanne, Switzerland, supported by the Swiss National Science Foundation[\*](https://www.snf.ch/en), under the direction of Nicolas Zlatoff[\*](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
 
 [*exist digressively*](ca-artificiel/#text-type-light), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) in Stockholm (Sweden)
 
@@ -132,7 +132,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 *A Scroll*, 2019. …written on a scroll found on the street…. Prose
 
-[*Ça artificiel*](ca-artificiel), exhibited at the [Cabanon](https://www.unil.ch/hart/fr/home/menuinst/etudiantes/associations/le-cabanon.html), 2019, Lausanne, Switzerland, as part of the [Printemps de la Poésie](https://printempspoesie.lyricalvalley.org/) ("The Spring of Poetry")  
+[*Ça artificiel*](ca-artificiel), exhibited at the Cabanon[\*](https://www.unil.ch/hart/fr/home/menuinst/etudiantes/associations/le-cabanon.html), 2019, Lausanne, Switzerland, as part of the Printemps de la Poésie[\*](https://printempspoesie.lyricalvalley.org/) ("The Spring of Poetry")  
   *Ça artificiel (« pour commencer... »)*  
   *Ça artificiel (morceaux I-VIII)*  
   *L'écriture et son double (essai)*   
@@ -157,7 +157,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 [Recursus](recursus.co), 2018, Goldsmiths Computational Arts MA final year show. Triptych of computational literature composed of WordSquares, Subwords and AIT
 
-*AIT (Artificial It)*, 2018. Steps toward Neural Text Generation, using materials from 'doppelgänger' networks, trained on my own texts. LSTMs/Python [forthcoming publication in [gorse](http://gorse.ie/)]
+*AIT (Artificial It)*, 2018. Steps toward Neural Text Generation, using materials from 'doppelgänger' networks, trained on my own texts. LSTMs/Python [forthcoming publication in gorse[\*](http://gorse.ie/)]
 
 *Squares* (formerly *Wordsquares*), 2018. Recursive foray into squares of letters as a poetic form. Python & dedicated Processing renderer
 
@@ -177,19 +177,19 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 [*Ideas*](posts/ideas), 2017. A list of ideas and suggestions presented as part of my submission for the Master’s in Computational Arts at Goldsmiths College, London
 
-[*Tomorrow Is the Past of Some Distant future*](https://www.youtube.com/watch?v=tz0mFZKtlfw), 2017-8. Texts for a music piece by [Davor Branimir Vincze](https://www.db-vincze.com/)
+[*Tomorrow Is the Past of Some Distant future*](https://www.youtube.com/watch?v=tz0mFZKtlfw), 2017-8. Texts for a music piece by Davor Branimir Vincze[\*](https://www.db-vincze.com/)
 
 *Six Poems*, 2017.
 
 *Essay*, 2017. Prose
 
-*Neovalis*, 2017. Texts with and around Novalis' *Hymns to the Night*, [Novalis Festival](https://www.instagram.com/novalisfestival/?hl=en-gb), Croatia
+*Neovalis*, 2017. Texts with and around Novalis' *Hymns to the Night*, Novalis Festival[\*](https://www.instagram.com/novalisfestival/?hl=en-gb), Croatia
 
 *Sandra K. wakes up...*, 2017. Fiction
 
 *Situs Vetus*, 2017. [Tumblr](https://s-i-t-u-s.tumblr.com) and [Twitter](https://twitter.com/situsvetus)
 
-*Inflected Points*, 2017. Texts for a music piece by [Davor Branimir Vincze](https://www.db-vincze.com/)
+*Inflected Points*, 2017. Texts for a music piece by Davor Branimir Vincze[\*](https://www.db-vincze.com/)
 
 ## 2016
 
@@ -199,7 +199,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 *Four Poems*, 2016.
 
-[*A short electroacoustic essay of autobiographical nature regarding music and unrelated matters*](http://cargocollective.com/kammerklang/8-March), 2016, London. Texts for a music piece by [Davor Branimir Vincze](https://www.db-vincze.com/), [Kammer Klang](https://www.kammerklang.co.uk/)/[Cafe Oto](https://www.cafeoto.co.uk/)
+[*A short electroacoustic essay of autobiographical nature regarding music and unrelated matters*](http://cargocollective.com/kammerklang/8-March), 2016, London. Texts for a music piece by Davor Branimir Vincze[\*](https://www.db-vincze.com/), Kammer Klang[\*](https://www.kammerklang.co.uk/)/Cafe Oto[\*](https://www.cafeoto.co.uk/)
 
 *Sleep Wars*, 2016. Essay
 
@@ -223,9 +223,9 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
   quotes  
   words  
 
-[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Frankfurt. Constrained, letter-based textual complex produced at the invitation of [Jagoda Szmytka](http://www.jagodaszmytka.com/jagoda_szmytka.html) for [Play night](http://www.playplattform.com/games_explosure.html). Installation, GIFs & Tumblr blogs
+[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Frankfurt. Constrained, letter-based textual complex produced at the invitation of Jagoda Szmytka[\*](http://www.jagodaszmytka.com/jagoda_szmytka.html) for Play night[\*](http://www.playplattform.com/games_explosure.html). Installation, GIFs & Tumblr blogs
 
-*EUHOQ*, 2015. Constrained Duchampian texts for a composition by [Davor Branimir Vincze](https://www.db-vincze.com/)
+*EUHOQ*, 2015. Constrained Duchampian texts for a composition by Davor Branimir Vincze[\*](https://www.db-vincze.com/)
 
 *Londoners*, 2015. Fiction
 
@@ -289,23 +289,23 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 *It I*, 2012-3. [revisions 2014-15]  
   wall system  
 
-« Lieux de la quête. Composer, penser, depuis Royaumont en 2011 », 2012. [*dissonance*](https://dissonance.ch/) 118.
+« Lieux de la quête. Composer, penser, depuis Royaumont en 2011 », 2012. *dissonance*[\*](https://dissonance.ch/) 118.
 
 « Désirs du commentaire dans le Séminaire VIII, Le transfert, de Jacques Lacan. Essai de théorisation », 2012. In François Félix and Philippe Grosos (dir.), *Érotisme biblique, érotisme païen : lecture du Cantique des Cantiques et du Banquet de Platon*, Lausanne, L’Âge d’homme.
 
-« Miroirs – de l’écoute. Correspondance autour du canon musical aujourd’hui », 2012. In collaboration with Dragos Tara, [*dissonance*](https://dissonance.ch/) 119.
+« Miroirs – de l’écoute. Correspondance autour du canon musical aujourd’hui », 2012. In collaboration with Dragos Tara, *dissonance*[\*](https://dissonance.ch/) 119.
 
-« Lieux de la quête. Composer, penser, depuis Royaumont », 2012. [*dissonance*](https://dissonance.ch/) 118.
+« Lieux de la quête. Composer, penser, depuis Royaumont », 2012. *dissonance*[\*](https://dissonance.ch/) 118.
 
 ## 2011 (and prior)
 
-With [Dragos Tara](https://dragostara.name/). « Miroirs – électro-acoustiques. Petit essai épistolaire romand sur des questions de composition contemporaine », 2011. [*dissonance*](https://dissonance.ch/) 115.
+With Dragos Tara[\*](https://dragostara.name/). « Miroirs – électro-acoustiques. Petit essai épistolaire romand sur des questions de composition contemporaine », 2011. *dissonance*[\*](https://dissonance.ch/) 115.
 
 With Noël Christe. « La Fin Justifie-t-elle les Moyens ? A Derridean Halt in Harris’ Long Walk », *Language Sciences*, Volume 33/4, 2011, Bade, David & pablé, Adrian (eds), « Linguistics Out of Bounds : Explorations in Integrational Linguistics in Honour of Roy Harris on his 80th Birthday ».
 
 With Noël Christe. « Of Fig and Foes : A Short Reflection on Roy Harris Intellectual’s Stance », *Language Sciences*, Volume 33/4, 2011, Bade, David & Pablé, Adrian (eds) « Linguistics out of bounds : Explorations in Integrational Linguistics in Honour of Roy Harris on his 80th birthday ».
 
-« Tentations de la clarté. Auprès de Reflecting Black de William Blank ». [*dissonance*](https://dissonance.ch/) 110, 2010.
+« Tentations de la clarté. Auprès de Reflecting Black de William Blank ». *dissonance*[\*](https://dissonance.ch/) 110, 2010.
 
 "Bookself", 2010. Poem
 
