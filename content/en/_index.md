@@ -31,21 +31,21 @@ Panelist for [*Antenna: Where Signals Meet*](https://www.instagram.com/p/DKrxpdx
 
 Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams/tech-tea--exchange) residency, Tate, with Nathan Bayliss[\*](https://practice.nathanbayliss.tv/) and Robin Leverton[\*](https://robinlevertonart.com/), under the leadership of Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/).
 
-Excerpts from *Chains*, published in [minor literature\[s\]](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/) (ed: Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
+[Excerpts from *Chains*](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/), published in minor literature\[s\][\*](https://minorliteratures.com) (ed: Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
 
 *The Corridor*, 2024-5. Fiction
 
 ## 2024
 
-Excerpts from *Chains*, published in [Vernacular](https://www.vernacular.website/jeremie-wenger/from-chains), 2024.
+[Excerpts from *Chains*](https://www.vernacular.website/jeremie-wenger/from-chains), published in Vernacular[\*](https://www.vernacular.website), 2024.
 
-Excerpts from *Lacanage*, published in [Strings](https://stringsmag.com/strings-2-jeremie-wenger) 2 (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera/)), 2024.
+[Excerpts from *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), published in [Strings 2](https://stringsmag.com/strings-2) (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera/)), 2024.
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/) (French version in [*Dimensions* 15, le journal de l'éducation, la recherche et l'innovation de l'EPFL](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), p. 10), EPFL, 2024.
 
-"to begin with...", from *Artificial It*, published in [GRASS](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass/), issue 4 (ed.: Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
+"to begin with...", from *Artificial It*, published in [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass/) (ed.: Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
 
-*Cubes*, constrained writing on cubic surfaces, inspired by Ilse Garner's "Puzzle-Alphabet" (2010), presented at [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
+[*Cubes*](cubes), constrained writing on cubic surfaces, inspired by Ilse Garner's "Puzzle-Alphabet" (2010), presented at [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
 
 [*Départs*](departs) presented at the symposium: 3ai.24: Art in the Age of AI[\*](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Greece, 2024.
 
