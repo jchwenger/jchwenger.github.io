@@ -13,7 +13,7 @@ Extraits de *Lacanage*, à paraître dans Still Point[\*](https://www.stillpoint
 
 Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (éd. Christodoulos Makris[\*](https://yesbutisitpoetry.blogspot.com/)), 2025.
 
-*rebut\|robot*, à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant le *Siamesor* (« Siamoiseur »). Shell/Python
+*rebut\|robot*, à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
 
 ## 2025
 
@@ -126,7 +126,7 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 ## 2019
 
-*The Siamesor* (« Le Siamoiseur »), 2019. Élevage de mots siamois, dits mots-garous. Python & rendition graphique avec Processing
+*Mots-grarous*, anciennement « Le Siamoiseur » (*The Siamesor*), 2019. Élevage de mots-garous (ou « siamois »). Python & rendition graphique avec Processing
 
 [*Wordhoard*](https://github.com/jchwenger/wordhoard) (« Magot de mots »), 2019. Entassement cupide de mots & piles de mots...
 
