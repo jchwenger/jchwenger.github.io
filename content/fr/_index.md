@@ -33,7 +33,7 @@ Curation et workshops pour la résidence [TEA, TECH + EXCHANGE](https://www.tate
 
 [Extraits de *Chaînes*](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/), publiés dans minor literature\[s\][\*](https://minorliteratures.com) (éd. Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
 
-*The Corridor*, 2024-5. Fiction
+*The Corridor*, 2024-5. Fiction [inachevé]
 
 ## 2024
 
