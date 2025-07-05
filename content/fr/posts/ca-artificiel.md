@@ -90,13 +90,7 @@ Update (2020) : « exist digressively » exposé dans une station de métro à
 {{< separators type="blank" >}}
 {{< separators type="outer" >}}
 
-Update (2021) : « Artificial It » exposé à Helsinki, dans le cadre de
-l'exposition [Kirjasto/Library](https://www.instagram.com/kirjasto.forumbox).
-Tous mes remerciements à [Jonni Korhonen](https://www.instagram.com/darkchildnana/),
-ainsi qu'à toute l'équipe ([Chih Tung Lin](https://www.instagram.com/wendylasts/),
-[Noora Lehtovuori](https://www.instagram.com/n.lehtovuori/) &
-[Ria Andrews](https://www.instagram.com/ria.andrews)), dont le soutien et le travail
-ont rendu cette exposition possible.
+Update (2021) : « Artificial It » exposé à Helsinki, dans le cadre de l'exposition [Kirjasto/Library](https://www.instagram.com/kirjasto.forumbox). Tous mes remerciements à [Jonni Korhonen](https://www.instagram.com/darkchildnana/), ainsi qu'à toute l'équipe ([Chih Tung Lin](https://www.instagram.com/wendylasts/), [Noora Lehtovuori](https://www.instagram.com/n.lehtovuori/) & [Ria Andrews](https://www.instagram.com/ria.andrews)), dont le soutien et le travail ont rendu cette exposition possible.
 
 {{< separators type="blank" >}}
 
