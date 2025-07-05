@@ -43,7 +43,7 @@ Curation et workshops pour la résidence [TEA, TECH + EXCHANGE](https://www.tate
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), EPFL, 2024.
 
-"to begin with...", from *Artificial It*, publié dans [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) (@englishgrass[\*](https://www.instagram.com/englishgrass/)) (éd. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
+["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), from *Artificial It*, publié dans [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) (@englishgrass[\*](https://www.instagram.com/englishgrass/)) (éd. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
 
 [*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), écriture contrainte sur cubes, inspirée par "Puzzle-Alphabet" (2010) d'Ilse Garner, présentés à [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
 
