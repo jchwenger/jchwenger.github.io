@@ -126,7 +126,7 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 ## 2019
 
-*Mots-grarous*, anciennement « Le Siamoiseur » (*The Siamesor*), 2019. Élevage de mots-garous (ou « siamois »). Python & rendition graphique avec Processing
+*Mots-garous*, anciennement « Le Siamoiseur » (*The Siamesor*), 2019. Élevage de mots-garous (ou « siamois »). Python & rendition graphique avec Processing
 
 [*Wordhoard*](https://github.com/jchwenger/wordhoard) (« Magot de mots »), 2019. Entassement cupide de mots & piles de mots...
 
