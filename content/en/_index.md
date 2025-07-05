@@ -47,7 +47,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 [*Cubes*](cubes), constrained writing on cubic surfaces, inspired by Ilse Garner's "Puzzle-Alphabet" (2010), presented at [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
 
-[*Départs*](departs) presented at the symposium: 3ai.24: Art in the Age of AI[\*](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Greece, 2024.
+[*Départs*](/departs) presented at the symposium: 3ai.24: Art in the Age of AI[\*](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Greece, 2024.
 
 *Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (ed: petra schulze-wollgast (psw)[\*](https://www.psw.gallery/)), 2024. A visual/generative tribute to Ruth Wolf-Rehfeldt[\*](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
 
@@ -102,7 +102,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 ## 2021
 
-[*Départs*](departs), 2021. Prototype pour une pièce radiophonique à deux voix, avec des textes issus de réécritures de matériaux générés par des modèles de langue, utilisant l’architecture Transformer, (notamment, entre autres, le GPT-3 d’OpenAI). GPT-2/GPT-3/p5.js/JavaScript
+[*Départs*](/departs), 2021. Prototype pour une pièce radiophonique à deux voix, avec des textes issus de réécritures de matériaux générés par des modèles de langue, utilisant l’architecture Transformer, (notamment, entre autres, le GPT-3 d’OpenAI). GPT-2/GPT-3/p5.js/JavaScript
 
 *jsml*, 2021. Combinatorial homage to Jackson Mac Low. Python [unfinished]
 
@@ -120,7 +120,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
 
 [*CHATBOT*](chatbot), 2020-1. Act and dialogue with a conversational agent-actor. A research project of the Manufacture School of Drama[\*](https://www.manufacture.ch) in Lausanne, Switzerland, supported by the Swiss National Science Foundation[\*](https://www.snf.ch/en), under the direction of Nicolas Zlatoff[\*](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
 
-[*exist digressively*](ca-artificiel/#text-type-light), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) in Stockholm (Sweden)
+[*exist digressively*](posts/artificial-it/#text-type-light), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) in Stockholm (Sweden)
 
 [*Google TTS reads foreign texts with an unreasonably accurate accent*](posts/google-tts), 2020. Casual mischief with Google's Text-To-Speech system. Python
 
@@ -139,7 +139,7 @@ Pieces from *Squares* and *Chains* presented at A-Side / B-Side, St James Hatcha
   *Ça artificiel (logismes)*  
   *Pastiches & mélanges*  
 
-[*Pastiches & mélanges*](pastiches), 2019. Automatic text generation thanks to deep learning. ml5.js/Python
+[*Pastiches & mélanges*](/pastiches), 2019. Automatic text generation thanks to deep learning. ml5.js/Python
 
 *Writing and its Double (essay)*, 2019. Writing to the test of the machine: Peritexts presented during the exhibition *Ça artificiel* in Lausanne
 

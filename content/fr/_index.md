@@ -48,7 +48,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 [*Cubes*](cubes), écriture contrainte sur cubes, inspirée par "Puzzle-Alphabet" (2010) d'Ilse Garner, présentés à [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
 
-[*Départs*](departs) présenté au symposium: [3ai.24: Art in the Age of AI](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Grèce, 2024.
+[*Départs*](/departs) présenté au symposium: [3ai.24: Art in the Age of AI](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Grèce, 2024.
 
 *Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (éd. petra schulze-wollgast (psw)[\*](https://www.psw.gallery/)), 2024. Un hommage visuel/génératif à Ruth Wolf-Rehfeldt[\*](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
 
@@ -85,7 +85,7 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 [*Machines Poétiques: Transreading Twentieth-Century French Poetry*](https://poetryschool.com/product/machines-poetiques-transreading-twentieth-century-french-poetry-spring-2023/) (« Machines poétiques : Translectures de la poésie française du XX<sup>ème</sup> siècle, 2022-23. Un mois de cours online d'écriture poétique avec Iris Colomb[\*](https://iriscolomb.com/), The Poetry School[\*](https://poetryschool.com/)
 
-[*DIY Freud*](diy-freud), 2022. Thérapeute automatisé à bon marché, essai
+[*DIY Freud*](/posts/diy-freud), 2022. Thérapeute automatisé à bon marché, essai
 
 *Art Projects* ("Projets artistiques"), 2022. "Comrade, what is your art project? – Hito Steyerl" (« Camarade, quel est ton projet artistique ? »). Prose [inachevé]
 
@@ -103,7 +103,7 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 ## 2021
 
-[*Départs*](departs), 2021. Prototype pour une pièce radiophonique à deux voix, avec des textes issus de réécritures de matériaux générés par des modèles de language, utilisant l’architecture Transformer, (notamment, entre autres, le GPT-3 d’OpenAI). GPT-2/GPT-3/p5.js/JavaScript
+[*Départs*](/departs), 2021. Prototype pour une pièce radiophonique à deux voix, avec des textes issus de réécritures de matériaux générés par des modèles de language, utilisant l’architecture Transformer, (notamment, entre autres, le GPT-3 d’OpenAI). GPT-2/GPT-3/p5.js/JavaScript
 
 *jsml*, 2021. Hommage combinatorial à Jackson Mac Low. Python [inachevé]
 
@@ -121,9 +121,9 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 [*CHATBOT*](/chatbot), 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur. Un projet de recherche de la Manufacture, Haute école des arts de la scène[\*](https://www.manufacture.ch) à Lausanne, Suisse, supported by the Swiss National Science Foundation[\*](https://www.snf.ch/en), under the direction of Nicolas Zlatoff[\*](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
 
-[*exist digressively*](ca-artificiel/#text-type-light) (« exister digressivement »), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) à Stockholm (Suède)
+[*exist digressively*](posts/ca-artificiel/#text-type-light) (« exister digressivement »), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) à Stockholm (Suède)
 
-[*Google TTS reads foreign texts with an unreasonably accurate accent*](google-tts) (« La synthèse vocale de Google lit des textes étrangers avec un accent déraisonnablement précis »), 2020. Espièglerie désinvolte autour du système de synthèse vocale de Google. Python
+[*Google TTS reads foreign texts with an unreasonably accurate accent*](/posts/google-tts) (« La synthèse vocale de Google lit des textes étrangers avec un accent déraisonnablement précis »), 2020. Espièglerie désinvolte autour du système de synthèse vocale de Google. Python
 
 ## 2019
 
@@ -133,14 +133,14 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 *A Scroll* (« Un rouleau »), 2019. …écrit sur un rouleau trouvé dans la rue…. Prose
 
-[*Ça artificiel*](ca-artificiel), exposé au Cabanon[\*](https://www.unil.ch/hart/fr/home/menuinst/etudiantes/associations/le-cabanon.html), 2019, Lausanne, Suisse dans le cadre du Printemps de la Poésie[\*](https://printempspoesie.lyricalvalley.org/)  
+[*Ça artificiel*](posts/ca-artificiel), exposé au Cabanon[\*](https://www.unil.ch/hart/fr/home/menuinst/etudiantes/associations/le-cabanon.html), 2019, Lausanne, Suisse dans le cadre du Printemps de la Poésie[\*](https://printempspoesie.lyricalvalley.org/)  
   *Ça artificiel (« pour commencer... »)*  
   *Ça artificiel (morceaux I-VIII)*  
   *L'écriture et son double (essai)*   
   *Ça artificiel (logismes)*  
   *Pastiches & mélanges*  
 
-[*Pastiches & mélanges*](pastiches), 2019. Génération automatique de textes grâce à l'apprentissage profond. ml5.js/Python
+[*Pastiches & mélanges*](/pastiches), 2019. Génération automatique de textes grâce à l'apprentissage profond. ml5.js/Python
 
 *L'écriture et son double (essai)*, 2019. L'écriture à l'épreuve de la machine. Péritextes présentés à l'occasion de l'exposition Ça artificiel à Lausanne
 
@@ -168,15 +168,15 @@ Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James 
 
 *What do we know about Tessa K.?* (« Que sait-on de Tessa K. ? »), 2018. Prose
 
-[*Euclideas*](euclideas) (« Euclidées »), 2018. Petites pièces rythmiques sous forme de patches Max, fonctionnant comme ‘perpetua mobilia’ produisant un flux de pulsations variable, mais finalaement cyclique. Max/MSP
+[*Euclideas*](/posts/euclideas) (« Euclidées »), 2018. Petites pièces rythmiques sous forme de patches Max, fonctionnant comme ‘perpetua mobilia’ produisant un flux de pulsations variable, mais finalaement cyclique. Max/MSP
 
 ## 2017
 
-[*Computational Thoughts*](computational-thoughts) (« Pensées computationnelles »), 2017-8. Une archive de posts écrits dans le contexte du Master en Arts Computationnels à Goldsmiths College, Londres.
+[*Computational Thoughts*](/posts/computational-thoughts) (« Pensées computationnelles »), 2017-8. Une archive de posts écrits dans le contexte du Master en Arts Computationnels à Goldsmiths College, Londres.
 
 [*Monodrian*](https://openprocessing.org/user/101600), 2017. Série de sketches Processing en hommage à Mondrian. Processing
 
-[*Ideas*](ideas) (« Idées »), 2017. Une liste d'idée et suggestions présentées avec ma candidature pour le Master en Arts Computationnels à Goldsmiths College, Londres.
+[*Ideas*](/posts/ideas) (« Idées »), 2017. Une liste d'idée et suggestions présentées avec ma candidature pour le Master en Arts Computationnels à Goldsmiths College, Londres.
 
 [*Tomorrow Is the Past of Some Distant future*](https://www.youtube.com/watch?v=tz0mFZKtlfw) (« Demain est le passé de quelque lointain futur »), 2017-8. Textes pour une pièce musicale de Davor Branimir Vincze[\*](https://www.db-vincze.com/)
 
