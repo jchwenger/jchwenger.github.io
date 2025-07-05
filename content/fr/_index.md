@@ -45,7 +45,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 "to begin with...", from *Artificial It*, publié dans [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) (@englishgrass[\*](https://www.instagram.com/englishgrass/)) (éd. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
 
-[*Cubes*](cubes), écriture contrainte sur cubes, inspirée par "Puzzle-Alphabet" (2010) d'Ilse Garner, présentés à [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
+[*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), écriture contrainte sur cubes, inspirée par "Puzzle-Alphabet" (2010) d'Ilse Garner, présentés à [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024. p5.js/JavaScript/Python
 
 [*Départs*](/departs) présenté au symposium: [3ai.24: Art in the Age of AI](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Grèce, 2024.
 
@@ -63,7 +63,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Subwords* (« Les mots sous les mots »), 2023-4. Écrirture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. Shell/Python & rendition graphique avec PyCairo
 
-Extraits de *Carrés* et de *Chaînes* présentés à A-Side / B-Side, St James Hatcham, Goldsmiths College, 2023, (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/))
+[Extraits de *Carrés* et de *Chaînes*](https://www.instagram.com/p/CvdTBIqoj6I/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) présentés à [A-Side / B-Side](https://www.instagram.com/p/Cu7n-InI6NN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), St James Hatcham, Goldsmiths College, 2023, (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/))
 
 ## 2022
 
