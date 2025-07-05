@@ -75,9 +75,12 @@ Ainsi que d'un essai, « L'écriture et son double ».
 
 Toute ma gratitude à Colin Pahlisch pour m’avoir invité à participer au Printemps de la Poésie, ainsi qu’à Monica Unser et Rafaël Santianez du Cabanon, ainsi que le reste de l’équipe, Marie, Clarissa, Letizia, Chloé, Janett, Lucas et Sébastien, pour leur enthousiasme et le professionalisme impeccables dont ils ont fait preuve durant l’élaboration de ce projet. Toute ma gratitude également à Rebecca Aston, Clément Hongler et Jacob Menick pour leur soutien et leur sorcellerie. Rien de tout cela n’existerait sans eux, merci !
 
+{{< html tag="div" id="text-type-light" >}}{{< /html >}}
+
+{{< separators type="blank" >}}
 {{< separators type="outer" >}}
 
-Update (2020) : « exist digressively » exposé dans une station de métro à Stockholm.
+Update (2020) : « exist digressively » exposé dans une station de métro à Stockholm par [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link).
 
 {{< separators type="blank" >}}
 

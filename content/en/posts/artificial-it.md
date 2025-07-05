@@ -75,10 +75,12 @@ As well as an essay, "Writing and its Double".
 
 All my gratitude to Colin Pahlisch for inviting me to participate in the Printemps de la Poésie in Lausanne, as well as Monica Unser and Rafael Santianez, co-curators of Le Cabanon, as well as the rest of the team, Marie, Clarissa, Letizia, Chloé, Janett, Lucas and Sébastien, for their enthusiasm and the impeccable professionalism they showed during the development of this project. I am also grateful to Rebecca Aston, Clément Hongler and Jacob Menick for their support and sorcery. None of this would exist without them, thank you!
 
+{{< html tag="div" id="text-type-light" >}}{{< /html >}}
 
+{{< separators type="blank" >}}
 {{< separators type="outer" >}}
 
-2020 Update: « exist digressively » exhibited in a metro station in Stockholm.
+2020 Update: « exist digressively » exhibited in a metro station in Stockholm by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link).
 
 {{< separators type="blank" >}}
 
