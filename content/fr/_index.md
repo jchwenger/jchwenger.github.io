@@ -25,12 +25,11 @@ Panéliste pour [*Antenna: Where Signals Meet*](https://www.instagram.com/p/DKrx
 
 *Machines Poétiques: Introducing textual systems through experimental French poetry* (« Machines poétiques : Introduction aux systèmes textuels par la poésie française expréimentale »), 2025, Goldsmiths College, Londres. Journée de workshops sur la poésie computationnelle avec Iris Colomb[\*](https://iriscolomb.com/). p5.js/JavaScript
 
-[*p5.Ollama: Ollama with p5.js*](https://github.com/jchwenger/p5.Ollama), 2025. Ollama/p5.js/JavaScript
+[*p5.Ollama: Ollama avec p5.js*](https://github.com/jchwenger/p5.Ollama), 2025. Ollama/p5.js/JavaScript
 
-[*p5.Claude: Anthropic's Claude with p5.js*](https://github.com/jchwenger/p5.Claude), 2025. Claude/p5.js/JavaScript
+[*p5.Claude: le Claude d'Anthropic avec p5.js*](https://github.com/jchwenger/p5.Claude), 2025. Claude/p5.js/JavaScript
 
 Curation et workshops pour la résidence [TEA, TECH + EXCHANGE](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams/tech-tea--exchange), Tate, avec Nathan Bayliss[\*](https://practice.nathanbayliss.tv/) et Robin Leverton[\*](https://robinlevertonart.com/), sous la direction de Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/).
-
 
 [Extraits de *Chaînes*](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/), publiés dans minor literature\[s\][\*](https://minorliteratures.com) (éd. Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
 
