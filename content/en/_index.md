@@ -33,9 +33,9 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 [Excerpts from *Chains*](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/), published in minor literature\[s\][\*](https://minorliteratures.com) (ed: Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
 
-*The Corridor*, 2024-5. Fiction [unfinished]
-
 ## 2024
+
+*The Corridor*, 2024-5. Fiction [unfinished]
 
 [Excerpts from *Chains*](https://www.vernacular.website/jeremie-wenger/from-chains), published in Vernacular[\*](https://www.vernacular.website), 2024.
 
