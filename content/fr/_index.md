@@ -163,8 +163,6 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Squares* (« Carrés », préalablement *Wordsquares*, « Carrés de mots »), 2018. Incursion récursive dans les carrés magiques de lettres comme forme poétique. Python & rendition graphique avec Processing
 
-*Subwords* (« Les mots sous les mots »), 2018. Outils pour le travail sur les sous-suites de chaînes de caractères. Python & rendition graphique avec Processing
-
 *Laces* (« Dentelles », préalablement *Wordlaces*, « Dentelles de mots »), 2018. Chemins circulaires poétiques de mots utilisant la distance de Levenshtein. Python & rendition graphique avec Processing
 
 *What do we know about Tessa K.?* (« Que sait-on de Tessa K. ? »), 2018. Prose
@@ -172,6 +170,9 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 [*Euclideas*](/posts/euclideas) (« Euclidées »), 2018. Petites pièces rythmiques sous forme de patches Max, fonctionnant comme ‘perpetua mobilia’ produisant un flux de pulsations variable, mais finalaement cyclique. Max/MSP
 
 ## 2017
+
+*Subwords* (« Les mots sous les mots »), 2017-8. Outils pour le travail sur les sous-suites de chaînes de caractères. Python & rendition graphique avec Processing
+
 
 [*Computational Thoughts*](/posts/computational-thoughts) (« Pensées computationnelles »), 2017-8. Une archive de posts écrits dans le contexte du Master en Arts Computationnels à Goldsmiths College, Londres.
 

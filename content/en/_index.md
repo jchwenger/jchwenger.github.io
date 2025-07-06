@@ -163,8 +163,6 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Squares* (formerly *Wordsquares*), 2018. Recursive foray into squares of letters as a poetic form. Python & dedicated Processing renderer
 
-*Subwords*, 2018. Tools to work with subsequences of strings. Python & dedicated Processing renderer
-
 *Laces*, 2018. Circular poetic word paths using the Levenshtein distance. Python & dedicated Processing renderer
 
 *What do we know about Tessa K.?*, 2018. Prose
@@ -172,6 +170,8 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 [*Euclideas*](posts/euclideas), 2018. Several small rhythmic pieces in the form of Max patches, functioning as ‘perpetua mobilia’ that can be turned on to produce a variable, but ultimately cyclical and indefinite stream of beats. Max/MSP
 
 ## 2017
+
+*Subwords*, 2017-8. Tools to work with subsequences of strings. Python & dedicated Processing renderer
 
 [*Computational Thoughts*](posts/computational-thoughts), 2017-8. An archive of posts written in the context of the Master’s in Computational Arts at Goldsmiths College, University of London, academic year 2017-2018
 
