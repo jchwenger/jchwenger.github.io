@@ -51,7 +51,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 [*Départs*](/departs) presented at the symposium: 3ai.24: Art in the Age of AI[\*](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Greece, 2024.
 
-*Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (ed: petra schulze-wollgast (psw)[\*](https://www.psw.gallery/)), 2024. A visual/generative tribute to Ruth Wolf-Rehfeldt[\*](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
+*Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (ed: Petra Schulze-Wollgast (psw)[\*](https://www.psw.gallery/)), 2024. A visual/generative tribute to Ruth Wolf-Rehfeldt[\*](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
 
 *Gonograph*, 2024. Polygonal constrained writing & dedicated web text editor. JavaScript [unfinished]
 
