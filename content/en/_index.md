@@ -157,7 +157,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Artificial It (logisms)*, 2018. Neural word generation using character-level language models. LSTMs/Python
 
-[Recursus](recursus.co), 2018, Goldsmiths Computational Arts MA final year show. Triptych of computational literature composed of WordSquares, Subwords and AIT
+[Recursus](https://recursus.co/), 2018, Goldsmiths Computational Arts MA final year show. Triptych of computational literature composed of WordSquares, Subwords and AIT
 
 *AIT (Artificial It)*, 2018. Steps toward Neural Text Generation, using materials from 'doppelgänger' networks, trained on my own texts. LSTMs/Python [forthcoming publication in gorse[\*](http://gorse.ie/)]
 

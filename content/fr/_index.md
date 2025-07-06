@@ -157,7 +157,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Ça artificiel (logismes)*, 2018. Génération neurale de mots utilisant des modèles de langage graphémiques. LSTMs/Python
 
-[Recursus](recursus.co), 2018, Goldsmiths Computational Arts MA final year show. Triptych of computational literature composed of WordSquares, Subwords and AIT
+[Recursus](https://recursus.co/), 2018, Goldsmiths Computational Arts MA final year show. Triptych of computational literature composed of WordSquares, Subwords and AIT
 
 *AIT (Artificial It)* (« Ça artificiel »), 2018. Des pas vers la génération neurale de texte, utilisant des matériaux de réseaux « Doppelgänger », entraînés sur mes propres textes. LSTMs/Python. Extraits à paraître dans gorse[\*](http://gorse.ie/)
 
