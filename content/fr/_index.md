@@ -65,7 +65,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Subwords* (« Les mots sous les mots »), 2023-4. Écrirture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. Shell/Python & rendition graphique avec PyCairo
 
-[Extraits de *Carrés* et de *Chaînes*](https://www.instagram.com/p/CvdTBIqoj6I/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) présentés à [A-Side / B-Side](https://www.instagram.com/p/Cu7n-InI6NN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), St James Hatcham, Goldsmiths College, 2023, (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/))
+[Pièces de *Carrés* et de *Chaînes*](https://www.instagram.com/p/CvdTBIqoj6I/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) ([galerie](posts/a-side-b-side)) présentés à [A-Side | B-Side](https://www.instagram.com/p/Cu7n-InI6NN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)), St James Hatcham, Goldsmiths College, 2023.
 
 ## 2022
 
