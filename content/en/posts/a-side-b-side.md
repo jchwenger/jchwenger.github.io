@@ -5,20 +5,20 @@ translationKey:
 
 gallery:
   - wenger:
-    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.4.jpg
-      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.4.low.jpg
-    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.7.jpg
-      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.7.low.jpg
-    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.3.jpg
-      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.3.low.jpg
-    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.5.jpg
-      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.5.low.jpg
-    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.6.jpg
-      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.6.low.jpg
-    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.1.jpg
-      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.1.low.jpg
-    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.2.jpg
-      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/chains-squares.a-side-b-side.2.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.4.jpg
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.4.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.7.jpg
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.7.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.3.jpg
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.3.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.5.jpg
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.5.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.6.jpg
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.6.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.1.jpg
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.1.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.2.jpg
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/a-side-b-side/wenger/chains-squares.a-side-b-side.2.low.jpg
 
 ---
 
