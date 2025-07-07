@@ -45,7 +45,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 ["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), from *Artificial It*, publié dans [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) (@englishgrass[\*](https://www.instagram.com/englishgrass/)) (éd. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
 
-[*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) présentés à [*Manifold*, an Electric Gold exhibition](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024.
+[*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) ([galerie](posts/manifold)) présentés à [*Manifold*, une exposition de la série Electric Gold](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Goldsmiths College, 2024.
 
 [*Cubes*](/cubes), écriture contrainte sur cubes, inspirée par "Puzzle-Alphabet" (2010) d'Ilse Garner, 2024. p5.js/JavaScript/Python
 
