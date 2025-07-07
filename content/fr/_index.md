@@ -76,7 +76,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 *Le monde enchanté des omnines*, 2022-3. Outils pour le travail sur les sextines généralisées. Python & rendition graphique avec PyCairo  
   "sestin", sextine en hommage à Arnaut Daniel  
   "albertine", ‘tourniquenine' à démarreur proustienne (septine)  
-  "Doom and pain came...", octine diagonal torsadée  
+  "Conjonctine" ("Doom and pain came..."), octine diagonale torsadée  
 
 [*p5.GPT: le ChatGPT d'OpenAI avec p5.js*](https://github.com/jchwenger/p5.GPT), 2023. ChatGPT/p5.js/JavaScript
 

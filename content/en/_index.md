@@ -76,7 +76,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 *The Enchanted World of Omninas*, 2022-3. Framework for working with generalised sestinas. Python & dedicated PyCairo renderer  
   "sestin", sestina in homage to Arnaut Daniel  
   "albertine", Proustian starter ‘tourniquenina' (septina)  
-  "Doom and pain came...", rotating diagonal octina  
+  "Conjunctina" ("Doom and pain came..."), rotating diagonal octina  
 
 [*p5.GPT: OpenAI's ChatGPT with p5.js*](https://github.com/jchwenger/p5.GPT), 2023. ChatGPT/p5.js/JavaScript
 
