@@ -1,9 +1,9 @@
 <section>
 <h1 class="content-title">
-  <a href="{{ site.Home.Permalink }}">{{- .Title -}}{{- if .Draft -}}&nbsp;:: Draft{{- end -}}</a>
+  <a href="{{ site.Home.Permalink }}">{{- .Title | markdownify -}}{{- if .Draft -}}&nbsp;:: Draft{{- end -}}</a>
 </h1>
 {{- if .Params.subtitle -}}
-<p class=subtitle>{{ .Params.subtitle }}</p>
+<p class=subtitle>{{ .Params.subtitle | markdownify }}</p>
 {{- end -}}
 
 {{- if and (.IsPage) (not .Params.noMeta) -}}
