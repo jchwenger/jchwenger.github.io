@@ -1,6 +1,6 @@
 ---
-date: '2025-07-06T20:34:40+01:00'
-title: 'Cubes @ Electric Gold: Manifold, 2024'
+date: "2025-07-06T20:34:40+01:00"
+title: "*Cubes* @ Electric Gold: Manifold, 2024"
 translationKey:
 
 gallery:
