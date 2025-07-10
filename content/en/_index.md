@@ -17,7 +17,7 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 ## 2025
 
-[*Subwords*](https://jeremiewenger.com/subwords/) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/)), presented at [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
+[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/)), presented at [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
 
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh/)), 2025.
 
@@ -65,7 +65,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 ## 2023
 
-[*Subwords*](https://jeremiewenger.com/subwords/), 2023-4. Constrained writing based on subsequence decompositions of long words into shorter ones. Shell/Python & dedicated PyCairo renderer
+[*Subwords*](/subwords), 2023-4. Constrained writing based on subsequence decompositions of long words into shorter ones. Shell/Python & dedicated PyCairo renderer
 
 [Pieces from *Squares* and *Chains*](https://www.instagram.com/p/CvdTBIqoj6I/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) ([gallery](posts/a-side-b-side)) presented at [A-Side | B-Side](https://www.instagram.com/p/Cu7n-InI6NN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)), St James Hatcham, Goldsmiths College, 2023.
 
