@@ -65,7 +65,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 ## 2023
 
-*Subwords*, 2023-4. Constrained writing based on subsequence decompositions of long words into shorter ones. Shell/Python & dedicated PyCairo renderer
+[*Subwords*](https://jeremiewenger.com/subwords/), 2023-4. Constrained writing based on subsequence decompositions of long words into shorter ones. Shell/Python & dedicated PyCairo renderer
 
 [Pieces from *Squares* and *Chains*](https://www.instagram.com/p/CvdTBIqoj6I/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) ([gallery](posts/a-side-b-side)) presented at [A-Side | B-Side](https://www.instagram.com/p/Cu7n-InI6NN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)), St James Hatcham, Goldsmiths College, 2023.
 
