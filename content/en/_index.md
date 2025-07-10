@@ -17,6 +17,8 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 ## 2025
 
+[*Subwords*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) ([post](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)), presented at [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
+
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh/)), 2025.
 
 [*Chains*](https://www.tiltedhouse.org/tilt0005-j), published in TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (eds: Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
