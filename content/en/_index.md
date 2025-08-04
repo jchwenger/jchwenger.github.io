@@ -15,6 +15,8 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 *rebut\|robot*, forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
+*The Corridor*, fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
+
 ## 2025
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMnNhyeoFE2)), presented at [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
@@ -39,7 +41,7 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 ## 2024
 
-*The Corridor*, 2024-5. Fiction [unfinished]
+*The Corridor*, 2024-5. Fiction
 
 [Excerpts from *Chains*](https://www.vernacular.website/jeremie-wenger/from-chains), published in Vernacular[\*](https://www.vernacular.website), 2024.
 

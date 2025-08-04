@@ -15,9 +15,11 @@ Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (é
 
 *rebut\|robot*, à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
 
+*The Corridor*, fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
+
 ## 2025
 
-[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMnNhyeoFE2)), presenté à [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
+[*Subwords*](/subwords) (« Les mots sous les mots ») (posts: [\*](https://www.instagram.com/p/DMnNhyeoFE2)), presenté à [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
 [*Subwords* (« Les mots sous les mots »)](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/)), présenté à [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
 
@@ -39,7 +41,7 @@ Curation et workshops pour la résidence [TEA, TECH + EXCHANGE](https://www.tate
 
 ## 2024
 
-*The Corridor*, 2024-5. Fiction [inachevé]
+*The Corridor*, 2024-5. Fiction
 
 [Extraits de *Chaînes*](https://www.vernacular.website/jeremie-wenger/from-chains), publiés dans Vernacular[\*](https://www.vernacular.website), 2024.
 
