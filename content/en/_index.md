@@ -13,9 +13,9 @@ Excerpts from *Lacanage*, forthcoming in Still Point[\*](https://www.stillpointl
 
 Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed: Christodoulos Makris[\*](https://yesbutisitpoetry.blogspot.com/)), 2025.
 
-*rebut\|robot*, forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
+"rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
-*The Corridor*, fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
+"The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
 
 "Conjunctina", forthcoming in [outhouse](https://www.instagram.com/out.house.gallery/), 2025.
 
@@ -43,7 +43,7 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 ## 2024
 
-*The Corridor*, 2024-5. Fiction
+"The Corridor", 2024-5. Fiction
 
 [Excerpts from *Chains*](https://www.vernacular.website/jeremie-wenger/from-chains), published in Vernacular[\*](https://www.vernacular.website), 2024.
 
