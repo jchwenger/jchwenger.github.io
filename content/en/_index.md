@@ -17,6 +17,8 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 *The Corridor*, fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
 
+"Conjunctina", forthcoming in [outhouse](https://www.instagram.com/out.house.gallery/), 2025.
+
 ## 2025
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMnNhyeoFE2)), presented at [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
@@ -80,8 +82,8 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 [*Chains*](https://jeremiewenger.com/chains), 2022-3. Garlands of (mostly) cliché phrases & dedicated web reading interface. p5.js/JavaScript
 
 *The Enchanted World of Omninas*, 2022-3. Framework for working with generalised sestinas. Python & dedicated PyCairo renderer  
-  "sestin", sestina in homage to Arnaut Daniel  
-  "albertine", Proustian starter ‘tourniquenina' (septina)  
+  "Sestin", sestina in homage to Arnaut Daniel  
+  "Albertine", Proustian starter ‘tourniquenina' (septina)  
   "Conjunctina" ("Doom and pain came..."), rotating diagonal octina  
 
 [*p5.GPT: OpenAI's ChatGPT with p5.js*](https://github.com/jchwenger/p5.GPT), 2023. ChatGPT/p5.js/JavaScript

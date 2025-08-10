@@ -17,6 +17,8 @@ Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (é
 
 *The Corridor*, fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
 
+"Conjunctina" (« Conjonctine »), à paraître dans [outhouse](https://www.instagram.com/out.house.gallery/), 2025.
+
 ## 2025
 
 [*Subwords*](/subwords) (« Les mots sous les mots ») (posts: [\*](https://www.instagram.com/p/DMnNhyeoFE2)), presenté à [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
@@ -80,9 +82,9 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 [*Chaînes*](https://jeremiewenger.com/chains), 2022-3. Guirlandes d'expressions (peu ou prou) cliché & interface web de lecture. p5.js/JavaScript
 
 *Le monde enchanté des omnines*, 2022-3. Outils pour le travail sur les sextines généralisées. Python & rendition graphique avec PyCairo  
-  "sestin", sextine en hommage à Arnaut Daniel  
-  "albertine", ‘tourniquenine' à démarreur proustienne (septine)  
-  "Conjonctine" ("Doom and pain came..."), octine diagonale torsadée  
+  « Sestin », sextine en hommage à Arnaut Daniel  
+  « Albertine », ‘tourniquenine' à démarreur proustienne (septine)  
+  « Conjonctine » (« Doom and pain came... »), octine diagonale torsadée  
 
 [*p5.GPT: le ChatGPT d'OpenAI avec p5.js*](https://github.com/jchwenger/p5.GPT), 2023. ChatGPT/p5.js/JavaScript
 
