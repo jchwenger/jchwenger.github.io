@@ -23,7 +23,7 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 [*Subwords*](/subwords) (posts: [\*\](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2)), presented at [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
-[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/)), presented at [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
+[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/), [gallery](posts/xcoax)), presented at [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
 
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh/)), 2025.
 
