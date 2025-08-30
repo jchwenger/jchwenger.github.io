@@ -5,43 +5,43 @@ translationKey:
 
 gallery:
   - cunningham:
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/cunningham/cubes.manifold.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/cunningham/cubes.manifold.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/cunningham/cubes.manifold.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/cunningham/cubes.manifold.jpg
   - thorne:
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/thorne/cubes.manifold.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/thorne/cubes.manifold.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/thorne/cubes.manifold.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/thorne/cubes.manifold.jpg
   - wenger:
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.1.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.1.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.3.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.3.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.5.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.5.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.6.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.6.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.2.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.2.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.4.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/wenger/cubes.manifold.4.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.1.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.1.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.3.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.3.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.5.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.5.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.6.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.6.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.2.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.2.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.4.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/wenger/cubes.manifold.4.jpg
   - roeder:
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.1.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.1.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.2.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.2.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.3.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.3.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.4.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.4.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.5.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.5.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.6.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.6.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.7.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.7.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.8.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.8.jpg
-      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.9.low.jpg
-        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/manifold/roeder/cubes.manifold.9.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.1.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.1.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.2.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.2.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.3.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.3.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.4.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.4.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.5.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.5.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.6.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.6.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.7.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.7.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.8.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.8.jpg
+      - thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.9.low.jpg
+        url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2024.manifold/roeder/cubes.manifold.9.jpg
 
 ---
 
