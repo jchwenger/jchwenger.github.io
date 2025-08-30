@@ -21,7 +21,7 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 ## 2025
 
-[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMnNhyeoFE2)), presented at [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
+[*Subwords*](/subwords) (posts: [\*\](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2)), presented at [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/)), presented at [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
 
