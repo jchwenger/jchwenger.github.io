@@ -142,7 +142,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *A Scroll*, 2019. …written on a scroll found on the street…. Prose
 
-[*Ça artificiel*](ca-artificiel), exhibited at the Cabanon[\*](https://www.unil.ch/hart/fr/home/menuinst/etudiantes/associations/le-cabanon.html), 2019, Lausanne, Switzerland, as part of the Printemps de la Poésie[\*](https://printempspoesie.lyricalvalley.org/) ("The Spring of Poetry")  
+[*Ça artificiel*](posts/artificial-it), exhibited at the Cabanon[\*](https://www.unil.ch/hart/fr/home/menuinst/etudiantes/associations/le-cabanon.html), 2019, Lausanne, Switzerland, as part of the Printemps de la Poésie[\*](https://printempspoesie.lyricalvalley.org/) ("The Spring of Poetry")  
   *Ça artificiel (« pour commencer... »)*  
   *Ça artificiel (morceaux I-VIII)*  
   *L'écriture et son double (essai)*   
