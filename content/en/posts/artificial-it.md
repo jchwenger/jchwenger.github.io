@@ -98,7 +98,7 @@ All my gratitude to Colin Pahlisch for inviting me to participate in the Printem
 
 {{< separators type="blank" >}}
 
-{{< gallery id="kirjasto" layout="half" caption="Photos: [Noora Lehtovuori](https://www.instagram.com/n.lehtovuori/)" cols=2 >}}
+{{< gallery id="kirjasto" caption="Photos: [Noora Lehtovuori](https://www.instagram.com/n.lehtovuori/)" cols=2 >}}
 
 {{< separators type="blank" >}}
 
