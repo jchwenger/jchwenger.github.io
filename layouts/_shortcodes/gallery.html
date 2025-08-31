@@ -1,7 +1,13 @@
 {{ $globalCtx := . }}
 {{ $galleryName := .Get "id" }}
-{{ $galleryLayout := .Get "layout" }}
-{{ $imgWidth := .Get "img-width" }}
+{{ $galleryLayout := .Get "layout" | default "half" }}
+{{ $mainClass := "grid-gallery" }}
+{{ if eq $galleryLayout "full" }}
+  {{ $mainClass = "grid-gallery-full" }}
+{{ end }}
+{{/* {{ warnf "name: %s, layout: %s, class: %s" $galleryName $galleryLayout $mainClass }} */}}
+{{/* {{ $imgWidth := .Get "img-width" }} */}}
+{{ $cols := .Get "cols" | default 3 }}
 {{/* {{ warnf "gallery, id: %s, layout: %s, img width: %s" $galleryName $galleryLayout $imgWidth }} */}}
 {{ with .Page.Params.gallery }}
   {{ range . }}
@@ -9,31 +15,30 @@
       {{/* {{ warnf " - k is %s" $k }} */}}
       {{ if eq $galleryName $k }}
         {{/* {{ warnf "%s = %s, layout: %s" $galleryName $k $galleryLayout }} */}}
-        {{ if eq $galleryLayout "full" }}
-          <div class="bricks-masonry-full {{ printf "bricks-masonry-%s" $galleryName }}">
-        {{ else }}
-          <div class="bricks-masonry {{ printf "bricks-masonry-%s" $galleryName }}">
-        {{ end }}
-          {{ range $v }}
-            <a href="{{ .url }}" data-lightbox="{{ $galleryName }}">
-              <img src="{{ .thumb }}" width="{{ $imgWidth }}" alt="" loading="lazy">
+        <div
+            class="{{ $mainClass }} {{ printf "grid-gallery-%s" $galleryName }}"
+            style="--cols: {{ $cols }};"
+        >
+        {{ range $v }}
+          {{ $isVideo := or (strings.HasSuffix .url ".mp4") (strings.HasSuffix .url ".webm") }}
+          {{ if $isVideo }}
+            {{/* {{ warnf "video detected!" . }} */}}
+            <a style="{{ with .css }}{{ . }}{{ end }}">
+              <video controls>
+                <source src="{{ .url }}" type="video/mp4">
+              </video>
+            </a>
+          {{ else }}
+            <a href="{{ .url }}" data-lightbox="{{ $galleryName }}" style="{{ with .css }}{{ . }}{{ end }}">
+              <img src="{{ .thumb }}" alt="" loading="lazy">
+              {{/* <img src="{{ .thumb }}" width="{{ $imgWidth }}" alt="" loading="lazy"> */}}
             </a>
           {{ end }}
-          </div>
-        {{ with $globalCtx.Get "caption" }}
-          <p class="bricks-masonry-legend"><em>{{ . | markdownify }}</em></p>
         {{ end }}
-        <script>
-          Bricks({
-            container: '.{{ printf "bricks-masonry-%s" $galleryName }}',
-            packed: '{{ printf "packed-%s" $galleryName }}',
-            sizes: [
-              { columns: 2, gutter: 10 },
-              { mq: '768px', columns: 3, gutter: 25 },
-              { mq: '1024px', columns: 4, gutter: 50 }
-            ]
-          });
-        </script>
+        </div>
+        {{ with $globalCtx.Get "caption" }}
+          <p class="grid-gallery-legend"><em>{{ . | markdownify }}</em></p>
+        {{ end }}
       {{ end }}
     {{ end }}
   {{ end }}

@@ -2,16 +2,48 @@
  * Masonry
  * ------------------------------------------------------------------------ */
 
-.bricks-masonry {
+/* Base container uses CSS multi-columns for real masonry without JS */
+.grid-gallery {
   width: 55%;
+  columns: var(--cols, 3);
+  column-gap: 1rem;
 }
 
-@media screen and (max-width: 760px) {
-  .bricks-masonry {
-    width: 90%;
-  }
-}
-
-.bricks-masonry-full {
+.grid-gallery-full {
   width: 90%;
+  columns: var(--cols, 3);
+  column-gap: 1rem;
+}
+
+/* Items must avoid breaking across columns */
+.grid-gallery > a,
+.grid-gallery-full > a {
+  break-inside: avoid;
+  /* required for multi-columns */
+  display: inline-block;
+  width: 100%;
+  margin: 0 0 var(--gap, 1rem);
+  /* keep lightbox anchors tidy */
+  text-decoration: none;
+}
+
+/* Images fill their column width */
+.grid-gallery img,
+.grid-gallery video,
+.grid-gallery-full img,
+.grid-gallery-full video,
+{
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+
+/* Mobile: only one column */
+@media (max-width: 760px) {
+  .grid-gallery,
+  .grid-gallery-full {
+    width: 90%;
+    columns: 1;
+  }
 }
