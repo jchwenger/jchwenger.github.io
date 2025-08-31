@@ -21,7 +21,7 @@
       <ul>
       <li>
         <span class="list-date">{{ .Date.Format "Jan 2" }} &middot;</span>
-        <a href="{{ .RelPermalink }}">{{.Title}}</a>
+        <a href="{{ .RelPermalink }}">{{.Title | markdownify }}</a>
       </li>
       </ul>
       {{ end }}
