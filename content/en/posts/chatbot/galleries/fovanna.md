@@ -111,6 +111,6 @@ Lausanne, Switzerland, March 2021.
 
 *Photographs and montage: Ivo Fovanna.*
 
-{{< gallery id="fovanna" layout="full" caption="*Photographs and montage: Ivo Fovanna*" img-width="33%" >}}
+{{< gallery id="fovanna" layout="full" caption="*Photographs and montage: Ivo Fovanna*" >}}
 
 [Main page]({{< ref "/posts/chatbot/chatbot.md" >}})

@@ -225,6 +225,6 @@ Lausanne, Switzerland, March 2021.
 
 *Photographs: Clément Hongler.*
 
-{{< gallery id="hongler" caption="*Photographs: Clément Hongler.*" layout="full" img-width="49%" >}}
+{{< gallery id="hongler" caption="*Photographs: Clément Hongler.*" layout="full" cols=2 >}}
 
 [Main page]({{< ref "/posts/chatbot/chatbot.md" >}})

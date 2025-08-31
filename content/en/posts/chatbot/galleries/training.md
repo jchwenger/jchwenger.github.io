@@ -189,12 +189,12 @@ Lausanne, Switzerland, 2020.
 
 *Screenshots of in-training samples by Clément Hongler:*
 
-{{< gallery id="hongler" layout="full" caption="Screenshots: Clément Hongler" >}}
+{{< gallery id="hongler" layout="full" caption="Screenshots: Clément Hongler" cols=1 >}}
 
 {{< separators type="outer" >}}
 
 *Photographs: Jérémie Wenger*
 
-{{< gallery id="wenger" layout="full" caption="Photographs: Jérémie Wenger" >}}
+{{< gallery id="wenger" layout="full" caption="Photographs: Jérémie Wenger" cols=2 >}}
 
 [Main page]({{< ref "/posts/chatbot/chatbot.md" >}})

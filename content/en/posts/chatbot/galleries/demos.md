@@ -222,11 +222,11 @@ Other videos show work on collecting and cleaning datasets.
 
 Two authors prominently feature in the show: Pierre Corneille, and Anton Chekhov. The idea of making a favicon out of Corneille came to me early, and opened the door to more meme-oriented fun.
 
-{{< gallery id="authors" caption="*Photographs and memestry: Jérémie Wenger.*" layout="full" >}}
+{{< gallery id="authors" caption="*Photographs and memestry: Jérémie Wenger.*" layout="full" cols=2 >}}
 
 This led to the idea of having gifs in a similar style for the team.
 
-{{< gallery id="icons" caption="*Photographs and memestry: Jérémie Wenger.*" layout="full" >}}
+{{< gallery id="icons" caption="*Photographs and memestry: Jérémie Wenger.*" layout="full" cols=4 >}}
 
 ## Three answers to [Oriza Hirata](https://en.wikipedia.org/wiki/Oriza_Hirata)
 

@@ -184,6 +184,6 @@ Lausanne, Switzerland, March 2021.
 
 *Photographs: Bartek Sozanski.*
 
-{{< gallery id="sozanski" caption="*Photographs: Bartek Sozanski.*" layout="full" img-width="49%" >}}
+{{< gallery id="sozanski" caption="*Photographs: Bartek Sozanski.*" layout="full" cols=2 >}}
 
 [Main page]({{< ref "/posts/chatbot/chatbot.md" >}})
