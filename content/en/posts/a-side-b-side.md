@@ -1,6 +1,6 @@
 ---
 date: "2025-07-07T12:01:05+01:00"
-title: "*Squares* & *Chains* @ A-Side | B-Side"
+title: "*Squares* & *Chains* @ A-Side | B-Side, 2023"
 translationKey:
 
 gallery:
