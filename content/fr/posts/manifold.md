@@ -47,16 +47,16 @@ gallery:
 
 [*Cubes*](/cubes) présentés à [*Manifold*, une exposition de la série Electric Gold](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), Goldsmiths College, 2024.
 
-{{< gallery id="roeder" caption="*Photographies: Rafa Roeder.*" layout="half" cols=1 >}}
+{{< gallery id="roeder" caption="*Photographies: Rafa Roeder.*" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger" caption="*Photographies: Jérémie Wenger.*" layout="half" cols=1 >}}
+{{< gallery id="wenger" caption="*Photographies: Jérémie Wenger.*" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="cunningham" caption="*Photographies: Alan Cunningham.*" layout="half" cols=1 >}}
+{{< gallery id="cunningham" caption="*Photographies: Alan Cunningham.*" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="thorne" caption="*Photographies: Chris Thorne.*" layout="half" cols=1 >}}
+{{< gallery id="thorne" caption="*Photographies: Chris Thorne.*" cols=1 >}}
