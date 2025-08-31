@@ -7,6 +7,8 @@ gallery:
   - poster:
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/poster.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/poster.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/poster.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/poster.mp4.low.jpg
   - wenger:
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.01.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.01.low.jpg
@@ -24,10 +26,14 @@ gallery:
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.07.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.08.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.08.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.09.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.09.mp4.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.10.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.10.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.11.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.11.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.12.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.12.mp4.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.13.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.13.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.14.jpg
@@ -38,8 +44,12 @@ gallery:
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.16.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.17.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.17.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.18.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.18.mp4.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.19.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.19.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.20.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.20.mp4.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.21.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.21.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.22.jpg
@@ -65,38 +75,8 @@ gallery:
 
 {{< separators type="blank" >}}
 
-{{< gallery id="poster" caption="" layout="full" >}}
+{{< gallery id="poster" caption="" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-<video width="90%" controls>
-  <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/poster.mp4" type="video/mp4">
-  Your browser does not support HTML video.
-</video>
-
-{{< separators type="blank" >}}
-
-{{< gallery id="wenger" caption="*Photographies: Jérémie Wenger.*" layout="full" img-width="33%" >}}
-
-{{< separators type="blank" >}}
-
-<div style="width: 90%; display:flex; gap:5px; flex-wrap: wrap">
-  <video width="32%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.09.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-  <video width="32%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.12.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-  <video width="32%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.18.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-  <video width="32%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.manifold2-0/wenger/subwords.manifold2-0.20.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-</div>
-
-*Vidéos: Jérémie Wenger.*
+{{< gallery id="wenger" caption="*Photographies & vidéos: Jérémie Wenger.*" cols=2 >}}

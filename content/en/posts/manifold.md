@@ -47,16 +47,16 @@ gallery:
 
 [*Cubes*](/cubes) presented presented at [*Manifold*, an exhibition in the Electric Gold series](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024.
 
-{{< gallery id="roeder" caption="*Photographs: Rafa Roeder.*" layout="full" img-width="49%" >}}
+{{< gallery id="roeder" caption="*Photographs: Rafa Roeder.*" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger" caption="*Photographs: Jérémie Wenger.*" layout="full" img-width="49%" >}}
+{{< gallery id="wenger" caption="*Photographs: Jérémie Wenger.*" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="cunningham" caption="*Photographs: Alan Cunningham.*" layout="full" img-width="49%" >}}
+{{< gallery id="cunningham" caption="*Photographs: Alan Cunningham.*" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="thorne" caption="*Photographs: Chris Thorne.*" layout="full" >}}
+{{< gallery id="thorne" caption="*Photographs: Chris Thorne.*" cols=1 >}}

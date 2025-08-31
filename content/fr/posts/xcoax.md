@@ -75,6 +75,12 @@ gallery:
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.01.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.02.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.02.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.03.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.03.mp4.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.04.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.04.mp4.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.05.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.05.mp4.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.06.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.06.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.07.jpg
@@ -89,6 +95,8 @@ gallery:
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.11.low.jpg
     - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.12.jpg
       thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.12.low.jpg
+    - url: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.13.mp4
+      thumb: https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.13.mp4.low.jpg
 
 ---
 
@@ -96,44 +104,20 @@ gallery:
 
 {{< separators type="blank" >}}
 
-{{< gallery id="poster" caption="" layout="full" img-width="49%" >}}
+{{< gallery id="poster" caption="" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="home" caption="*Photographies: Jérémie Wenger.*" layout="full" img-width="49%" >}}
+{{< gallery id="home" caption="*Photographies: Jérémie Wenger.*" cols=2 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="install" caption="*Photographies: Jérémie Wenger.*" layout="full" img-width="33%" >}}
+{{< gallery id="install" caption="*Photographies: Jérémie Wenger.*" >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="taipa-show" caption="*Photographies: Sofia Taipa*" layout="full" img-width="33%" >}}
+{{< gallery id="taipa-show" caption="*Photographies: Sofia Taipa*" >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="taipa-talk" caption="*Photographies: Sofia Taipa*" layout="full" img-width="49%" >}}
-
-{{< separators type="blank" >}}
-
-<div style="width: 90%; display:flex; gap:5px; flex-wrap: wrap">
-  <video width="49%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.03.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-  <video width="49%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.05.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-  <video width="100%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.04.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-  <video width="100%" controls>
-    <source src="https://raw.githubusercontent.com/jchwenger/jcw.assets/master/shows/2025.xcoax/taipa/talk/subwords.xcoax.13.mp4" type="video/mp4">
-    Your browser does not support HTML video.
-  </video>
-</div>
-
-*Vidéos: Sofia Taipa.*
-
+{{< gallery id="taipa-talk" caption="*Photographies & vidéos: Sofia Taipa*" cols=2 >}}

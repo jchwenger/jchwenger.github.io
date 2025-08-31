@@ -53,8 +53,8 @@ gallery:
 
 Pièces de *Carrés* et de [*Chaînes*](/chains) présentés à [A-Side | B-Side](https://www.instagram.com/p/Cu7n-InI6NN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)), St James Hatcham, Goldsmiths College, 2023.
 
-{{< gallery id="rosser" caption="*Photographies: Thomas Rosser.*" layout="half" >}}
+{{< gallery id="rosser" caption="*Photographies: Thomas Rosser.*" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger" caption="*Photographies: Jérémie Wenger.*" layout="half" >}}
+{{< gallery id="wenger" caption="*Photographies: Jérémie Wenger.*" cols=2 >}}
