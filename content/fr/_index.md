@@ -21,9 +21,9 @@ Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (é
 
 "Conjunctina" (« Conjonctine »), publié dans Outhouse Magazine Numéro 2[\*](https://outhouse.gallery/outhouse-magazine) (éd: natalia bielecka, direction artistique: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_/), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
 
-[*Subwords*](/subwords) (« Les mots sous les mots ») (posts: [\*](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2), [galerie](posts/manifold2-0)), presenté à [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
+[*Subwords*](/subwords) (« Les mots sous les mots ») (posts: [\*](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2), [galerie](posts/manifold2-0)), presenté à Manifold 2.0[\*](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
-[*Subwords* (« Les mots sous les mots »)](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/), [galerie](posts/xcoax)), présenté à [xCoAx 2025](https://2025.xcoax.org/) (curation: [Luisa Ribas](https://www.instagram.com/lmlrpt/), [Luís Pinto Nunes](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
+[*Subwords* (« Les mots sous les mots »)](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/), [galerie](posts/xcoax)), présenté à xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt/), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
 
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), publié dans The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (éd: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh/)), 2025.
 
