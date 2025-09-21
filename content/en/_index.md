@@ -20,7 +20,7 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 ## 2025
 
-"Conjunctina", published in [outhouse magazine](https://outhouse.gallery/outhouse-magazine) (ed: natalia bielecka, art director: alicja orzechowska [@sakralna_](https://www.instagram.com/sakralna_/)), 2025.
+"Conjunctina", published in outhouse magazine[\*](https://outhouse.gallery/outhouse-magazine) (ed: natalia bielecka, art director: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_/), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2), [gallery](posts/manifold2-0)), presented at [Manifold 2.0](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
