@@ -9,8 +9,6 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## À paraître
 
-Extraits de *Lacanage*, à paraître dans Still Point[\*](https://www.stillpointldn.com/), 2025.
-
 Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (éd. Christodoulos Makris[\*](https://yesbutisitpoetry.blogspot.com/)), 2025.
 
 « rebut\|robot », à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
@@ -18,6 +16,8 @@ Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (é
 « The Corridor », fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
 
 ## 2025
+
+Extraits de *Lacanage*, publiés dans Still Point[\*](https://www.stillpointldn.com/), 2025.
 
 "Conjunctina" (« Conjonctine »), publié dans Outhouse Magazine Numéro 2[\*](https://outhouse.gallery/outhouse-magazine) (éd: natalia bielecka, direction artistique: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_/), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
 

@@ -9,8 +9,6 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 ## Forthcoming
 
-Excerpts from *Lacanage*, forthcoming in Still Point[\*](https://www.stillpointldn.com/), 2025.
-
 Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed: Christodoulos Makris[\*](https://yesbutisitpoetry.blogspot.com/)), 2025.
 
 "rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
@@ -19,6 +17,8 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 
 ## 2025
+
+Excerpts from *Lacanage*, published in Still Point[\*](https://www.stillpointldn.com/), 2025.
 
 "Conjunctina", published in Outhouse Magazine Issue 2[\*](https://outhouse.gallery/outhouse-magazine) (ed: natalia bielecka, art director: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_/), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
 
