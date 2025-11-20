@@ -17,6 +17,8 @@ Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (é
 
 ## 2025
 
+Deux '[formations de mots-garous](https://www.instagram.com/p/DRS1iFrDF26/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)' publiés dans *Tummy Ache* Vol.6, The Lonely Issue (« Le numéro solitaire »)[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (éd. Anna Morrissey[\*](https://www.instagram.com/annamorrissey/?hl=en), 2025.
+
 Extraits de *Lacanage*, publiés dans Still Point[\*](https://www.stillpointldn.com/), 2025.
 
 "Conjunctina" (« Conjonctine »), publié dans Outhouse Magazine Numéro 2[\*](https://outhouse.gallery/outhouse-magazine) (éd: natalia bielecka, direction artistique: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_/), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.

@@ -18,6 +18,8 @@ Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed
 
 ## 2025
 
+Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)' published in *Tummy Ache* Vol.6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey/?hl=en), 2025.
+
 Excerpts from *Lacanage*, published in Still Point[\*](https://www.stillpointldn.com/), 2025.
 
 "Conjunctina", published in Outhouse Magazine Issue 2[\*](https://outhouse.gallery/outhouse-magazine) (ed: natalia bielecka, art director: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_/), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
