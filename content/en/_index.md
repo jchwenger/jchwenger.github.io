@@ -18,17 +18,17 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 [Excerpts from *Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), published in gorse[\*](http://gorse.ie/) 12 (eds: Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
-Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)' published in *Tummy Ache* Vol.6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey/?hl=en), 2025.
+Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26)' published in *Tummy Ache* Vol.6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey), 2025.
 
 Excerpts from *Lacanage*, published in Still Point[\*](https://www.stillpointldn.com/), 2025.
 
-"Conjunctina", published in Outhouse Magazine Issue 2[\*](https://outhouse.gallery/outhouse-magazine) (ed: natalia bielecka, art director: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_/), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
+"Conjunctina", published in Outhouse Magazine Issue 2[\*](https://outhouse.gallery/outhouse-magazine) (ed: natalia bielecka, art director: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2), [gallery](posts/manifold2-0)), presented at Manifold 2.0[\*](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
-[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL2mm6jMl6w/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[\*](https://www.instagram.com/p/DL3SHf3Iu5c/), [gallery](posts/xcoax)), presented at xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt/), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes/)), Dundee, 2025.
+[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy)[\*](https://www.instagram.com/p/DL2mm6jMl6w)[\*](https://www.instagram.com/p/DL3SHf3Iu5c), [gallery](posts/xcoax)), presented at xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes)), Dundee, 2025.
 
-[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh/)), 2025.
+[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh)), 2025.
 
 [*Chains*](https://www.tiltedhouse.org/tilt0005-j), published in TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (eds: Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
 
@@ -50,13 +50,13 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 [Excerpts from *Chains*](https://www.vernacular.website/jeremie-wenger/from-chains), published in Vernacular[\*](https://www.vernacular.website), 2024.
 
-[Excerpts from *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), published in Strings 2[\*](https://stringsmag.com/strings-2) (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera/)), 2024.
+[Excerpts from *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), published in Strings 2[\*](https://stringsmag.com/strings-2) (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera)), 2024.
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/) (French version in [*Dimensions* 15, le journal de l'éducation, la recherche et l'innovation de l'EPFL](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), p. 10), EPFL, 2024.
 
-["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), from *Artificial It*, published in [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass/) (ed.: Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons/)), 2024.
+["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, published in [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass) (ed.: Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)), 2024.
 
-[*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) ([gallery](posts/manifold)) presented at [*Manifold*, an exhibition in the Electric Gold series](https://www.instagram.com/p/C8wvTxLIllM/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2024.
+[*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ) ([gallery](posts/manifold)) presented at [*Manifold*, an exhibition in the Electric Gold series](https://www.instagram.com/p/C8wvTxLIllM), 2024.
 
 [*Cubes*](/cubes), constrained writing on cubic surfaces, inspired by Ilse Garner's "Puzzle-Alphabet" (2010), 2024. p5.js/JavaScript/Python
 
@@ -76,7 +76,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 [*Subwords*](/subwords), 2023-4. Constrained writing based on subsequence decompositions of long words into shorter ones. Shell/Python & dedicated PyCairo renderer
 
-[Pieces from *Squares* and *Chains*](https://www.instagram.com/p/CvdTBIqoj6I/?utm_source=ig_web_button_share_sheet&igsh=MzRlODBiNWFlZA==) ([gallery](posts/a-side-b-side)) presented at [A-Side | B-Side](https://www.instagram.com/p/Cu7n-InI6NN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)), St James Hatcham, Goldsmiths College, 2023.
+[Pieces from *Squares* and *Chains*](https://www.instagram.com/p/CvdTBIqoj6I) ([gallery](posts/a-side-b-side)) presented at [A-Side | B-Side](https://www.instagram.com/p/Cu7n-InI6NN) (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)), St James Hatcham, Goldsmiths College, 2023.
 
 ## 2022
 
@@ -93,7 +93,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 [*Machines Poétiques: Introducing textual systems through experimental French poetry*](https://github.com/jchwenger/machines.poetiques.goldsmiths.2023), 2023, Goldsmiths College, London. One-day computational poetry workshop with Iris Colomb[\*](https://iriscolomb.com/). ChatGPT/p5.js/JavaScript
 
-[*Bilingual Lab*](https://www.instagram.com/p/CnReCfVoMjf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==), 2022-23. Monthly online poetry course with Iris Colomb[\*](https://iriscolomb.com/), Beyond Form Creative Writing[\*](https://www.beyondformcreativewriting.org/)
+[*Bilingual Lab*](https://www.instagram.com/p/CnReCfVoMjf), 2022-23. Monthly online poetry course with Iris Colomb[\*](https://iriscolomb.com/), Beyond Form Creative Writing[\*](https://www.beyondformcreativewriting.org/)
 
 [*Machines Poétiques: Transreading Twentieth-Century French Poetry*](https://poetryschool.com/product/machines-poetiques-transreading-twentieth-century-french-poetry-spring-2023/), 2022-23. Monthly online poetry course with Iris Colomb[\*](https://iriscolomb.com/), The Poetry School[\*](https://poetryschool.com/)
 
@@ -125,7 +125,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Lacanage*, 2021. Neural texts using materials from a language model finetuned on Jacques Lacan and my own texts, with Alan Cunningham[\*](https://www.alanmcunningham.com/), supported by the Arts Council of Northern Ireland[\*](https://artscouncil-ni.org/). GPT-2
 
-[*Kirjasto/Library*](posts/artificial-it#kirjasto), 2021. Exhibition of *Artificial It* and *Artificial It ("to begin with...")* in Helsinki, Finland, (curation: Jonni Korhonen[\*](https://www.instagram.com/darkchildnana/)).
+[*Kirjasto/Library*](posts/artificial-it#kirjasto), 2021. Exhibition of *Artificial It* and *Artificial It ("to begin with...")* in Helsinki, Finland, (curation: Jonni Korhonen[\*](https://www.instagram.com/darkchildnana)).
 
 ## 2020
 
@@ -133,7 +133,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 [*CHATBOT*](chatbot), 2020-1. Act and dialogue with a conversational agent-actor. A research project of the Manufacture School of Drama[\*](https://www.manufacture.ch) in Lausanne, Switzerland, supported by the Swiss National Science Foundation[\*](https://www.snf.ch/en), under the direction of Nicolas Zlatoff[\*](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
 
-[*exist digressively*](posts/artificial-it/#text-type-light), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) in Stockholm (Sweden)
+[*exist digressively*](posts/artificial-it/#text-type-light), 2020. Exhibited by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA) in Stockholm (Sweden)
 
 [*Google TTS reads foreign texts with an unreasonably accurate accent*](posts/google-tts), 2020. Casual mischief with Google's Text-To-Speech system. Python
 
@@ -196,7 +196,7 @@ With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Essay*, 2017. Prose
 
-*Neovalis*, 2017. Texts with and around Novalis' *Hymns to the Night*, Novalis Festival[\*](https://www.instagram.com/novalisfestival/?hl=en-gb), Croatia
+*Neovalis*, 2017. Texts with and around Novalis' *Hymns to the Night*, Novalis Festival[\*](https://www.instagram.com/novalisfestival), Croatia
 
 *Sandra K. wakes up...*, 2017. Fiction
 
