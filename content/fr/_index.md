@@ -9,13 +9,13 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## À paraître
 
-Extraits d'*Artificial It*, à paraître dans gorse[\*](http://gorse.ie/) 12 (éd. Christodoulos Makris[\*](https://yesbutisitpoetry.blogspot.com/)), 2025.
+« rebut\|robot », à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
 
-« rebut\|robot », à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
-
-« The Corridor », fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
+« The Corridor », fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 ## 2025
+
+[Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), à paraître dans gorse[\*](http://gorse.ie/) 12 (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
 Deux '[formations de mots-garous](https://www.instagram.com/p/DRS1iFrDF26/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)' publiés dans *Tummy Ache* Vol.6, The Lonely Issue (« Le numéro solitaire »)[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (éd. Anna Morrissey[\*](https://www.instagram.com/annamorrissey/?hl=en), 2025.
 

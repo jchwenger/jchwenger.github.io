@@ -9,14 +9,14 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 ## Forthcoming
 
-Excerpts from *Artificial It*, forthcoming in gorse[\*](http://gorse.ie/) 12 (ed: Christodoulos Makris[\*](https://yesbutisitpoetry.blogspot.com/)), 2025.
+"rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
-"rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2025. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
-
-"The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2025.
+"The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 
 ## 2025
+
+[Excerpts from *Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), published in gorse[\*](http://gorse.ie/) 12 (eds: Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
 Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)' published in *Tummy Ache* Vol.6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey/?hl=en), 2025.
 
