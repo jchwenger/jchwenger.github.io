@@ -17,7 +17,7 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 [Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), à paraître dans gorse[\*](http://gorse.ie/) 12 (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
-Deux '[formations de mots-garous](https://www.instagram.com/p/DRS1iFrDF26)' publiés dans *Tummy Ache* Vol.6, The Lonely Issue (« Le numéro solitaire »)[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (éd. Anna Morrissey[\*](https://www.instagram.com/annamorrissey), 2025.
+Deux '[formations de mots-garous](https://www.instagram.com/p/DRS1iFrDF26)' publiés dans *Tummy Ache* Vol. 6, The Lonely Issue (« Le numéro solitaire »)[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (éd. Anna Morrissey[\*](https://www.instagram.com/annamorrissey)), 2025.
 
 Extraits de *Lacanage*, publiés dans Still Point[\*](https://www.stillpointldn.com/), 2025.
 

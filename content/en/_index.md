@@ -18,7 +18,7 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 [Excerpts from *Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), published in gorse[\*](http://gorse.ie/) 12 (eds: Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
-Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26)' published in *Tummy Ache* Vol.6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey), 2025.
+Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26)' published in *Tummy Ache* Vol. 6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey)), 2025.
 
 Excerpts from *Lacanage*, published in Still Point[\*](https://www.stillpointldn.com/), 2025.
 
