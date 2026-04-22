@@ -37,7 +37,7 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## À paraître
 
-"work" (« travail »), une série de textes contraints utilisant les *mots-garous*, sonifiés par Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), présentation programmée à Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/) (« Travail Acharné »), curaté par Paul Ingram[\*](https://www.instagram.com/scabsarerats/) et Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
+"work" (« travail »), textes contraints utilisant les *mots-garous*, sonifiés par Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), présentation programmée à Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/) (« Travail Acharné »), curaté par Paul Ingram[\*](https://www.instagram.com/scabsarerats/) et Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
 
 « rebut\|robot », à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
 
