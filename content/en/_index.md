@@ -13,6 +13,9 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 "The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
+## 2026
+
+Invited by Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) to participate in the elaboration of the piece *Multimodal Nonsense*[\*](https://www.instagram.com/p/DWQ7W7xDdQK) (provisional title), a collaborative performance involving movement, object detection, LLM text generation and music, as part of her residency at Studio Wayne McGregor[\*](https://waynemcgregor.com/artist-opportunities/resident-6). With Konstantinos Damianakis[\*](https://www.instagram.com/kostakoooo/), Stathis Doganis[\*](https://stathisdoganis.com) and Amin Haghpanah[\*](https://aminhp.com), 2026.
 
 ## 2025
 

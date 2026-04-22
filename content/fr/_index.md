@@ -13,6 +13,10 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 « The Corridor », fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
+## 2026
+
+Invité par Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) à participer à l'élaboration de la pièce « Non-sens multimodal » (*Multimodal Nonsense*)[\*](https://www.instagram.com/p/DWQ7W7xDdQK) (titre provisoire), une performance collaborative incluant du mouvement, de la détection d'objects, de la génération  de texte avec des LLMs et de la musique, durant sa résidence au Studio Wayne McGregor[\*](https://waynemcgregor.com/artist-opportunities/resident-6). Avec Konstantinos Damianakis[\*](https://www.instagram.com/kostakoooo/), Stathis Doganis[\*](https://stathisdoganis.com) et Amin Haghpanah[\*](https://aminhp.com), 2026.
+
 ## 2025
 
 [Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), à paraître dans gorse[\*](http://gorse.ie/) 12 (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
