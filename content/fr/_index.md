@@ -4,8 +4,36 @@ noList: true
 ---
 
 {{< epigraph >}}
-Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les impasses de l'expression conduisirent à des stratégies contraintes/génératives comme entraves positives à l'écriture, et, plus tard, à la textualité neurale, nourrissant une réflexion sur l'IA et ses conséquences pour la littérature et le soi.
+Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les impasses de l'expression conduisirent à des stratégies contraintes/génératives comme entraves positives à l'écriture, et, plus tard, à la textualité neurale, nourrissant une réflexion sur l'Intelligence Artificielle et ses conséquences pour la littérature et le soi.
 {{< /epigraph >}}
+
+## Œuvres choisies
+
+*Mots-garous* ([extraits](https://www.instagram.com/p/DRS1iFrDF26)), 2024-. Écriture contrainte basée sur des motifs de lettres communs à deux mots.
+
+[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), 2024. Écriture contrainte sur des surfaces cubiques, utilisant des *Carrés*.
+
+[*Subwords* (« Les mots sous les mots »)](https://www.instagram.com/p/DL6-sMDoFvy), 2023-4. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts.
+
+*Carrés* ([extraits](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger)), 2022-3. Écriture contrainte basée sur des carrés magiques de lettres générés algorithmiquement.
+
+[*Chaînes*](https://www.tiltedhouse.org/tilt0005-j), 2022-3. Guirlandes d'expressions (peu ou prou) cliché.
+
+*Alors seulement le rêve*, 2021. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français.
+
+*Véganes*, 2021. Fiction neurale: variations sur un seul prompt.
+
+*Lacanage* ([extraits](https://stringsmag.com/strings-2-jeremie-wenger)), 2021. Textes neuraux utilisant des matériaux généras par des modèles de langage affinés sur Jacques Lacan et mes propres textes.
+
+*Inanimaux* ([lecture](https://www.youtube.com/playlist?list=PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI)), 2020. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français.
+
+[*CHATBOT*](/chatbot), 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur.
+
+[« Ça artificiel » (*Artificial It*)]((posts/ca-artificiel)), 2018-9. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes.
+
+{{< separators type="blank" >}}
+
+---
 
 ## À paraître
 
@@ -63,7 +91,9 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 [*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ) ([galerie](posts/manifold)) présentés à [*Manifold*, une exposition de la série Electric Gold](https://www.instagram.com/p/C8wvTxLIllM), Goldsmiths College, 2024.
 
-[*Cubes*](/cubes), écriture contrainte sur cubes, inspirée par "Puzzle-Alphabet" (2010) d'Ilse Garner, 2024. p5.js/JavaScript/Python
+[*Cubes*](/cubes), 2024. Écriture contrainte sur des surfaces cubiques, utilisant des *Carrés*, inspirée par "Puzzle-Alphabet" (2010) d'Ilse Garner. p5.js/JavaScript/Python
+
+*Mots-garous*, 2024. Écriture contrainte basée sur des motifs de lettres communs à deux mots. Shell/Python & rendition graphique avec PyCairo
 
 [*Départs*](/departs) présenté au symposium: [3ai.24: Art in the Age of AI](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Grèce, 2024.
 
@@ -79,7 +109,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 ## 2023
 
-[*Subwords* (« Les mots sous les mots »)](/subwords), 2023-4. Écrirture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. Shell/Python & rendition graphique avec PyCairo
+[*Subwords* (« Les mots sous les mots »)](/subwords), 2023-4. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. Shell/Python & rendition graphique avec PyCairo
 
 [Pièces de *Carrés* et de *Chaînes*](https://www.instagram.com/p/CvdTBIqoj6I) ([galerie](posts/a-side-b-side)) présentés à [A-Side | B-Side](https://www.instagram.com/p/Cu7n-InI6NN) (curation: Eden Chahal[\*](https://www.theimpossiblecities.com) and Marisa Di Monda[\*](https://www.marisadimonda.com/)), St James Hatcham, Goldsmiths College, 2023.
 
@@ -87,7 +117,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *Carrés*, 2022-3. Écriture contrainte basée sur des carrés magiques de lettres générés algorithmiquement. Shell/Python & rendition graphique avec PyCairo
 
-[*Chaînes*](https://jeremiewenger.com/chains), 2022-3. Guirlandes d'expressions (peu ou prou) cliché & interface web de lecture. p5.js/JavaScript
+[*Chaînes*](/chains), 2022-3. Guirlandes d'expressions (peu ou prou) cliché & interface web de lecture. p5.js/JavaScript
 
 *Le monde enchanté des omnines*, 2022-3. Outils pour le travail sur les sextines généralisées. Python & rendition graphique avec PyCairo  
   « Sestin », sextine en hommage à Arnaut Daniel  
@@ -124,9 +154,9 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *jsml*, 2021. Hommage combinatorial à Jackson Mac Low. Python [inachevé]
 
-*Alors seulement le rêve*, 2021. Textes neuraux utilisant des matériaux générés par des modèles de language affinés pour le français. GPT-2
+*Alors seulement le rêve*, 2021. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français. GPT-2
 
-*Véganes*, 2021. Fiction neurale: variations sur une seule prompt. GPT-2/GPT-J-6B
+*Véganes*, 2021. Fiction neurale: variations sur un seul prompt. GPT-2/GPT-J-6B
 
 *Lacanage*, 2021. Textes neuraux utilisant des matériaux généras par des modèles de langage affinés sur Jacques Lacan et mes propres textes, avec Alan Cunningham[\*](https://www.alanmcunningham.com/), avec le soutien de l'Arts Council d'Irlande du Nord[\*](https://artscouncil-ni.org/). GPT-2
 
@@ -134,7 +164,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 ## 2020
 
-*Inanimaux*, 2020. Textes neuraux utilisant des matériaux générés par des modèles de language affinés pour le français. Shell/GPT-2
+*Inanimaux* ([lecture](https://www.youtube.com/playlist?list=PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI)), 2020. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français. Shell/GPT-2
 
 [*CHATBOT*](/chatbot), 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur. Un projet de recherche de la Manufacture, Haute école des arts de la scène[\*](https://www.manufacture.ch) à Lausanne, Suisse, supported by the Swiss National Science Foundation[\*](https://www.snf.ch/en), under the direction of Nicolas Zlatoff[\*](http://www.manufacture.ch/fr/1695/Nicolas-Zlatoff). Shell/BeautifulSoup/GPT-2/Python
 
@@ -144,7 +174,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 ## 2019
 
-*Mots-garous*, anciennement « Le Siamoiseur » (*The Siamesor*), 2019. Élevage de mots-garous (ou « siamois »). Python & rendition graphique avec Processing
+*Mots-garous*, anciennement « Le Siamoiseur » (*The Siamesor*), 2019. Élevage de mots-garous (ou « siamois ») : recherche récursive de motifs de lettres communs à deux mots. Python & rendition graphique avec Processing
 
 [*Wordhoard*](https://github.com/jchwenger/wordhoard) (« Magot de mots »), 2019. Entassement cupide de mots & piles de mots...
 
@@ -161,9 +191,9 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 *L'écriture et son double (essai)*, 2019. L'écriture à l'épreuve de la machine. Péritextes présentés à l'occasion de l'exposition Ça artificiel à Lausanne
 
-*Ça artificiel (« pour commencer... »)*, 2019. Textes neuraux utilisant des matériaux générés par des réseaux 'Doppelgänger', entraînés sur mes propres textes. LSTMs/Python
+*Ça artificiel (« pour commencer... »)*, 2019. Textes neuraux utilisant des matériaux générés par des modèles LSTMs 'Doppelgänger', entraînés sur mes propres textes. LSTMs/Python
 
-*Ça artificiel (morceaux I-VIII)*, 2019. Textes neuraux utilisant des matériaux de réseaux 'Doppelgänger', entraînés sur mes propres textes. LSTMs/Python
+*Ça artificiel (morceaux I-VIII)*, 2019. Textes neuraux utilisant des matériaux de modèles LSTMs 'Doppelgänger', entraînés sur mes propres textes. LSTMs/Python
 
 *Death of a Research Engineer* (« Mort d'un ingénieur-chercheur »), 2019. Plaisanteri d'après Chekhov. Prose
 
@@ -175,7 +205,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 [Recursus](https://recursus.co/), 2018, Goldsmiths Computational Arts MA final year show. Triptych of computational literature composed of WordSquares, Subwords and AIT
 
-*AIT (Artificial It)* (« Ça artificiel »), 2018. Des pas vers la génération neurale de texte, utilisant des matériaux de réseaux « Doppelgänger », entraînés sur mes propres textes. LSTMs/Python. Extraits à paraître dans gorse[\*](http://gorse.ie/)
+*AIT (Artificial It)* (« Ça artificiel »), 2018. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes. LSTMs/Python. Extraits à paraître dans gorse[\*](http://gorse.ie/)
 
 *Squares* (« Carrés », préalablement *Wordsquares*, « Carrés de mots »), 2018. Incursion récursive dans les carrés magiques de lettres comme forme poétique. Python & rendition graphique avec Processing
 
