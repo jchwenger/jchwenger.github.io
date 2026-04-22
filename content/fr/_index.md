@@ -9,13 +9,15 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## À paraître
 
+"work" (« travail »), une série de textes contraints utilisant les *mots-garous*, sonifiés par Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), présentation programmée à Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/) (« Travail Acharné »), curaté par Paul Ingram[\*](https://www.instagram.com/scabsarerats/) et Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
+
 « rebut\|robot », à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
 
 « The Corridor », fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 ## 2026
 
-Invité par Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) à participer à l'élaboration de la pièce « Non-sens multimodal » (*Multimodal Nonsense*)[\*](https://www.instagram.com/p/DWQ7W7xDdQK) (titre provisoire), une performance collaborative incluant du mouvement, de la détection d'objects, de la génération  de texte avec des LLMs et de la musique, durant sa résidence au Studio Wayne McGregor[\*](https://waynemcgregor.com/artist-opportunities/resident-6). Avec Konstantinos Damianakis[\*](https://www.instagram.com/kostakoooo/), Stathis Doganis[\*](https://stathisdoganis.com) et Amin Haghpanah[\*](https://aminhp.com), 2026.
+Invité par Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) à participer à l'élaboration de la pièce *Multimodal Nonsense*[\*](https://www.instagram.com/p/DWQ7W7xDdQK) (« Non-sens multimodal », titre provisoire), une performance collaborative incluant du mouvement, de la détection d'objects, de la génération  de texte avec des LLMs et de la musique, durant sa résidence au Studio Wayne McGregor[\*](https://waynemcgregor.com/artist-opportunities/resident-6). Avec Konstantinos Damianakis[\*](https://www.instagram.com/kostakoooo/), Stathis Doganis[\*](https://stathisdoganis.com) et Amin Haghpanah[\*](https://aminhp.com), 2026.
 
 ## 2025
 
