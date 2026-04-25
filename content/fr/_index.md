@@ -28,9 +28,9 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 *Vegans*, 2021. Neural fiction: variations on one single prompt.
 
-*Inanimaux* ([lecture](https://www.youtube.com/playlist?list=PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI)), 2020. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français.
+*Inanimaux*, 2020. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français. [Lecture](https://www.youtube.com/playlist?list=PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI).
 
-[*CHATBOT*](/chatbot), 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur.
+*CHATBOT*, 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur.  [Page du projet](chatbot), [*Les Subsistances*](https://mascarille.com/galerie/index.php?/category/4769).
 
 « Ça artificiel » (*Artificial It*), 2018-9. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes. [*Le Cabanon, Text Type Light, Kirjasto/Library*](posts/ca-artificiel), [*GRASS*](https://www.instagram.com/p/C-0P-jbo3uV), [*gorse*](https://gorse.ie/book/no-12/).
 
