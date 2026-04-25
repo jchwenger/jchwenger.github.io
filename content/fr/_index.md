@@ -9,27 +9,28 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## Œuvres choisies
 
-*Mots-garous* ([extraits](https://www.instagram.com/p/DRS1iFrDF26)), 2024-. Écriture contrainte basée sur des motifs de lettres communs à deux mots.
+*Mots-garous*, 2024-. Écriture contrainte basée sur des motifs de lettres communs à deux mots. [*Tummy Ache*](https://www.instagram.com/p/DRS1iFrDF26).
 
-[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), 2024. Écriture contrainte sur des surfaces cubiques, utilisant des *Carrés*.
 
-[*Subwords* (« Les mots sous les mots »)](https://www.instagram.com/p/DL6-sMDoFvy), 2023-4. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts.
+*Subwords* (« Les mots sous les mots »), 2023-4. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
 
-*Carrés* ([extraits](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger)), 2022-3. Écriture contrainte basée sur des carrés magiques de lettres générés algorithmiquement.
+*Cubes*, 2024. Écriture contrainte sur des surfaces cubiques, utilisant des *Carrés*. [*The New River*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), [*Manifold*](https://www.instagram.com/p/C-0Ne6no7zQ).
 
-[*Chaînes*](https://www.tiltedhouse.org/tilt0005-j), 2022-3. Guirlandes d'expressions (peu ou prou) cliché.
+*Carrés*, 2022-3. Écriture contrainte basée sur des carrés magiques de lettres générés algorithmiquement.  [*Pamenar Online Magazine*](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger).
 
-*Alors seulement le rêve*, 2021. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français.
+*Chaînes*, 2022-3. Guirlandes d'expressions (peu ou prou) cliché. [*TILT*](https://www.tiltedhouse.org/tilt0005-j), [*minor literatures*](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/), [*Vernacular*](https://admin870641.wixsite.com/vernacular/jeremie-wenger/from-chains), [*A-Side | B-Side*](https://www.instagram.com/p/CvdTBIqoj6I).
 
-*Véganes*, 2021. Fiction neurale: variations sur un seul prompt.
+"Conjunctina" (« Conjonctine »), 2022-24, octine diagonale rotative. [*Outhouse*](https://www.instagram.com/p/DOy2sYajP-e).
 
-*Lacanage* ([extraits](https://stringsmag.com/strings-2-jeremie-wenger)), 2021. Textes neuraux utilisant des matériaux généras par des modèles de langage affinés sur Jacques Lacan et mes propres textes.
+*Lacanage*, 2021. Textes neuraux utilisant des matériaux généras par des modèles de langage affinés sur Jacques Lacan et mes propres textes.  [*Strings*](https://stringsmag.com/strings-2-jeremie-wenger), [*Still Point*](https://www.stillpointldn.com/).
 
 *Inanimaux* ([lecture](https://www.youtube.com/playlist?list=PLlNDOBNFozLAx8WbcpEHnpZuQeGwohLaI)), 2020. Textes neuraux utilisant des matériaux générés par des modèles de langage affinés sur du français.
 
 [*CHATBOT*](/chatbot), 2020-1. Jouer et dialoguer avec un agent-conversationnel-acteur.
 
-[« Ça artificiel » (*Artificial It*)]((posts/ca-artificiel)), 2018-9. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes.
+« Ça artificiel » (*Artificial It*), 2018-9. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes. [*Le Cabanon, Text Type Light, Kirjasto/Library*](posts/ca-artificiel), [*GRASS*](https://www.instagram.com/p/C-0P-jbo3uV), [*gorse*](https://gorse.ie/book/no-12/).
+
+[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Francfort. Complexe textuel avec contrainte de lettres, produit à l'invitation de Jagoda Szmytka[\*](http://www.jagodaszmytka.com/jagoda_szmytka.html) pour Play night[\*](http://www.playplattform.com/games_explosure.html).
 
 {{< separators type="blank" >}}
 
@@ -49,7 +50,7 @@ Invité par Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) à participer à 
 
 ## 2025
 
-[Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), à paraître dans gorse[\*](http://gorse.ie/) 12 (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
+[Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), à paraître dans gorse[\*](https://gorse.ie/book/no-12/) 12 (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
 Deux '[formations de mots-garous](https://www.instagram.com/p/DRS1iFrDF26)' publiés dans *Tummy Ache* Vol. 6, The Lonely Issue (« Le numéro solitaire »)[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (éd. Anna Morrissey[\*](https://www.instagram.com/annamorrissey)), 2025.
 
@@ -81,7 +82,7 @@ Curation et workshops pour la résidence [TEA, TECH + EXCHANGE](https://www.tate
 
 « The Corridor », 2024-5. Fiction
 
-[Extraits de *Chaînes*](https://www.vernacular.website/jeremie-wenger/from-chains), publiés dans Vernacular[\*](https://www.vernacular.website), 2024.
+[Extraits de *Chaînes*](https://admin870641.wixsite.com/vernacular/jeremie-wenger/from-chains), publiés dans Vernacular[\*](https://admin870641.wixsite.com/vernacular), 2024.
 
 [Extraits de *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), publiés dans Strings 2[\*](https://stringsmag.com/strings-2) (éds Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera)), 2024.
 
@@ -205,7 +206,7 @@ Avec Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2o
 
 [Recursus](https://recursus.co/), 2018, Goldsmiths Computational Arts MA final year show. Triptych of computational literature composed of WordSquares, Subwords and AIT
 
-*AIT (Artificial It)* (« Ça artificiel »), 2018. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes. LSTMs/Python. Extraits à paraître dans gorse[\*](http://gorse.ie/)
+*AIT (Artificial It)* (« Ça artificiel »), 2018. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes. LSTMs/Python
 
 *Squares* (« Carrés », préalablement *Wordsquares*, « Carrés de mots »), 2018. Incursion récursive dans les carrés magiques de lettres comme forme poétique. Python & rendition graphique avec Processing
 
@@ -272,7 +273,7 @@ Four Poems (« Quatre poèmes »), 2016.
   quotes  
   words  
 
-[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Francfort. Complexe textuel avec contrainte de lettres, produit à l'invitation de Jagoda Szmytka[\*](http://www.jagodaszmytka.com/jagoda_szmytka.html) for Play night[\*](http://www.playplattform.com/games_explosure.html). Installation, GIFs & blogs Tumblr
+[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Francfort. Complexe textuel avec contrainte de lettres, produit à l'invitation de Jagoda Szmytka[\*](http://www.jagodaszmytka.com/jagoda_szmytka.html) pour Play night[\*](http://www.playplattform.com/games_explosure.html). Installation, GIFs & blogs Tumblr
 
 *EUHOQ*, 2015. Textes duchampiens contraints pour une pièce musicale de Davor Branimir Vincze[\*](https://www.db-vincze.com/)
 
