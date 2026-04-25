@@ -30,7 +30,7 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 *Artificial It*, 2018-9. Neural texts using materials from 'doppelgänger' LSTM models, trained on my own texts. [*Le Cabanon, Text Type Light, Kirjasto/Library*](http://localhost:1313/posts/artificial-it/), [*GRASS*](https://www.instagram.com/p/C-0P-jbo3uV), [*gorse*](https://gorse.ie/book/no-12/).
 
-[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Frankfurt. Constrained, letter-based textual complex produced at the invitation of Jagoda Szmytka[\*](http://www.jagodaszmytka.com/jagoda_szmytka.html) for Play night[\*](http://www.playplattform.com/games_explosure.html).
+[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Frankfurt. Constrained, letter-based textual complex.
 
 {{< separators type="blank" >}}
 

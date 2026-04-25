@@ -30,7 +30,7 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 « Ça artificiel » (*Artificial It*), 2018-9. Des pas vers la génération neurale de texte, utilisant des matériaux de modèles LSTMs « Doppelgänger », entraînés sur mes propres textes. [*Le Cabanon, Text Type Light, Kirjasto/Library*](posts/ca-artificiel), [*GRASS*](https://www.instagram.com/p/C-0P-jbo3uV), [*gorse*](https://gorse.ie/book/no-12/).
 
-[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Francfort. Complexe textuel avec contrainte de lettres, produit à l'invitation de Jagoda Szmytka[\*](http://www.jagodaszmytka.com/jagoda_szmytka.html) pour Play night[\*](http://www.playplattform.com/games_explosure.html).
+[*Explosure*](https://e-x-p-l-o-s-u-r-e.tumblr.com/) / [*Preexplosure*](https://p-r-e-e-x-p-l-o-s-u-r-e.tumblr.com/), 2015, Francfort. Complexe textuel avec contrainte de lettres.
 
 {{< separators type="blank" >}}
 
