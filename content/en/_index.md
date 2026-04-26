@@ -42,7 +42,7 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 ## Forthcoming
 
-"work", constrained texts using *werewords*, sonified by Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), to be presented at Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/), curated by Paul Ingram[\*](https://www.instagram.com/scabsarerats/) and Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
+"work", constrained texts using *werewords*, music by Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), to be presented at Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/), curated by Paul Ingram[\*](https://www.instagram.com/scabsarerats/) and Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
 
 "rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
