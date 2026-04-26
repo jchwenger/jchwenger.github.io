@@ -12,7 +12,7 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 *Werewords*, 2024-. Constrained writing based on common letter patterns between two words. [*Tummy Ache*](ttps://www.instagram.com/p/DRS1iFrDF26).
 
 
-*Subwords*, 2023-4. Constrained writing based on subsequence decompositions of long words into shorter ones. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
+*Subwords*, 2023-5. Constrained writing based on subsequence decompositions of long words into shorter ones. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
 
 *Cubes*, 2024-. Constrained writing on cubic surfaces, using *Squares*. [*The New River*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), [*Manifold*](https://www.instagram.com/p/C-0Ne6no7zQ).
 

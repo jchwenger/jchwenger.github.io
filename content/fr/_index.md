@@ -12,7 +12,7 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 *Mots-garous*, 2024-. Écriture contrainte basée sur des motifs de lettres communs à deux mots. [*Tummy Ache*](https://www.instagram.com/p/DRS1iFrDF26).
 
 
-*Subwords* (« Les mots sous les mots »), 2023-4. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
+*Subwords* (« Les mots sous les mots »), 2023-5. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
 
 *Cubes*, 2024. Écriture contrainte sur des surfaces cubiques, utilisant des *Carrés*. [*The New River*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), [*Manifold*](https://www.instagram.com/p/C-0Ne6no7zQ).
 
