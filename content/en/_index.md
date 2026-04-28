@@ -11,7 +11,6 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 *Werewords*, 2024-. Constrained writing based on common letter patterns between two words. [*Tummy Ache*](ttps://www.instagram.com/p/DRS1iFrDF26).
 
-
 *Subwords*, 2023-5. Constrained writing based on subsequence decompositions of long words into shorter ones. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
 
 *Cubes*, 2024-. Constrained writing on cubic surfaces, using *Squares*. [*The New River*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), [*Manifold*](https://www.instagram.com/p/C-0Ne6no7zQ).
@@ -42,13 +41,13 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 ## Forthcoming
 
-"work", constrained texts using *werewords*, music by Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), to be presented at Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/), curated by Paul Ingram[\*](https://www.instagram.com/scabsarerats/) and Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
-
 "rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
 "The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 ## 2026
+
+"work", constrained texts using *werewords*, music by Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), presented at Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/), curated by Paul Ingram[\*](https://www.instagram.com/scabsarerats/) and Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
 
 Invited by Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) to participate in the elaboration of the piece *Multimodal Nonsense*[\*](https://www.instagram.com/p/DWQ7W7xDdQK) (provisional title), a collaborative performance involving movement, object detection, LLM text generation and music, as part of her residency at Studio Wayne McGregor[\*](https://waynemcgregor.com/artist-opportunities/resident-6). With Konstantinos Damianakis[\*](https://www.instagram.com/kostakoooo/), Stathis Doganis[\*](https://stathisdoganis.com) and Amin Haghpanah[\*](https://aminhp.com), 2026.
 
