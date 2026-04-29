@@ -47,7 +47,7 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 ## 2026
 
-"work", constrained texts using *werewords*, music by Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), presented at Hard Work[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/), curated by Paul Ingram[\*](https://www.instagram.com/scabsarerats/) and Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
+"work", constrained texts using *werewords*, music by Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), presented at Hard Work[\*](https://www.instagram.com/p/DXod6w2DB33HrWRtG3aVh6_DStNldCYQUMTUjc0)[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/), curated by Paul Ingram[\*](https://www.instagram.com/scabsarerats/) and Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
 
 Invited by Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) to participate in the elaboration of the piece *Multimodal Nonsense*[\*](https://www.instagram.com/p/DWQ7W7xDdQK) (provisional title), a collaborative performance involving movement, object detection, LLM text generation and music, as part of her residency at Studio Wayne McGregor[\*](https://waynemcgregor.com/artist-opportunities/resident-6). With Konstantinos Damianakis[\*](https://www.instagram.com/kostakoooo/), Stathis Doganis[\*](https://stathisdoganis.com) and Amin Haghpanah[\*](https://aminhp.com), 2026.
 
