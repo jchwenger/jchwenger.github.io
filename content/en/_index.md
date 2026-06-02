@@ -41,6 +41,8 @@ Jérémie Wenger is a Swiss writer and programmer based in London. Impasses arou
 
 ## Forthcoming
 
+Three *Squares*, to be published in *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (ed. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
+
 "rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
 
 "The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
