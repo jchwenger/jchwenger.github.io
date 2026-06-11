@@ -63,13 +63,13 @@ Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26)' published i
 
 Excerpts from *Lacanage*, published in Still Point[\*](https://www.stillpointldn.com/), 2025.
 
-"Conjunctina", published in Outhouse Magazine Issue 2[\*](https://outhouse.gallery/outhouse-magazine) (ed: natalia bielecka, art director: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
+"Conjunctina", published in Outhouse Magazine Issue 2[\*](https://outhouse.gallery/outhouse-magazine) (ed. natalia bielecka, art director: alicja orzechowska (@sakralna_)[\*](https://www.instagram.com/sakralna_), post: [\*](https://www.instagram.com/p/DOy2sYajP-e)), 2025.
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2), [gallery](posts/manifold2-0)), presented at Manifold 2.0[\*](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy)[\*](https://www.instagram.com/p/DL2mm6jMl6w)[\*](https://www.instagram.com/p/DL3SHf3Iu5c), [gallery](posts/xcoax)), presented at xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes)), Dundee, 2025.
 
-[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed: Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh)), 2025.
+[*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed. Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh)), 2025.
 
 [*Chains*](https://www.tiltedhouse.org/tilt0005-j), published in TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (eds: Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
 
@@ -83,7 +83,7 @@ Panelist for [*Antenna: Where Signals Meet*](https://www.instagram.com/p/DKrxpdx
 
 Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/whats-on/tate-modern/electric-dreams/tech-tea--exchange) residency, Tate, with Nathan Bayliss[\*](https://practice.nathanbayliss.tv/) and Robin Leverton[\*](https://robinlevertonart.com/), under the leadership of Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/).
 
-[Excerpts from *Chains*](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/), published in minor literature\[s\][\*](https://minorliteratures.com) (ed: Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
+[Excerpts from *Chains*](https://minorliteratures.com/2025/01/30/from-chains-jeremie-wenger/), published in minor literature\[s\][\*](https://minorliteratures.com) (ed. Yanina Spizzirri[\*](https://x.com/schweben_weben)), 2025.
 
 ## 2024
 
@@ -95,7 +95,7 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/) (French version in [*Dimensions* 15, le journal de l'éducation, la recherche et l'innovation de l'EPFL](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), p. 10), EPFL, 2024.
 
-["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, published in [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass) (ed.: Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)), 2024.
+["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, published in [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass) (ed. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)), 2024.
 
 [*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ) ([gallery](posts/manifold)) presented at [*Manifold*, an exhibition in the Electric Gold series](https://www.instagram.com/p/C8wvTxLIllM), 2024.
 
@@ -105,7 +105,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 [*Départs*](/departs) presented at the symposium: 3ai.24: Art in the Age of AI[\*](https://3ai-24.sciencesconf.org/program?lang=en), Corfu, Greece, 2024.
 
-*Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (ed: Petra Schulze-Wollgast (psw)[\*](https://www.psw.gallery/)), 2024. A visual/generative tribute to Ruth Wolf-Rehfeldt[\*](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
+*Wellung III a*, [ToCall No. 20](https://pswgallery.tumblr.com/post/752902286002487296/tocall-no-20-ruth-wolf-rehfeldt-died-on-february) ([contributors](https://pswgallery.tumblr.com/post/752902903879041024/tocall-no-20-contributors), [shop](https://www.psw.gallery/product-page/tocall-no-20)) (ed. Petra Schulze-Wollgast (psw)[\*](https://www.psw.gallery/)), 2024. A visual/generative tribute to Ruth Wolf-Rehfeldt[\*](https://en.wikipedia.org/wiki/Ruth_Wolf-Rehfeldt) (1932-2024). p5.js/JavaScript
 
 *Gonograph*, 2024. Polygonal constrained writing & dedicated web text editor. JavaScript [unfinished]
 
@@ -113,7 +113,7 @@ Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://a
 
 With Vassilis Papadopoulos[\*](https://scholar.google.com/citations?user=4o52I2oAAAAJ&hl=en), Clément Hongler[\*](https://scholar.google.com/citations?user=p9B6eWEAAAAJ&hl=en). "[Arrows of Time for Large Language Models](https://arrowsoftime.github.io/)", 2024. A study on the probabilistic modeling performed by Autoregressive Large Language Models through the angle of time directionality, ICML 2024 Oral.
 
-[Three *Squares*](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger) published by Pamenar Online Magazine[\*](https://www.pamenarpress.com/online-magazine) (ed: Khashayar "Kess" Mohammadi[\*](https://www.khashayarmohammadi.com/)), 2024.
+[Three *Squares*](https://www.pamenarpress.com/post/j%C3%A9r%C3%A9mie-wenger) published by Pamenar Online Magazine[\*](https://www.pamenarpress.com/online-magazine) (ed. Khashayar "Kess" Mohammadi[\*](https://www.khashayarmohammadi.com/)), 2024.
 
 ## 2023
 
