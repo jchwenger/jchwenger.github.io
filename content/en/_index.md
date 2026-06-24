@@ -57,7 +57,7 @@ Invited by Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) to participate in 
 
 ## 2025
 
-[Excerpts from *Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), published in gorse[\*](https://gorse.ie/book/no-12/) 12 (eds: Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
+[Excerpts from *Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), published in gorse 12[\*](https://gorse.ie/book/no-12/) (eds: Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
 Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26)' published in *Tummy Ache* Vol. 6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey)), 2025.
 
@@ -95,7 +95,7 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/) (French version in [*Dimensions* 15, le journal de l'éducation, la recherche et l'innovation de l'EPFL](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), p. 10), EPFL, 2024.
 
-["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, published in [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass) (ed. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)), 2024.
+["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, published in GRASS 4[\*](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass) (ed. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)), 2024.
 
 [*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ) ([gallery](posts/manifold)) presented at [*Manifold*, an exhibition in the Electric Gold series](https://www.instagram.com/p/C8wvTxLIllM), 2024.
 

@@ -57,7 +57,7 @@ Invité par Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) à participer à 
 
 ## 2025
 
-[Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), à paraître dans gorse[\*](https://gorse.ie/book/no-12/) 12 (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
+[Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), publiés dans gorse 12[\*](https://gorse.ie/book/no-12/) (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
 Deux '[formations de mots-garous](https://www.instagram.com/p/DRS1iFrDF26)' publiés dans *Tummy Ache* Vol. 6, The Lonely Issue (« Le numéro solitaire »)[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (éd. Anna Morrissey[\*](https://www.instagram.com/annamorrissey)), 2025.
 
@@ -95,7 +95,7 @@ Curation et workshops pour la résidence [TEA, TECH + EXCHANGE](https://www.tate
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), EPFL, 2024.
 
-["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, publié dans [GRASS 4](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) (@englishgrass[\*](https://www.instagram.com/englishgrass)) (éd. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)), 2024.
+["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, publié dans GRASS 4[\*](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) (@englishgrass[\*](https://www.instagram.com/englishgrass)) (éd. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)), 2024.
 
 [*Cubes*](https://www.instagram.com/p/C-0Ne6no7zQ) ([galerie](posts/manifold)) présentés à [*Manifold*, une exposition de la série Electric Gold](https://www.instagram.com/p/C8wvTxLIllM), Goldsmiths College, 2024.
 
