@@ -87,11 +87,6 @@ All my gratitude to Colin Pahlisch for inviting me to participate in the Printem
 
 2024 Update: ["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, published in GRASS 4[\*](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) @englishgrass[\*](https://www.instagram.com/englishgrass) (ed. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)).
 
-{{< separators type="blank" >}}
-{{< separators type="outer" >}}
-
-2020 Update: « exist digressively » exhibited in a metro station in Stockholm by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link).
-
 {{< html tag="div" id="kirjasto" >}}{{< /html >}}
 
 {{< separators type="blank" >}}
@@ -123,3 +118,8 @@ All my gratitude to Colin Pahlisch for inviting me to participate in the Printem
 </div>
 
 <script async src="//www.instagram.com/embed.js"></script>
+
+{{< separators type="blank" >}}
+{{< separators type="outer" >}}
+
+2020 Update: « exist digressively » exhibited in a metro station in Stockholm by [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link).
