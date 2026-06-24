@@ -80,6 +80,16 @@ Toute ma gratitude à Colin Pahlisch pour m’avoir invité à participer au Pri
 {{< separators type="blank" >}}
 {{< separators type="outer" >}}
 
+Update (2025) : [Extraits d'*Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), publiés dans gorse 12[\*](https://gorse.ie/book/no-12/) (éd. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)).
+
+{{< separators type="blank" >}}
+{{< separators type="outer" >}}
+
+Update (2024) : ["to begin with..."](https://www.instagram.com/p/C-0P-jbo3uV), from *Artificial It*, publié dans GRASS 4[\*](https://grassmagazine.bigcartel.com/product/grass-magazine-issue-4-summer-2024) (@englishgrass[\*](https://www.instagram.com/englishgrass)) (éd. Tommy Sissons[\*](https://www.instagram.com/tommyfredsissons)).
+
+{{< separators type="blank" >}}
+{{< separators type="outer" >}}
+
 Update (2020) : « exist digressively » exposé dans une station de métro à Stockholm par [Text Type Light](https://www.instagram.com/p/CBIWD9NDxYA/?utm_source=ig_web_copy_link).
 
 {{< separators type="blank" >}}
