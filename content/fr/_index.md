@@ -4,7 +4,7 @@ noList: true
 ---
 
 {{< epigraph >}}
-Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les impasses de l'expression conduisirent à des stratégies contraintes/génératives comme entraves positives à l'écriture, et, plus tard, à la textualité neurale, nourrissant une réflexion sur l'Intelligence Artificielle et ses conséquences pour la littérature et le soi.
+Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les impasses de l'expression, ainsi que la découverte des arts et de la littérature computationnels, le menèrent à adopter des stratégies contraintes/génératives comme entraves positives à l'écriture, et, plus tard, la textualité neurale, nourrissant une réflexion sur l'Intelligence Artificielle et ses conséquences pour la littérature et le soi.
 {{< /epigraph >}}
 
 ## Œuvres choisies

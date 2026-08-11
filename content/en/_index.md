@@ -4,7 +4,7 @@ noList: true
 ---
 
 {{< epigraph >}}
-Jérémie Wenger is a Swiss writer and programmer based in London. Impasses around expression led to constrained/generative strategies as positive impediments to writing, and, later, neural textuality, feeding a reflection on AI and its consequences for literature and the self.
+Jérémie Wenger is a Swiss writer based in London. Impasses around expression, as well as the discovery of computational arts and literature, led to constrained/generative strategies as positive impediments to writing, and, later, neural textuality, feeding a reflection on AI and its consequences for literature and the self.
 {{< /epigraph >}}
 
 ## Selected works
