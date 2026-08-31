@@ -41,7 +41,7 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## À paraître
 
-Extraits de *Chaînes*, à paraître dans *Pebbles*, Vol. 7, petrichor[\*](https://petrichormag.com/) (éd. Seth Copeland[\*](https://petrichormag.com/about/)), 2026.
+Extraits de *Chaînes*, à paraître dans *Pebbles*, Vol. 7, *petrichor*[\*](https://petrichormag.com/) (éd. Seth Copeland[\*](https://petrichormag.com/about/)), 2026.
 
 Trois *Carrés*, à paraître dans *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (éd. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
 

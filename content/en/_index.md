@@ -41,11 +41,11 @@ Jérémie Wenger is a Swiss writer based in London. Impasses around expression, 
 
 ## Forthcoming
 
-Excerpts from *Chains*, to be published in *Pebbles*, Vol. 7, petrichor[\*](https://petrichormag.com/) (ed. Seth Copeland[\*](https://petrichormag.com/about/)), 2026.
+Excerpts from *Chains*, to be published in *Pebbles*, Vol. 7, *petrichor*[\*](https://petrichormag.com/) (ed. Seth Copeland[\*](https://petrichormag.com/about/)), 2026.
 
 Three *Squares*, to be published in *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (ed. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
 
-"rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using *werewords*. Shell/Python
+"rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using 'werewords'. Shell/Python
 
 "The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
