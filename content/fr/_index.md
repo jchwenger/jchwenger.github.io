@@ -45,9 +45,9 @@ Extraits de *Chaînes*, à paraître dans *Pebbles*, Vol. 7, *petrichor*[\*](htt
 
 Trois *Carrés*, à paraître dans *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (éd. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
 
-« The Corridor », fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
-
 ## 2026
+
+« The Corridor », fiction, publié dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 « rebut\|robot », publié dans le Projet éditorial Arkhaï[\*](https://arkhai.com/) (post: [\*](https://www.instagram.com/p/DZy_7G4jBUZ)), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
 
