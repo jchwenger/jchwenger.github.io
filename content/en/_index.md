@@ -45,11 +45,11 @@ Excerpts from *Chains*, to be published in *Pebbles*, Vol. 7, *petrichor*[\*](ht
 
 Three *Squares*, to be published in *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (ed. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
 
-"rebut\|robot", forthcoming in Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using 'werewords'. Shell/Python
-
 "The Corridor", fiction, forthcoming in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 ## 2026
+
+"rebut\|robot", published in Projet éditorial Arkhaï[\*](https://arkhai.com/) (post: [\*](https://www.instagram.com/p/DZy_7G4jBUZ)), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using 'werewords'. Shell/Python
 
 "work", constrained texts using *werewords*, music by Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), presented at Hard Work[\*](https://www.instagram.com/p/DXod6w2DB33HrWRtG3aVh6_DStNldCYQUMTUjc0)[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/), curated by Paul Ingram[\*](https://www.instagram.com/scabsarerats/) and Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
 

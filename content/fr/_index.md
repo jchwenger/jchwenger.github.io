@@ -45,11 +45,11 @@ Extraits de *Chaînes*, à paraître dans *Pebbles*, Vol. 7, *petrichor*[\*](htt
 
 Trois *Carrés*, à paraître dans *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (éd. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
 
-« rebut\|robot », à paraître dans le Projet éditorial Arkhaï[\*](https://arkhai.com/), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
-
 « The Corridor », fiction, à paraître dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 ## 2026
+
+« rebut\|robot », publié dans le Projet éditorial Arkhaï[\*](https://arkhai.com/) (post: [\*](https://www.instagram.com/p/DZy_7G4jBUZ)), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
 
 "work" (« travail »), textes contraints utilisant les *mots-garous*, musique de Benjamin Whateley[\*](https://www.instagram.com/benjaminwhateley/), présentation à Hard Work[\*](https://www.instagram.com/p/DXod6w2DB33HrWRtG3aVh6_DStNldCYQUMTUjc0/)[\*](https://www.instagram.com/p/DW03SsHDD30PCX7YD0DHNmjcXDeBSw89AV8_w80/) (« Travail Acharné »), curaté par Paul Ingram[\*](https://www.instagram.com/scabsarerats/) et Ed Shipsey[\*](https://www.instagram.com/eddshipsey/), 2026.
 
