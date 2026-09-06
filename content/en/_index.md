@@ -45,6 +45,8 @@ Excerpts from *Chains*, to be published in *Pebbles*, Vol. 7, *petrichor*[\*](ht
 
 Three *Squares*, to be published in *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (ed. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
 
+"Con\[straint\] Job: Freedom, stricture & algorithms in literary practice, with a Sestina workshop", as part of *The Evolving Studio: Artists Working with Technology* [\*](https://www.tate.org.uk/whats-on/tate-modern/the-evolving-studio-artists-working-with-technology) (curation Annie Bicknell[\*](https://www.instagram.com/annie.a.bicknell/), Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/)), Tate Modern, 26 September 2026.
+
 ## 2026
 
 "The Corridor", fiction, published in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
