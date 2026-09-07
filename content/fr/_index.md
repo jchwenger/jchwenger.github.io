@@ -11,7 +11,7 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 *Mots-garous*, 2024-. Écriture contrainte basée sur des motifs de lettres communs à deux mots. [*Tummy Ache*](https://www.instagram.com/p/DRS1iFrDF26).
 
-*Subwords* (« Les mots sous les mots »), 2023-5. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
+[*Subwords*](/subwords) (« Les mots sous les mots »), 2023-5. Écriture contrainte basée sur  la décomposition en sous-suites de longs mots en mots plus courts. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/), [papier](https://2025.xcoax.org/pdf/wenger.pdf).
 
 *Cubes*, 2024. Écriture contrainte sur des surfaces cubiques, utilisant des *Carrés*. [*The New River*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), [*Manifold*](https://www.instagram.com/p/C-0Ne6no7zQ).
 
@@ -69,7 +69,7 @@ Extraits de *Lacanage*, publiés dans Still Point[\*](https://www.stillpointldn.
 
 [*Subwords*](/subwords) (« Les mots sous les mots ») (posts: [\*](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2), [galerie](posts/manifold2-0)), presenté à Manifold 2.0[\*](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
-[*Subwords* (« Les mots sous les mots »)](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy)[\*](https://www.instagram.com/p/DL2mm6jMl6w)[\*](https://www.instagram.com/p/DL3SHf3Iu5c), [galerie](posts/xcoax)), présenté à xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes)), Dundee, 2025.
+[*Subwords* (« Les mots sous les mots »)](/subwords) ([papier](https://2025.xcoax.org/pdf/wenger.pdf), posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy)[\*](https://www.instagram.com/p/DL2mm6jMl6w)[\*](https://www.instagram.com/p/DL3SHf3Iu5c), [galerie](posts/xcoax)), présenté à xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes)), Dundee, 2025.
 
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), publié dans The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (éd. Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh)), 2025.
 

@@ -11,7 +11,7 @@ Jérémie Wenger is a Swiss writer based in London. Impasses around expression, 
 
 *Werewords*, 2024-. Constrained writing based on common letter patterns between two words. [*Tummy Ache*](ttps://www.instagram.com/p/DRS1iFrDF26).
 
-*Subwords*, 2023-5. Constrained writing based on subsequence decompositions of long words into shorter ones. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/).
+[*Subwords*](/subwords), 2023-5. Constrained writing based on subsequence decompositions of long words into shorter ones. [*xCoAx* 2025](https://www.instagram.com/p/DL6-sMDoFvy), [*Manifold 2.0*](/posts/manifold2-0/), [paper](https://2025.xcoax.org/pdf/wenger.pdf).
 
 *Cubes*, 2024-. Constrained writing on cubic surfaces, using *Squares*. [*The New River*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), [*Manifold*](https://www.instagram.com/p/C-0Ne6no7zQ).
 
@@ -69,7 +69,7 @@ Excerpts from *Lacanage*, published in Still Point[\*](https://www.stillpointldn
 
 [*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DMYFHf8N4d0)[\*](https://www.instagram.com/p/DMnNhyeoFE2), [gallery](posts/manifold2-0)), presented at Manifold 2.0[\*](https://www.instagram.com/p/DMYFHf8N4d0), St James Hatcham, Goldsmiths College, 2025.
 
-[*Subwords*](/subwords) (posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy)[\*](https://www.instagram.com/p/DL2mm6jMl6w)[\*](https://www.instagram.com/p/DL3SHf3Iu5c), [gallery](posts/xcoax)), presented at xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes)), Dundee, 2025.
+[*Subwords*](/subwords) ([paper](https://2025.xcoax.org/pdf/wenger.pdf), posts: [\*](https://www.instagram.com/p/DL6-sMDoFvy)[\*](https://www.instagram.com/p/DL2mm6jMl6w)[\*](https://www.instagram.com/p/DL3SHf3Iu5c), [gallery](posts/xcoax)), presented at xCoAx 2025[\*](https://2025.xcoax.org/) (curation: Luisa Ribas[\*](https://www.instagram.com/lmlrpt), Luís Pinto Nunes[\*](https://www.instagram.com/luis_pinto_nunes)), Dundee, 2025.
 
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed. Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh)), 2025.
 
