@@ -59,7 +59,7 @@ Invited by Irini Kalaitzidi[\*](https://irinikalaitzidi.com/) to participate in 
 
 ## 2025
 
-[Excerpts from *Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), published in gorse 12[\*](https://gorse.ie/book/no-12/) (eds: Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
+[Excerpts from *Artificial It*](https://www.instagram.com/p/DRy6syXjYB6), published in gorse 12[\*](https://gorse.ie/book/no-12/) (eds. Susan Tomaselli[\*](https://gorse.ie/about/susan-tomaselli/), Christodoulos Makris[\*](https://gorse.ie/about/christodoulos-makris/)), 2025.
 
 Two '[wereword formations](https://www.instagram.com/p/DRS1iFrDF26)' published in *Tummy Ache* Vol. 6, The Lonely Issue[\*](https://www.tummyache.co.uk/shop/p/tummy-ache-magazine-vol4)[\*](https://www.instagram.com/p/DRCVeKIjHAa) (ed. Anna Morrissey[\*](https://www.instagram.com/annamorrissey)), 2025.
 
@@ -73,7 +73,7 @@ Excerpts from *Lacanage*, published in Still Point[\*](https://www.stillpointldn
 
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), published in The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (ed. Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh)), 2025.
 
-[*Chains*](https://www.tiltedhouse.org/tilt0005-j), published in TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (eds: Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
+[*Chains*](https://www.tiltedhouse.org/tilt0005-j), published in TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (eds. Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
 
 Panelist for [*Antenna: Where Signals Meet*](https://www.instagram.com/p/DKrxpdxNv1G), MFA Computational Arts Work-in-Progress 2 Show, 2025, Goldsmiths College, London. With Rebecca Aston[\*](https://rebeccaaston.com/), Patrick Hartono[\*](https://patrickhartono.com/), Katie Tindle[\*](https://katietindle.co.uk/) and Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/).
 
@@ -93,7 +93,7 @@ Curation and workshops for the [TEA, TECH + EXCHANGE](https://www.tate.org.uk/wh
 
 [Excerpts from *Chains*](https://admin870641.wixsite.com/vernacular/jeremie-wenger/from-chains), published in Vernacular[\*](https://admin870641.wixsite.com/vernacular), 2024.
 
-[Excerpts from *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), published in Strings 2[\*](https://stringsmag.com/strings-2) (eds: Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera)), 2024.
+[Excerpts from *Lacanage*](https://stringsmag.com/strings-2-jeremie-wenger), published in Strings 2[\*](https://stringsmag.com/strings-2) (eds. Alex Aspden[\*](https://alexaspden.com/) & Alex Keramidas[\*](https://www.instagram.com/alexandrakera)), 2024.
 
 Nik Papageorgiou, [*Large Language Models feel the direction of time*](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/) (French version in [*Dimensions* 15, le journal de l'éducation, la recherche et l'innovation de l'EPFL](https://actu.epfl.ch/news/large-language-models-feel-the-direction-of-time/), p. 10), EPFL, 2024.
 
