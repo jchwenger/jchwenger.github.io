@@ -73,7 +73,7 @@ Extraits de *Lacanage*, publiés dans Still Point[\*](https://www.stillpointldn.
 
 [*Cubes*](https://thenewriverjournal.org/cubes-by-jeremie-wenger/), publié dans The New River Issue XLIX 2025[\*](https://thenewriverjournal.org/category/spring-2025-issue/) (éd. Riley O’Mearns[\*](https://www.instagram.com/rileyohhhh)), 2025.
 
-[*Chains*](https://www.tiltedhouse.org/tilt0005-j), publié dans TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (éds: Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
+[*Chains*](https://www.tiltedhouse.org/tilt0005-j), publié dans TILT 0005[\*](https://www.tiltedhouse.org/tilt-0005) (éds Henry Goldkamp[\*](https://www.henrygoldkamp.com/), Nam Hoang Tran[\*](https://namhtran.carrd.co)), 2025.
 
 Panéliste pour [*Antenna: Where Signals Meet*](https://www.instagram.com/p/DKrxpdxNv1G), MFA Computational Arts Work-in-Progress 2 Show, 2025, Goldsmiths College, Londres. Avec Rebecca Aston[\*](https://rebeccaaston.com/), Patrick Hartono[\*](https://patrickhartono.com/), Katie Tindle[\*](https://katietindle.co.uk/) et Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/).
 
