@@ -34,7 +34,7 @@ Pr. Clément Hongler, mathematician and AI researcher
 Claire de Ribaupierre, dramaturge  
 Marc Riner, IT designer  
 Lucas Savioz, comedian (Manufacture graduate 2018)  
-Batrek Sozanski, comedian, HES research assistant  
+Bartek Sozanski, comedian, HES research assistant  
 Elsa Thébault, comedian (Manufacture graduate 2019)  
 Lisa Veyrier, comedian (Manufacture graduate 2016), HES research assistant  
 Jérémie Wenger, writer and programmer
