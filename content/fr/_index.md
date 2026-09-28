@@ -49,6 +49,10 @@ Trois *Carrés*, à paraître dans *(Parentheses) Review*[\*](https://www.parent
 
 "Con\[straint\] Job: Freedom, stricture & algorithms in literary practice, with a Sestina workshop", durant *The Evolving Studio: Artists Working with Technology*[\*](https://www.tate.org.uk/whats-on/tate-modern/the-evolving-studio-artists-working-with-technology) (curation Annie Bicknell[\*](https://www.instagram.com/annie.a.bicknell/), Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/)), Tate Modern, 26 Septembre 2026.
 
+["Neural Text Generator"](/text-generator), éditeur de texte web integrant des LLMs de base (pas fine-tunés pour le dialogue) de HuggingFace[\*](https://huggingface.co/models?library=transformers.js&pipeline_tag=text-generation&sort=downloads), 2026. JavaScript, Transformers.js
+
+["Sestina: The Expanded Universe"](/sestina-generator), web interface pour faciliter le travail sur les sextines généralisées (« omnines »), 2026. JavaScript
+
 « The Corridor », fiction, publié dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 « rebut\|robot », publié dans le Projet éditorial Arkhaï[\*](https://arkhai.com/) (post: [\*](https://www.instagram.com/p/DZy_7G4jBUZ)), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python

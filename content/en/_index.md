@@ -49,6 +49,10 @@ Three *Squares*, to be published in *(Parentheses) Review*[\*](https://www.paren
 
 "Con\[straint\] Job: Freedom, stricture & algorithms in literary practice, with a Sestina workshop", as part of *The Evolving Studio: Artists Working with Technology*[\*](https://www.tate.org.uk/whats-on/tate-modern/the-evolving-studio-artists-working-with-technology) (curation Annie Bicknell[\*](https://www.instagram.com/annie.a.bicknell/), Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/)), Tate Modern, 26 September 2026.
 
+["Neural Text Generator"](/text-generator), web text editor integrating base (not instruction-tuned for chat) LLMs from HuggingFace[\*](https://huggingface.co/models?library=transformers.js&pipeline_tag=text-generation&sort=downloads), 2026. JavaScript, Transformers.js
+
+["Sestina: The Expanded Universe"](/sestina-generator), web interface to facilitate the work on generalised sestinas ("omninas"), 2026. JavaScript
+
 "The Corridor", fiction, published in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 "rebut\|robot", published in Projet éditorial Arkhaï[\*](https://arkhai.com/) (post: [\*](https://www.instagram.com/p/DZy_7G4jBUZ)), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using 'werewords'. Shell/Python
