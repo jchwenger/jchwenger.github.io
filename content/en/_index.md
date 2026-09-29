@@ -53,6 +53,8 @@ Three *Squares*, to be published in *(Parentheses) Review*[\*](https://www.paren
 
 ["Sestina: The Expanded Universe"](/sestina-generator), web interface to facilitate the work on generalised sestinas ("omninas"), 2026. JavaScript
 
+*Editors*. Suite of text editors for various modalities of writing with local LLMs, 2026. llama.cpp[\*](https://github.com/ggml-org/llama.cpp) and Transformers[\*](https://huggingface.co/docs/transformers/index)
+
 "The Corridor", fiction, published in [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 "rebut\|robot", published in Projet éditorial Arkhaï[\*](https://arkhai.com/) (post: [\*](https://www.instagram.com/p/DZy_7G4jBUZ)), 2026. Dataset filtering and rewriting pipeline around the theme of waste, using 'werewords'. Shell/Python

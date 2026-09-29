@@ -53,6 +53,8 @@ Trois *Carrés*, à paraître dans *(Parentheses) Review*[\*](https://www.parent
 
 ["Sestina: The Expanded Universe"](/sestina-generator), web interface pour faciliter le travail sur les sextines généralisées (« omnines »), 2026. JavaScript
 
+*Editors* (« *Éditeurs* »). Suite d'éditeurs de texte pour diverses modalités d'écriture avec des LLMs locaux, 2026. llama.cpp[\*](https://github.com/ggml-org/llama.cpp) et Transformers[\*](https://huggingface.co/docs/transformers/index)
+
 « The Corridor », fiction, publié dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
 
 « rebut\|robot », publié dans le Projet éditorial Arkhaï[\*](https://arkhai.com/) (post: [\*](https://www.instagram.com/p/DZy_7G4jBUZ)), 2026. Pipeline de filtrage et de réécriture de datasets autour du thème du déchet utilisant des « mots-garous » (anciennement « mots siamois »). Shell/Python
