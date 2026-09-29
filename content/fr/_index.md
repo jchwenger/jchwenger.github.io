@@ -53,6 +53,8 @@ Trois *Carrés*, à paraître dans *(Parentheses) Review*[\*](https://www.parent
 
 ["Sestina: The Expanded Universe"](/sestina-generator), web interface pour faciliter le travail sur les sextines généralisées (« omnines »), 2026. JavaScript
 
+*Braids* (« *Tresses* »). Écriture au tour par tour avec des LLMs locaux, utilisant un éditeur de texte fait sur mesure, 2026.
+
 *Editors* (« *Éditeurs* »). Suite d'éditeurs de texte pour diverses modalités d'écriture avec des LLMs locaux, 2026. llama.cpp[\*](https://github.com/ggml-org/llama.cpp) et Transformers[\*](https://huggingface.co/docs/transformers/index)
 
 « The Corridor », fiction, publié dans [*APT: THRESHOLDS*](https://aptexhibitions.com/), 2026.
