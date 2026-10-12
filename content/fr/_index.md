@@ -41,11 +41,15 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## À paraître
 
-Extraits de *Chaînes*, à paraître dans *Pebbles*, Vol. 7, *petrichor*[\*](https://petrichormag.com/) (éd. Seth Copeland[\*](https://petrichormag.com/about/)), 2026.
+*Ways of Braiding: écriture au tour-par-tour avec des LLMs** (post: [\*](https://www.instagram.com/p/DeT0-3UCF-Z/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==)), une présentation de la série *Braids* (« tresses »), couvrant l'inspiration initiale, le processus d'écriture, ainsi que des idées pour le futur, Goldsmiths College, London, vendredi 23 Octobre 2026.
+
+Extraits de *Braids* (post: [\*](https://www.instagram.com/p/DeTzX2AiCn2/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)), à venir dans l'exposition Manifold3.0[\*](https://www.doc.gold.ac.uk/manifold/) (insta[\*](https://www.instagram.com/manifold.exhibition/)), St James Hatcham, Goldsmiths College, London, SE14 6AD, mercredi 21 Octobre 2026.
 
 Trois *Carrés*, à paraître dans *(Parentheses) Review*[\*](https://www.parenthesesreview.com/about) 1 (éd. Brendton Steele[\*](https://www.parenthesesreview.com/author/brendton-steele)).
 
 ## 2026
+
+Extraits de *Chaînes*, publié dans [*Pebbles*, Vol. 7](https://petrichormag.com/31-pebbles-vol-7/), *petrichor* (éd. Seth Copeland[\*](https://petrichormag.com/about/)), 2026.
 
 "Con\[straint\] Job: Freedom, stricture & algorithms in literary practice, with a Sestina workshop", durant *The Evolving Studio: Artists Working with Technology*[\*](https://www.tate.org.uk/whats-on/tate-modern/the-evolving-studio-artists-working-with-technology) (curation Annie Bicknell[\*](https://www.instagram.com/annie.a.bicknell/), Rachel Falconer[\*](https://www.gold.ac.uk/computing/people/r-falconer/)), Tate Modern, 26 Septembre 2026.
 
