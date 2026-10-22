@@ -41,6 +41,8 @@ Jérémie Wenger est né en Suisse, mais est basé actuellement à Londres. Les 
 
 ## À paraître
 
+"Small (or large) machines made of words" (« Petites (ou grandes) machines faites de mots »)[\*](https://www.tickettailor.com/events/peckhamdigital/2434190), workshop avec Iris Colomb[\*](https://iriscolomb.com/), Peckham Digital, 2026.
+
 *Ways of Braiding: écriture au tour-par-tour avec des LLMs** (post: [\*](https://www.instagram.com/p/DeT0-3UCF-Z/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==)), une présentation de la série *Braids* (« tresses »), couvrant l'inspiration initiale, le processus d'écriture, ainsi que des idées pour le futur, Goldsmiths College, London, vendredi 23 Octobre 2026.
 
 Extraits de *Braids* (post: [\*](https://www.instagram.com/p/DeTzX2AiCn2/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)), à venir dans l'exposition Manifold3.0[\*](https://www.doc.gold.ac.uk/manifold/) (insta[\*](https://www.instagram.com/manifold.exhibition/)), St James Hatcham, Goldsmiths College, London, SE14 6AD, mercredi 21 Octobre 2026.

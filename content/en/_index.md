@@ -41,6 +41,8 @@ Jérémie Wenger is a Swiss writer based in London. Impasses around expression, 
 
 ## Forthcoming
 
+"Small (or large) machines made of words"[\*](https://www.tickettailor.com/events/peckhamdigital/2434190), workshop with Iris Colomb[\*](https://iriscolomb.com/), Peckham Digital, 2026.
+
 *Ways of Braiding: turn-by-turn writing with LLMs* (post: [\*](https://www.instagram.com/p/DeT0-3UCF-Z/?utm_source=ig_web_copy_link&srtk=MzRlODBiNWFlZA==)), a talk presenting the series *Braids*, including the initial inspiration, the writing process, and thoughts for the future, Goldsmiths College, London, Friday October 23 2026.
 
 Excerpts from *Braids* (post: [\*](https://www.instagram.com/p/DeTzX2AiCn2/?utm_source=ig_web_copy_link&mdxt=MzRlODBiNWFlZA==&srtk=MzRlODBiNWFlZA==)), to be presented at Manifold3.0[\*](https://www.doc.gold.ac.uk/manifold/) (insta[\*](https://www.instagram.com/manifold.exhibition/)), St James Hatcham, Goldsmiths College, London, SE14 6AD, Wednesday October 21 2026.
