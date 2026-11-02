@@ -185,24 +185,24 @@ jour.
 
 {{< separators type="blank" >}}
 
-{{< gallery id="posters" caption="Design: Lior Ben-Gai[\*](https://soog.bet/), Mirko Febbo[\*](https://www.mirkofebbo.com/) and Daniel Berio[\*](https://www.enist.org/)" cols=2 >}}
+{{< gallery id="posters" caption="Design: Lior Ben-Gai[\*](https://soog.bet/), Mirko Febbo[\*](https://www.mirkofebbo.com/) et Daniel Berio[\*](https://www.enist.org/)" cols=2 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="symposium" caption="" cols=1 >}}
+{{< gallery id="symposium" caption="Design: Owen Planchart[\*](https://www.owenplanch.art/) et Mirko Febbo[\*](https://www.mirkofebbo.com/)" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="cunningham" caption="*Photographies: Alan Cunningham.*" cols=3 >}}
+{{< gallery id="cunningham" caption="*Photographies: Alan Cunningham*" cols=3 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger-before" caption="*Photographies & vidéos: Jérémie Wenger.*" cols=2 >}}
+{{< gallery id="wenger-before" caption="*Photographies & vidéos: Jérémie Wenger*" cols=2 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger-show" caption="*Photographies & vidéos: Jérémie Wenger.*" cols=2 >}}
+{{< gallery id="wenger-show" caption="*Photographies & vidéos: Jérémie Wenger*" cols=2 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger-other" caption="*Photographies & vidéos: Jérémie Wenger.*" cols=2 >}}
+{{< gallery id="wenger-other" caption="*Photographies & vidéos: Jérémie Wenger*" cols=2 >}}

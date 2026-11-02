@@ -180,7 +180,7 @@ Excerpts from *Braids* (posts: [\*](https://www.instagram.com/p/DeTzX2AiCn2/?utm
 
 Huge thanks to Owen Planchart[\*](https://www.owenplanch.art/), Jesse
 Wolpert[\*](https://www.jessewolpert.com/), as well as other members of the
-tech team at Goldsmiths, without whom this show would not have come the light
+tech team at Goldsmiths, without whom this show would not have seen the light
 of day.
 
 {{< separators type="blank" >}}
@@ -189,20 +189,20 @@ of day.
 
 {{< separators type="blank" >}}
 
-{{< gallery id="symposium" caption="" cols=1 >}}
+{{< gallery id="symposium" caption="Design: Owen Planchart[\*](https://www.owenplanch.art/) and Mirko Febbo[\*](https://www.mirkofebbo.com/)" cols=1 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="cunningham" caption="*Photographs: Alan Cunningham.*" cols=3 >}}
+{{< gallery id="cunningham" caption="*Photographs: Alan Cunningham*" cols=3 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger-before" caption="*Photographs & videos: Jérémie Wenger.*" cols=2 >}}
+{{< gallery id="wenger-before" caption="*Photographs & videos: Jérémie Wenger*" cols=2 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger-show" caption="*Photographs & videos: Jérémie Wenger.*" cols=2 >}}
+{{< gallery id="wenger-show" caption="*Photographs & videos: Jérémie Wenger*" cols=2 >}}
 
 {{< separators type="blank" >}}
 
-{{< gallery id="wenger-other" caption="*Photographs & videos: Jérémie Wenger.*" cols=2 >}}
+{{< gallery id="wenger-other" caption="*Photographs & videos: Jérémie Wenger*" cols=2 >}}
