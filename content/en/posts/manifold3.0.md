@@ -2,7 +2,6 @@
 date: '2026-11-02T11:39:26+01:00'
 title: '*Braids* @ Manifold3.0, 2026'
 translationKey:
-draft: true
 
 gallery:
  - posters:
