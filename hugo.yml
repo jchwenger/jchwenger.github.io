@@ -3,7 +3,7 @@ theme: hugo-tufte
 # Remove this if your site folder is not inside the theme folder
 # themesDir: "../.."
 # The language of your website (see https://www.andiamo.co.uk/resources/iso-language-codes/ for reference)
-languageCode: en-GB
+locale: en-GB
 # If you write Chinese, Japanese or Korean, this helps with word counting
 hasCJKLanguage: true
 # The url of your website
@@ -65,11 +65,11 @@ defaultContentLanguage: en
 languages:
   en:
     contentDir: content/en
-    languageName: Anglais
+    label: Anglais
     weight: 1
   fr:
     contentDir: content/fr
-    languageName: French
+    label: French
     weight: 2
 
 # -----------------------------------------------------------------------
